@@ -1,0 +1,395 @@
+{
+ "digest": "d4b2907e5c3a18f6d4b2907e5c3a18f6d4b2907e5c3a18f6d4b2907e5c3a18f6",
+ "checked_at": "2026-10-29T14:14:05",
+ "columns": {
+  "C": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+  "D": "Budget vs Actual (Target vs Revenue)",
+  "E": "Annual Marketing Budget Planner FY26-27",
+  "F": "Marketing Activity Status (Campaign wise & Month wise)",
+  "G": "Market / Industry Sales & Share (competitor-wise monthly)",
+  "H": "Competitor Digital & Activity Data",
+  "I": "Competitor Offline marketing Activity Data",
+  "J": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+  "K": "Strategic Marketing Analysis Dashboard link by Strategic Planning & Analysis Team"
+ },
+ "links": {
+  "Nexa Cement Company LTD|C": {
+   "sbu": "Nexa Cement Company LTD",
+   "column": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+   "label": "Customer Wise Target Set [FY 2026-27] 01.07.26 V2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Cement Company LTD|D": {
+   "sbu": "Nexa Cement Company LTD",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "NXCMT_Budget vs Actual (Target vs Revenue)2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Cement Company LTD|E": {
+   "sbu": "Nexa Cement Company LTD",
+   "column": "Annual Marketing Budget Planner FY26-27",
+   "label": "Copy of NXCMT Marketing Budget_2026-27  V-1",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Cement Company LTD|G": {
+   "sbu": "Nexa Cement Company LTD",
+   "column": "Market / Industry Sales & Share (competitor-wise monthly)",
+   "label": "NXCMT_Market Share2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Cement Company LTD|H": {
+   "sbu": "Nexa Cement Company LTD",
+   "column": "Competitor Digital & Activity Data",
+   "label": "1. Cement Competitors Digital Media Frequency\n2. Copy of Cement Competitors Digital Media Frequency",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Cement Company LTD|J": {
+   "sbu": "Nexa Cement Company LTD",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Essentials LTD|C": {
+   "sbu": "Nexa Essentials LTD",
+   "column": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+   "label": "NXESS Sales Forecast & Collection Monthly 2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Essentials LTD|D": {
+   "sbu": "Nexa Essentials LTD",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "NXESS Brand TGT vs ACH 2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Essentials LTD|F": {
+   "sbu": "Nexa Essentials LTD",
+   "column": "Marketing Activity Status (Campaign wise & Month wise)",
+   "label": "NXESS Marketing Gantt Chart FY 2026-27 2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Essentials LTD|G": {
+   "sbu": "Nexa Essentials LTD",
+   "column": "Market / Industry Sales & Share (competitor-wise monthly)",
+   "label": "Martket Share Dat H1 2025-26 2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Essentials LTD|H": {
+   "sbu": "Nexa Essentials LTD",
+   "column": "Competitor Digital & Activity Data",
+   "label": "Nexa Essential Data",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Essentials LTD|J": {
+   "sbu": "Nexa Essentials LTD",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "Nexa AgroFeeds|K": {
+   "sbu": "Nexa AgroFeeds",
+   "column": "Strategic Marketing Analysis Dashboard link by Strategic Planning & Analysis Team",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Steel|C": {
+   "sbu": "Nexa Steel",
+   "column": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+   "label": "Copy of NXD_Dealer Wise Target vs Achv._FY 26-27",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Steel|D": {
+   "sbu": "Nexa Steel",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "NXSTL_2nd Quarter Planning of FY 2026-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Steel|F": {
+   "sbu": "Nexa Steel",
+   "column": "Marketing Activity Status (Campaign wise & Month wise)",
+   "label": "Marketing Budget.NXSTL.26-27 (First Version)2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Steel|H": {
+   "sbu": "Nexa Steel",
+   "column": "Competitor Digital & Activity Data",
+   "label": "Steel (TMT) Competitors Digital Media Frequency2g",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Steel|I": {
+   "sbu": "Nexa Steel",
+   "column": "Competitor Offline marketing Activity Data",
+   "label": "Nexa Steel Competitor Analysis.2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Steel|J": {
+   "sbu": "Nexa Steel",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Readymix Concrete|D": {
+   "sbu": "Nexa Readymix Concrete",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "NXRMC & NXASP Sales Target Achievement Status at October' 262",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Readymix Concrete|E": {
+   "sbu": "Nexa Readymix Concrete",
+   "column": "Annual Marketing Budget Planner FY26-27",
+   "label": "NXRMC Brand Budget_2026-27 2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Readymix Concrete|F": {
+   "sbu": "Nexa Readymix Concrete",
+   "column": "Marketing Activity Status (Campaign wise & Month wise)",
+   "label": "NXRMC Brand Budget_2026-27 2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Readymix Concrete|G": {
+   "sbu": "Nexa Readymix Concrete",
+   "column": "Market / Industry Sales & Share (competitor-wise monthly)",
+   "label": "Month wise sales comparison2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Readymix Concrete|H": {
+   "sbu": "Nexa Readymix Concrete",
+   "column": "Competitor Digital & Activity Data",
+   "label": "Competitor_Digital_Media_Activity_Sheet_Oct202632.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Readymix Concrete|J": {
+   "sbu": "Nexa Readymix Concrete",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Electronics Limited|C": {
+   "sbu": "Nexa Electronics Limited",
+   "column": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+   "label": "NXEL Forecast 2027 Showroom2.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Electronics Limited|D": {
+   "sbu": "Nexa Electronics Limited",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "PORTAL Sales Status_19 Oct 20262.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Electronics Limited|E": {
+   "sbu": "Nexa Electronics Limited",
+   "column": "Annual Marketing Budget Planner FY26-27",
+   "label": "Approved_ORCA_Monthly_LineItem_Budget_FY2026-27 (2).xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Electronics Limited|F": {
+   "sbu": "Nexa Electronics Limited",
+   "column": "Marketing Activity Status (Campaign wise & Month wise)",
+   "label": "Copy of PORTAL budget tracker",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Electronics Limited|G": {
+   "sbu": "Nexa Electronics Limited",
+   "column": "Market / Industry Sales & Share (competitor-wise monthly)",
+   "label": "Copy of Competitor_Market_Share__2026.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Electronics Limited|H": {
+   "sbu": "Nexa Electronics Limited",
+   "column": "Competitor Digital & Activity Data",
+   "label": "Nexa Electronics Limited2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Electronics Limited|J": {
+   "sbu": "Nexa Electronics Limited",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Mediplex|C": {
+   "sbu": "Nexa Mediplex",
+   "column": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+   "label": "Nexa_Mediplex Sales Data2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Mediplex|D": {
+   "sbu": "Nexa Mediplex",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "Nexa_Mediplex_Budget_vs_Actual_Jul-Sep_20262",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Mediplex|E": {
+   "sbu": "Nexa Mediplex",
+   "column": "Annual Marketing Budget Planner FY26-27",
+   "label": "Mediplex_Mirpur_Proposed_New_Budget_Planner 26-272.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Mediplex|F": {
+   "sbu": "Nexa Mediplex",
+   "column": "Marketing Activity Status (Campaign wise & Month wise)",
+   "label": "Nexa_Mediplex_Marketing_Budget_Tracker_FY2026-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Mediplex|G": {
+   "sbu": "Nexa Mediplex",
+   "column": "Market / Industry Sales & Share (competitor-wise monthly)",
+   "label": "Competitor Information2.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Mediplex|H": {
+   "sbu": "Nexa Mediplex",
+   "column": "Competitor Digital & Activity Data",
+   "label": "Nexa Mediplex2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Mediplex|I": {
+   "sbu": "Nexa Mediplex",
+   "column": "Competitor Offline marketing Activity Data",
+   "label": "Competitor Information21.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Mediplex|J": {
+   "sbu": "Nexa Mediplex",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Care Pharmacy|C": {
+   "sbu": "Nexa Care Pharmacy",
+   "column": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+   "label": "Sales Growth Analysis on Outlet Wise2.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Care Pharmacy|D": {
+   "sbu": "Nexa Care Pharmacy",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "Budget_vs_Actual_Target_vs_Revenue2.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Care Pharmacy|E": {
+   "sbu": "Nexa Care Pharmacy",
+   "column": "Annual Marketing Budget Planner FY26-27",
+   "label": "Nexa Care Pharmacy Mkt Budget (26-27)1.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Care Pharmacy|F": {
+   "sbu": "Nexa Care Pharmacy",
+   "column": "Marketing Activity Status (Campaign wise & Month wise)",
+   "label": "Nexa Care Pharmacy Mkt Budget (26-27)2.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Care Pharmacy|G": {
+   "sbu": "Nexa Care Pharmacy",
+   "column": "Market / Industry Sales & Share (competitor-wise monthly)",
+   "label": "Market / Industry Sales & Share (competitor-wise monthly)2",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Care Pharmacy|H": {
+   "sbu": "Nexa Care Pharmacy",
+   "column": "Competitor Digital & Activity Data",
+   "label": "Nexa_Pharmacy_Competitor_Data2.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Care Pharmacy|J": {
+   "sbu": "Nexa Care Pharmacy",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Jobs|C": {
+   "sbu": "Nexa Jobs",
+   "column": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+   "label": "Nexa Jobs Strategic Marketing Analysis — Source Files FY26-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Jobs|D": {
+   "sbu": "Nexa Jobs",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "Nexa Jobs Strategic Marketing Analysis — Source Files FY26-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Jobs|E": {
+   "sbu": "Nexa Jobs",
+   "column": "Annual Marketing Budget Planner FY26-27",
+   "label": "Nexa Jobs Strategic Marketing Analysis — Source Files FY26-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Jobs|F": {
+   "sbu": "Nexa Jobs",
+   "column": "Marketing Activity Status (Campaign wise & Month wise)",
+   "label": "Nexa Jobs Strategic Marketing Analysis — Source Files FY26-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Jobs|G": {
+   "sbu": "Nexa Jobs",
+   "column": "Market / Industry Sales & Share (competitor-wise monthly)",
+   "label": "Nexa Jobs Strategic Marketing Analysis — Source Files FY26-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Jobs|H": {
+   "sbu": "Nexa Jobs",
+   "column": "Competitor Digital & Activity Data",
+   "label": "Nexa Jobs Strategic Marketing Analysis — Source Files FY26-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Jobs|I": {
+   "sbu": "Nexa Jobs",
+   "column": "Competitor Offline marketing Activity Data",
+   "label": "Nexa Jobs Strategic Marketing Analysis — Source Files FY26-272",
+   "url": "https://demo.example.com"
+  },
+  "Nexa Jobs|J": {
+   "sbu": "Nexa Jobs",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  },
+  "NEXA AIR|C": {
+   "sbu": "NEXA AIR",
+   "column": "Sales Forecast & Collection Monthly (SKU wise if possible)",
+   "label": "Q1 Sales Data 2",
+   "url": "https://demo.example.com"
+  },
+  "NEXA AIR|D": {
+   "sbu": "NEXA AIR",
+   "column": "Budget vs Actual (Target vs Revenue)",
+   "label": "1. Budget vs Actual2 \n2. 14. Nexa Air Services Ltd_Budget 2026-20272.xlsx",
+   "url": "https://demo.example.com"
+  },
+  "NEXA AIR|E": {
+   "sbu": "NEXA AIR",
+   "column": "Annual Marketing Budget Planner FY26-27",
+   "label": "Nexa_Air_Budget_Planner2",
+   "url": "https://demo.example.com"
+  },
+  "NEXA AIR|F": {
+   "sbu": "NEXA AIR",
+   "column": "Marketing Activity Status (Campaign wise & Month wise)",
+   "label": "Nexa_Air_Budget_Planner22",
+   "url": "https://demo.example.com"
+  },
+  "NEXA AIR|G": {
+   "sbu": "NEXA AIR",
+   "column": "Market / Industry Sales & Share (competitor-wise monthly)",
+   "label": "Market Share 2",
+   "url": "https://demo.example.com"
+  },
+  "NEXA AIR|H": {
+   "sbu": "NEXA AIR",
+   "column": "Competitor Digital & Activity Data",
+   "label": "NEXA AIR",
+   "url": "https://demo.example.com"
+  },
+  "NEXA AIR|I": {
+   "sbu": "NEXA AIR",
+   "column": "Competitor Offline marketing Activity Data",
+   "label": "OTA Competitor  Analysis 2",
+   "url": "https://demo.example.com"
+  },
+  "NEXA AIR|J": {
+   "sbu": "NEXA AIR",
+   "column": "Strategic Marketing Analysis Dashboard link by Brand Custodian",
+   "label": "https://demo.example.com",
+   "url": "https://demo.example.com"
+  }
+ }
+}

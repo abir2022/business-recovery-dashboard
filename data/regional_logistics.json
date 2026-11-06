@@ -1,0 +1,115 @@
+{
+ "sbu": "NXLOG",
+ "name": "Nexa Logistics",
+ "own_period": "FY26 shipment register",
+ "market_period": "Q1 FY25 (USD m) — latest available in the file",
+ "own_total_cbm": 2215.3,
+ "market_total_usd_m": 24251,
+ "unmapped_destinations": [
+  {
+   "destination": "",
+   "shipments": 7
+  },
+  {
+   "destination": "Zimbabwe",
+   "shipments": 1
+  },
+  {
+   "destination": "Georgia",
+   "shipments": 1
+  }
+ ],
+ "lanes": [
+  {
+   "lane": "Africa",
+   "own_cbm": 3.1,
+   "own_share_pct": 0.2,
+   "market_usd_m": 989,
+   "market_share_pct": 4.0,
+   "index": 0.04,
+   "shipments": 2
+  },
+  {
+   "lane": "Central Asia",
+   "own_cbm": 0,
+   "own_share_pct": 0,
+   "market_usd_m": 159,
+   "market_share_pct": 0.7,
+   "index": 0,
+   "shipments": 0
+  },
+  {
+   "lane": "East Asia",
+   "own_cbm": 60.7,
+   "own_share_pct": 2.4,
+   "market_usd_m": 4397,
+   "market_share_pct": 20.0,
+   "index": 0.13,
+   "shipments": 11
+  },
+  {
+   "lane": "Europe",
+   "own_cbm": 1280,
+   "own_share_pct": 60.7,
+   "market_usd_m": 4938,
+   "market_share_pct": 23,
+   "index": 2.15,
+   "shipments": 105
+  },
+  {
+   "lane": "Middle East",
+   "own_cbm": 29,
+   "own_share_pct": 1.2,
+   "market_usd_m": 1956,
+   "market_share_pct": 10.4,
+   "index": 0.12,
+   "shipments": 5
+  },
+  {
+   "lane": "North America",
+   "own_cbm": 268.4,
+   "own_share_pct": 12.3,
+   "market_usd_m": 3300,
+   "market_share_pct": 17,
+   "index": 0.79,
+   "shipments": 49
+  },
+  {
+   "lane": "Oceania",
+   "own_cbm": 0,
+   "own_share_pct": 0,
+   "market_usd_m": 147,
+   "market_share_pct": 0.7,
+   "index": 0,
+   "shipments": 0
+  },
+  {
+   "lane": "South America",
+   "own_cbm": 171.7,
+   "own_share_pct": 8.2,
+   "market_usd_m": 1241,
+   "market_share_pct": 6.0,
+   "index": 1.39,
+   "shipments": 19
+  },
+  {
+   "lane": "South Asia",
+   "own_cbm": 420.7,
+   "own_share_pct": 21.1,
+   "market_usd_m": 2595,
+   "market_share_pct": 9.1,
+   "index": 1.93,
+   "shipments": 28
+  },
+  {
+   "lane": "Southeast Asia",
+   "own_cbm": 37.8,
+   "own_share_pct": 1.5,
+   "market_usd_m": 2298,
+   "market_share_pct": 9.4,
+   "index": 0.15,
+   "shipments": 3
+  }
+ ],
+ "note": "Market value is USD; own volume is CBM. A true share needs own value per lane, so this compares MIX, not share. Index = own CBM share ÷ market value share (>1 = over-exposed, <1 = under-served)."
+}

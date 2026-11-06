@@ -1,0 +1,106 @@
+[
+ {
+  "sbu": "NXCMT",
+  "name": "Nexa Cement",
+  "ours": 5.67,
+  "leader": "Falcon / Moon group",
+  "leader_share": null,
+  "basis": "Product share file · FY26 volume vs market"
+ },
+ {
+  "sbu": "NXESS",
+  "name": "Nexa Essentials",
+  "ours": null,
+  "leader": null,
+  "leader_share": null,
+  "basis": "Consumer Goods tab is a multi-block sheet (Chinigura, rice, flour, oil side by side); the SBU-level share could not be parsed. The 24.62% seen earlier was the table-rice product line only, not the Nexa Essentials SBU."
+ },
+ {
+  "sbu": "NXSTL",
+  "name": "Nexa Steel",
+  "ours": 3.6,
+  "leader": "Boral Steel",
+  "leader_share": 32,
+  "basis": "Marketing sheet Mar'26 benchmark (Jul'25 2.2% → Mar'26 4.2%)"
+ },
+ {
+  "sbu": "NXRMC",
+  "name": "Nexa Readymix",
+  "ours": 9.7,
+  "leader": "Falcon Cement RMC",
+  "leader_share": 26.5,
+  "basis": "Market benchmark · Sep-26 monthly"
+ },
+ {
+  "sbu": "NXASP",
+  "name": "Nexa Asphalt",
+  "ours": 0.2,
+  "leader": "Padma Refinery (PRC)",
+  "leader_share": null,
+  "basis": "Lube oil line only"
+ },
+ {
+  "sbu": "NXEL",
+  "name": "Nexa Electronics",
+  "ours": 0.1,
+  "leader": "Telebarsha Digital",
+  "leader_share": 26,
+  "basis": "Brand pack · PORTAL <0.1%"
+ },
+ {
+  "sbu": "NXCBX",
+  "name": "Nexa Commodities",
+  "ours": null,
+  "leader": null,
+  "leader_share": null,
+  "basis": "no share file"
+ },
+ {
+  "sbu": "NXPH",
+  "name": "Nexa Care Pharmacy",
+  "ours": null,
+  "leader": "Ook / Astra",
+  "leader_share": null,
+  "basis": "no share file"
+ },
+ {
+  "sbu": "NXMDX",
+  "name": "Nexa Mediplex",
+  "ours": null,
+  "leader": "Padma Diagnostic",
+  "leader_share": null,
+  "basis": "no share file"
+ },
+ {
+  "sbu": "NXTEL",
+  "name": "Nexa Telecom",
+  "ours": null,
+  "leader": null,
+  "leader_share": null,
+  "basis": "no share file"
+ },
+ {
+  "sbu": "NXJOB",
+  "name": "Nexa Jobs",
+  "ours": null,
+  "leader": "BDkormo",
+  "leader_share": null,
+  "basis": "no share file"
+ },
+ {
+  "sbu": "NXITX",
+  "name": "Nexa Infotech",
+  "ours": null,
+  "leader": null,
+  "leader_share": null,
+  "basis": "no share file"
+ },
+ {
+  "sbu": "NXLOG",
+  "name": "Nexa Logistics",
+  "ours": null,
+  "leader": "Meris Logistics",
+  "leader_share": 11.45,
+  "basis": "sea-export forwarder share (item 50: Maersk 9.99% · KN 8.38% · MGH 7.41%)"
+ }
+]

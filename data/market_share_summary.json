@@ -1,0 +1,572 @@
+[
+ {
+  "tab": "Consumer Goods",
+  "sbu": "NXESS",
+  "mapping_confidence": "medium",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Dec'25",
+   "FY 2023-24",
+   "FY 2024-25",
+   "Feb'26",
+   "Jan'26",
+   "Jul'26",
+   "Jun'26",
+   "Mar'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 15,
+  "total_row": true,
+  "partial_months": [
+   "Apr'26",
+   "Feb'26",
+   "Mar'26",
+   "Nov'26"
+  ],
+  "shifted_cells": 0,
+  "records": 447,
+  "share_q4_q1": {
+   "rows": [],
+   "ours": null,
+   "top_gainer": null,
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "South East Hajj & Air",
+  "sbu": "NXLOG",
+  "mapping_confidence": "low",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Dec'25",
+   "FY 2023-24",
+   "FY 2024-25",
+   "Feb'26",
+   "Jan'26",
+   "Jul'26",
+   "Jun'26",
+   "Mar'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 20,
+  "total_row": false,
+  "partial_months": [
+   "Apr'26",
+   "Aug'26",
+   "Jul'26",
+   "Jun'26",
+   "May'26"
+  ],
+  "shifted_cells": 187,
+  "records": 302,
+  "share_q4_q1": {
+   "rows": [
+    {
+     "company": "USB OTA Tripowner",
+     "q4_share": 4,
+     "q1_share": 5.79,
+     "delta_pp": 2.73
+    },
+    {
+     "company": "USB OTA Firstjourney",
+     "q4_share": 3,
+     "q1_share": 5,
+     "delta_pp": 2
+    },
+    {
+     "company": "B Frestho",
+     "q4_share": 5,
+     "q1_share": 4,
+     "delta_pp": -2
+    },
+    {
+     "company": "GOZAROO",
+     "q4_share": 4.38,
+     "q1_share": 4,
+     "delta_pp": -0.6
+    },
+    {
+     "company": "SHAIRTRIP",
+     "q4_share": 4.65,
+     "q1_share": 3.13,
+     "delta_pp": -1
+    },
+    {
+     "company": "BDfair",
+     "q4_share": 4.76,
+     "q1_share": 3,
+     "delta_pp": -1.51
+    },
+    {
+     "company": "TRIPFIND (Ticket Labha)",
+     "q4_share": 2.69,
+     "q1_share": 2,
+     "delta_pp": -0.8
+    },
+    {
+     "company": "AL-RHADI TRAVELS",
+     "q4_share": 4,
+     "q1_share": 1.32,
+     "delta_pp": -2.59
+    }
+   ],
+   "ours": {
+    "company": "Nexa Air",
+    "q4_share": 1,
+    "q1_share": 0.73,
+    "delta_pp": -0.35
+   },
+   "top_gainer": {
+    "company": "USB OTA Tripowner",
+    "q4_share": 4,
+    "q1_share": 7.30,
+    "delta_pp": 2.21
+   },
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "Nexa Steel",
+  "sbu": "NXSTL",
+  "mapping_confidence": "high",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Dec'25",
+   "Dec'26",
+   "FY 2023-24",
+   "FY 2024-25",
+   "Feb'26",
+   "Jan'26",
+   "Jul'26",
+   "Jun'26",
+   "Mar'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 6,
+  "total_row": true,
+  "partial_months": [
+   "Dec'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26"
+  ],
+  "shifted_cells": 0,
+  "records": 151,
+  "share_q4_q1": {
+   "rows": [
+    {
+     "company": "Boral Steel",
+     "q4_share": 25.76,
+     "q1_share": 23.95,
+     "delta_pp": 1.8
+    },
+    {
+     "company": "AKS",
+     "q4_share": 16.2,
+     "q1_share": 15.93,
+     "delta_pp": 2.66
+    },
+    {
+     "company": "Kamal Steel",
+     "q4_share": 8.77,
+     "q1_share": 8.53,
+     "delta_pp": 0.89
+    },
+    {
+     "company": "RRA",
+     "q4_share": 4.05,
+     "q1_share": 5.23,
+     "delta_pp": 1.86
+    },
+    {
+     "company": "Anil Steel",
+     "q4_share": 3.46,
+     "q1_share": 4.3,
+     "delta_pp": 0.85
+    },
+    {
+     "company": "Gopal",
+     "q4_share": 6.50,
+     "q1_share": 3.92,
+     "delta_pp": -3.1
+    },
+    {
+     "company": "Nexa Steel",
+     "q4_share": 3.26,
+     "q1_share": 2.61,
+     "delta_pp": -0.15
+    }
+   ],
+   "ours": {
+    "company": "Nexa Steel",
+    "q4_share": 2.85,
+    "q1_share": 2.78,
+    "delta_pp": -0.14
+   },
+   "top_gainer": {
+    "company": "AKS",
+    "q4_share": 14.3,
+    "q1_share": 18.86,
+    "delta_pp": 2.69
+   },
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "Nexa Air",
+  "sbu": "NXLOG",
+  "mapping_confidence": "low",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Feb'26",
+   "Jul'26",
+   "Jun'26",
+   "Mar'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 13,
+  "total_row": false,
+  "partial_months": [],
+  "shifted_cells": 0,
+  "records": 69,
+  "share_q4_q1": {
+   "rows": [
+    {
+     "company": "USB OTA Tripowner",
+     "q4_share": 3,
+     "q1_share": 5.98,
+     "delta_pp": 2.91
+    },
+    {
+     "company": "USB OTA Firstjourney",
+     "q4_share": 3,
+     "q1_share": 5,
+     "delta_pp": 2
+    },
+    {
+     "company": "B Frestho",
+     "q4_share": 6,
+     "q1_share": 4,
+     "delta_pp": -2
+    },
+    {
+     "company": "GOZAROO",
+     "q4_share": 3.98,
+     "q1_share": 3,
+     "delta_pp": -0.6
+    },
+    {
+     "company": "SHAIRTRIP",
+     "q4_share": 4.37,
+     "q1_share": 3.53,
+     "delta_pp": -1
+    },
+    {
+     "company": "BDfair",
+     "q4_share": 3.64,
+     "q1_share": 3,
+     "delta_pp": -1.50
+    },
+    {
+     "company": "TRIPFIND (Ticket Labha)",
+     "q4_share": 2.86,
+     "q1_share": 2,
+     "delta_pp": -0.6
+    },
+    {
+     "company": "AL-RHADI TRAVELS",
+     "q4_share": 4,
+     "q1_share": 1.13,
+     "delta_pp": -3.07
+    }
+   ],
+   "ours": {
+    "company": "Nexa Air",
+    "q4_share": 1,
+    "q1_share": 0.55,
+    "delta_pp": -0.38
+   },
+   "top_gainer": {
+    "company": "USB OTA Tripowner",
+    "q4_share": 4,
+    "q1_share": 6.67,
+    "delta_pp": 2.69
+   },
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "Lube Oil",
+  "sbu": "NXASP",
+  "mapping_confidence": "wrong-proxy",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Dec'25",
+   "FY 2023-24",
+   "FY 2024-25",
+   "Feb'26",
+   "Jan'26",
+   "Jul'26",
+   "Jun'26",
+   "Mar'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 25,
+  "total_row": true,
+  "partial_months": [],
+  "shifted_cells": 130,
+  "records": 277,
+  "share_q4_q1": {
+   "rows": [
+    {
+     "company": "Kaltex",
+     "q4_share": 1,
+     "q1_share": 1,
+     "delta_pp": 0
+    },
+    {
+     "company": "Petronax",
+     "q4_share": 0,
+     "q1_share": 0,
+     "delta_pp": 0
+    },
+    {
+     "company": "Valvolyn",
+     "q4_share": 0,
+     "q1_share": 0,
+     "delta_pp": 0
+    }
+   ],
+   "ours": null,
+   "top_gainer": {
+    "company": "Kaltex",
+    "q4_share": 1,
+    "q1_share": 1,
+    "delta_pp": 0
+   },
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "Nexa Care Pharmacy",
+  "sbu": "NXPH",
+  "mapping_confidence": "high",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Dec'25",
+   "Feb'26",
+   "Jul'26",
+   "Jun'26",
+   "Mar'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 6,
+  "total_row": true,
+  "partial_months": [],
+  "shifted_cells": 35,
+  "records": 68,
+  "share_q4_q1": {
+   "rows": [],
+   "ours": null,
+   "top_gainer": null,
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "Nexa Electronics",
+  "sbu": "NXEL",
+  "mapping_confidence": "high",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Dec'26",
+   "FY 2023-24",
+   "FY 2024-25",
+   "Jul'26",
+   "Jun'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 9,
+  "total_row": true,
+  "partial_months": [
+   "Dec'26",
+   "Nov'26"
+  ],
+  "shifted_cells": 261,
+  "records": 456,
+  "share_q4_q1": {
+   "rows": [],
+   "ours": null,
+   "top_gainer": null,
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "Nexa Readymix",
+  "sbu": "NXRMC",
+  "mapping_confidence": "high",
+  "periods": [
+   "Dec'25",
+   "Jan'26"
+  ],
+  "companies": 0,
+  "total_row": false,
+  "partial_months": [],
+  "shifted_cells": 0,
+  "records": 0,
+  "share_q4_q1": {
+   "rows": [],
+   "ours": null,
+   "top_gainer": null,
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "Diagnostic Center",
+  "sbu": "NXMDX",
+  "mapping_confidence": "high",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Dec'25",
+   "Feb'26",
+   "Jan'26",
+   "Jul'26",
+   "Jun'26",
+   "Mar'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 5,
+  "total_row": false,
+  "partial_months": [
+   "Nov'26"
+  ],
+  "shifted_cells": 0,
+  "records": 54,
+  "share_q4_q1": {
+   "rows": [],
+   "ours": null,
+   "top_gainer": null,
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ },
+ {
+  "tab": "Fruits,F&B",
+  "sbu": "NXCBX",
+  "mapping_confidence": "medium",
+  "periods": [
+   "Apr'26",
+   "Aug'26",
+   "Dec'25",
+   "Dec'26",
+   "FY 2023-24",
+   "FY 2024-25",
+   "Feb'26",
+   "Jan'26",
+   "Jul'26",
+   "Jun'26",
+   "Mar'26",
+   "May'26",
+   "Nov'26",
+   "Oct'26",
+   "Sep'26"
+  ],
+  "companies": 15,
+  "total_row": false,
+  "partial_months": [
+   "Aug'26",
+   "Dec'26",
+   "Jul'26",
+   "Jun'26",
+   "May'26",
+   "Nov'26",
+   "Sep'26"
+  ],
+  "shifted_cells": 78,
+  "records": 251,
+  "share_q4_q1": {
+   "rows": [
+    {
+     "company": "IDS",
+     "q4_share": 14,
+     "q1_share": 18,
+     "delta_pp": 3
+    },
+    {
+     "company": "FINE DISTRIBUTION",
+     "q4_share": 13,
+     "q1_share": 14,
+     "delta_pp": 0
+    },
+    {
+     "company": "TELEBARSHA",
+     "q4_share": 8.54,
+     "q1_share": 11,
+     "delta_pp": 0.34
+    },
+    {
+     "company": "FOODEXTRA INTERNATIONAL",
+     "q4_share": 7,
+     "q1_share": 9,
+     "delta_pp": 0.7
+    },
+    {
+     "company": "UNISON",
+     "q4_share": 7,
+     "q1_share": 8,
+     "delta_pp": 0
+    },
+    {
+     "company": "TM TRADING",
+     "q4_share": 5.42,
+     "q1_share": 3,
+     "delta_pp": -2.60
+    },
+    {
+     "company": "BRESA TRADING",
+     "q4_share": 2.77,
+     "q1_share": 2,
+     "delta_pp": -0.6
+    }
+   ],
+   "ours": null,
+   "top_gainer": {
+    "company": "IDS",
+    "q4_share": 18,
+    "q1_share": 23,
+    "delta_pp": 3
+   },
+   "note": "average share over Apr-Jun 26 vs Jul-Sep 26; shifted cells excluded"
+  }
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "sbu": "NXESS",
+  "name": "Nexa Essentials",
+  "q4_active": 1132,
+  "q1_active": 1227,
+  "q4_orders": 9639,
+  "q1_orders": 10013,
+  "lost": 286,
+  "new": null,
+  "lost_revenue_cr": null,
+  "source": "ERP oms.tblSalesOrderHeader"
+ },
+ {
+  "sbu": "NXSTL",
+  "name": "Nexa Steel",
+  "q4_active": 342,
+  "q1_active": 403,
+  "q4_orders": 3234,
+  "q1_orders": 3335,
+  "lost": 97,
+  "new": null,
+  "lost_revenue_cr": null,
+  "source": "ERP oms.tblSalesOrderHeader"
+ },
+ {
+  "sbu": "NXRMC",
+  "name": "Nexa Readymix",
+  "q4_active": 237,
+  "q1_active": 337,
+  "q4_orders": 966,
+  "q1_orders": 1591,
+  "lost": 89,
+  "new": null,
+  "lost_revenue_cr": null,
+  "source": "ERP oms.tblSalesOrderHeader"
+ },
+ {
+  "sbu": "NXCBX",
+  "name": "Nexa Commodities",
+  "q4_active": 50,
+  "q1_active": 38,
+  "q4_orders": 214,
+  "q1_orders": 183,
+  "lost": 22,
+  "new": null,
+  "lost_revenue_cr": null,
+  "source": "ERP oms.tblSalesOrderHeader"
+ },
+ {
+  "sbu": "NXASP",
+  "name": "Nexa Asphalt",
+  "q4_active": 115,
+  "q1_active": 113,
+  "q4_orders": 503,
+  "q1_orders": 507,
+  "lost": 68,
+  "new": null,
+  "lost_revenue_cr": null,
+  "source": "ERP oms.tblSalesOrderHeader"
+ },
+ {
+  "sbu": "NXTEL",
+  "name": "Nexa Telecom",
+  "q4_active": 68,
+  "q1_active": 71,
+  "q4_orders": 236,
+  "q1_orders": 554,
+  "lost": 23,
+  "new": null,
+  "lost_revenue_cr": null,
+  "source": "ERP oms.tblSalesOrderHeader"
+ },
+ {
+  "sbu": "NXITX",
+  "name": "Nexa Infotech",
+  "q4_active": 46,
+  "q1_active": 29,
+  "q4_orders": 121,
+  "q1_orders": 66,
+  "lost": 22,
+  "new": null,
+  "lost_revenue_cr": null,
+  "source": "ERP oms.tblSalesOrderHeader"
+ }
+]

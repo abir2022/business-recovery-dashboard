@@ -1,0 +1,82 @@
+[
+ {
+  "sbu": "NXCMT",
+  "tab": "Nexa Cement Company Ltd.",
+  "custodian": "Tanvir Hosen",
+  "audit_date": "28/09/2026",
+  "questions": 32,
+  "yes": 15,
+  "score_pct": 50,
+  "source": "Brand Maturity Audit workbook · 28-Sep-2026"
+ },
+ {
+  "sbu": "NXSTL",
+  "tab": "Nexa Steel",
+  "custodian": "Nayeem Arefeen",
+  "audit_date": "28/09/2026",
+  "questions": 34,
+  "yes": 19,
+  "score_pct": 49.4,
+  "source": "Brand Maturity Audit workbook · 28-Sep-2026"
+ },
+ {
+  "sbu": "NXESS",
+  "tab": "Nexa Essentials LTD",
+  "custodian": "Md. Ahsan Hossain Chowdhury",
+  "audit_date": "28/09/2026",
+  "questions": 31,
+  "yes": 25,
+  "score_pct": 66.3,
+  "source": "Brand Maturity Audit workbook · 28-Sep-2026"
+ },
+ {
+  "sbu": "NXEL",
+  "tab": "Nexa Electronics Limit",
+  "custodian": "Saad Rahman",
+  "audit_date": "28/09/2026",
+  "questions": 37,
+  "yes": 20,
+  "score_pct": 61.5,
+  "source": "Brand Maturity Audit workbook · 28-Sep-2026"
+ },
+ {
+  "sbu": "NXRMC",
+  "tab": "Nexa Readymix Concrete",
+  "custodian": "Nurul Karim",
+  "audit_date": "28/09/2026",
+  "questions": 32,
+  "yes": 22,
+  "score_pct": 53.1,
+  "source": "Brand Maturity Audit workbook · 28-Sep-2026"
+ },
+ {
+  "sbu": "NXPH",
+  "tab": "Nexa Care Pharmacy",
+  "custodian": "Fahima Haque",
+  "audit_date": "28/09/2026",
+  "questions": 35,
+  "yes": 15,
+  "score_pct": 34.7,
+  "source": "Brand Maturity Audit workbook · 28-Sep-2026"
+ },
+ {
+  "sbu": "NXMDX",
+  "tab": "Nexa Mediplex",
+  "custodian": "Arif Das",
+  "audit_date": "28/09/2026",
+  "questions": 30,
+  "yes": 16,
+  "score_pct": 46.3,
+  "source": "Brand Maturity Audit workbook · 28-Sep-2026"
+ },
+ {
+  "sbu": "NXASP",
+  "tab": "NXASP - Lubricants",
+  "custodian": "Jubayer Ali",
+  "audit_date": "28/09/2026",
+  "questions": 33,
+  "yes": 16,
+  "score_pct": 39.9,
+  "source": "Brand Maturity Audit workbook · 28-Sep-2026"
+ }
+]

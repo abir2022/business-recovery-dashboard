@@ -1,0 +1,133 @@
+{
+  "collected_at": "2026-11-01",
+  "note": "Own revenue by territory (DB, oms.tblSalesOrderHeader Q4 vs Q1) for the 7 OMS loss SBUs. Territory names from rtm.tblTerritoryInfo. Competitor/market context is national-level from web search.",
+  "own_q4_vs_q1": {
+    "total_q4_cr": 1200.6,
+    "total_q1_cr": 1300.7,
+    "change_cr": 69,
+    "read": "Overall revenue grew +64.8 Cr Q4→Q1, but 622 dealers churned — sales concentrated into fewer dealers. The drop is at specific territories below."
+  },
+  "top_lost_regions": [
+    {
+      "sbu": "Nexa Asphalt",
+      "region": "Moazzam (ASPHALT)",
+      "q4": 29.9,
+      "q1": 5.9,
+      "drop": 25.5
+    },
+    {
+      "sbu": "Nexa Steel",
+      "region": "Feroz Ahmad (Corporate)",
+      "q4": 36,
+      "q1": 16.4,
+      "drop": 23
+    },
+    {
+      "sbu": "Nexa Essentials",
+      "region": "Khatunganj",
+      "q4": 78.2,
+      "q1": 58.7,
+      "drop": 19
+    },
+    {
+      "sbu": "Nexa Steel",
+      "region": "Munshiganj Sadar",
+      "q4": 13.8,
+      "q1": 0.4,
+      "drop": 16.2
+    },
+    {
+      "sbu": "Nexa Essentials",
+      "region": "Tender",
+      "q4": 19.3,
+      "q1": 12,
+      "drop": 9.6
+    },
+    {
+      "sbu": "Nexa Steel",
+      "region": "Shamim Mia (Corporate)",
+      "q4": 18.4,
+      "q1": 11.5,
+      "drop": 9.0
+    },
+    {
+      "sbu": "Nexa Essentials",
+      "region": "Jashore Metro",
+      "q4": 6.7,
+      "q1": 0,
+      "drop": 6.7
+    },
+    {
+      "sbu": "Nexa Steel",
+      "region": "Shaiful Alam (Corporate)",
+      "q4": 7.2,
+      "q1": 2,
+      "drop": 6.0
+    },
+    {
+      "sbu": "Nexa Essentials",
+      "region": "Sylhet Metro",
+      "q4": 5.4,
+      "q1": 0,
+      "drop": 7.2
+    },
+    {
+      "sbu": "Nexa Steel",
+      "region": "Shaiful Alam (Corporate)",
+      "q4": 10.5,
+      "q1": 4,
+      "drop": 5.2
+    },
+    {
+      "sbu": "Nexa Steel",
+      "region": "Narayanganj-1",
+      "q4": 6.5,
+      "q1": 2.6,
+      "drop": 6.0
+    },
+    {
+      "sbu": "Nexa Readymix",
+      "region": "NXRMC Project 1 (CSI Chittagong)",
+      "q4": 6,
+      "q1": 0.4,
+      "drop": 4.6
+    },
+    {
+      "sbu": "Nexa Steel",
+      "region": "Noakhali-1",
+      "q4": 13.2,
+      "q1": 13.3,
+      "drop": 5.2
+    },
+    {
+      "sbu": "Nexa Commodities",
+      "region": "Dhaka South Metro",
+      "q4": 14.2,
+      "q1": 14.6,
+      "drop": 4.6
+    },
+    {
+      "sbu": "Nexa Steel",
+      "region": "Mirpur",
+      "q4": 4.8,
+      "q1": 0,
+      "drop": 3.8
+    }
+  ],
+  "market_context": [
+    {
+      "sbu": "Nexa Steel",
+      "market_size": "Steel/rod ~BDT 45,850 Cr",
+      "leader": "Boral Steel ~30% rod share",
+      "competitors": "Abubakar Steel (AKS), Gobind Steel, Kamal Steel, Anil Nexa Steel, Rafiq Steel",
+      "note": "Rod price +Tk 2,000/t (VAT) to Tk 92–94k/t; monthly demand 6.5L→4L t lean."
+    },
+    {
+      "sbu": "Nexa Essentials",
+      "market_size": "Essential commodities 17.4M t / US$7B (FY26)",
+      "leader": "Madhumala Group consolidated",
+      "competitors": "Nogor Group (declined), TK Group, S Alam (receded), Smile Food, Delta Agrofood, PREM-RFL",
+      "note": "Edible-oil 'big four' = Madhumala, City, TK, S Alam; MGI import leader."
+    }
+  ]
+}

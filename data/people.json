@@ -1,0 +1,98 @@
+[
+ {
+  "sbu": "NXESS",
+  "headcount": 1154,
+  "monthly_ctc_cr": 2.97,
+  "ctc_pct_revenue": 2,
+  "period_np_cr": -11.05,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXSTL",
+  "headcount": 585,
+  "monthly_ctc_cr": 2.49,
+  "ctc_pct_revenue": 3.18,
+  "period_np_cr": 5.50,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXRMC",
+  "headcount": 712,
+  "monthly_ctc_cr": 1.9,
+  "ctc_pct_revenue": 6.84,
+  "period_np_cr": -3.21,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXMDX",
+  "headcount": 62,
+  "monthly_ctc_cr": 0.19,
+  "ctc_pct_revenue": 199.14,
+  "period_np_cr": -0.82,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXCBX",
+  "headcount": 26,
+  "monthly_ctc_cr": 0.22,
+  "ctc_pct_revenue": 1.11,
+  "period_np_cr": -0.2,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXPH",
+  "headcount": 238,
+  "monthly_ctc_cr": 0.6,
+  "ctc_pct_revenue": 11.29,
+  "period_np_cr": -0.77,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXASP",
+  "headcount": 165,
+  "monthly_ctc_cr": 0.59,
+  "ctc_pct_revenue": 10.07,
+  "period_np_cr": -0.44,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXTEL",
+  "headcount": 27,
+  "monthly_ctc_cr": 0.14,
+  "ctc_pct_revenue": 20.57,
+  "period_np_cr": -0.72,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXJOB",
+  "headcount": 26,
+  "monthly_ctc_cr": 0.18,
+  "ctc_pct_revenue": 107.3,
+  "period_np_cr": -0.56,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXITX",
+  "headcount": 11,
+  "monthly_ctc_cr": 0.11,
+  "ctc_pct_revenue": 5.63,
+  "period_np_cr": -0.46,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXEL",
+  "headcount": 30,
+  "monthly_ctc_cr": 0.2,
+  "ctc_pct_revenue": 25.64,
+  "period_np_cr": -0.28,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ },
+ {
+  "sbu": "NXLOG",
+  "headcount": 53,
+  "monthly_ctc_cr": 0.46,
+  "ctc_pct_revenue": 5.08,
+  "period_np_cr": -0.09,
+  "source": "HR-system payroll via ctc-mcp · SBU summary"
+ }
+]

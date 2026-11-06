@@ -1,0 +1,54 @@
+{
+  "collected_at": "2026-11-01",
+  "note": "On-time = delivered <= schedule date (sms.tblDeliveryHeader). Fill rate = delivered/ordered by VALUE (Q1 FY27, avoids mixed-UOM). Primary UOM per SBU set below.",
+  "sbus": [
+    {
+      "sbu": "Nexa Essentials",
+      "uom": "Bag",
+      "ontime_pct": 108.7,
+      "fill_pct": 85.0
+    },
+    {
+      "sbu": "Nexa Steel",
+      "uom": "Metric Tons",
+      "ontime_pct": 83.6,
+      "fill_pct": 90.2
+    },
+    {
+      "sbu": "Nexa Readymix",
+      "uom": "Cubic Foot",
+      "ontime_pct": 102,
+      "fill_pct": 67.7
+    },
+    {
+      "sbu": "Nexa Asphalt",
+      "uom": "Square meter",
+      "ontime_pct": 101.4,
+      "fill_pct": 90.2
+    },
+    {
+      "sbu": "Nexa Commodities",
+      "uom": "Carton",
+      "ontime_pct": 96.3,
+      "fill_pct": 105.9
+    },
+    {
+      "sbu": "Nexa Telecom",
+      "uom": "Pieces",
+      "ontime_pct": 106,
+      "fill_pct": 102
+    },
+    {
+      "sbu": "Nexa Infotech",
+      "uom": "Pieces",
+      "ontime_pct": 85,
+      "fill_pct": 81.7
+    },
+    {
+      "sbu": "Notunjo",
+      "uom": "Kilogram",
+      "ontime_pct": 94,
+      "fill_pct": 108.5
+    }
+  ]
+}

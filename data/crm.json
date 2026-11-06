@@ -1,0 +1,163 @@
+{
+ "coverage": [
+  {
+   "sbu": "Nexa Readymix",
+   "visits": 24,
+   "leads": 557,
+   "opps": 7,
+   "cases": 4,
+   "cases_overdue": 5,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Electronics",
+   "visits": 0,
+   "leads": 461,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Jobs",
+   "visits": 0,
+   "leads": 231,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Essentials",
+   "visits": 0,
+   "leads": 0,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Steel",
+   "visits": 0,
+   "leads": 0,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Mediplex",
+   "visits": 0,
+   "leads": 0,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Commodities",
+   "visits": 0,
+   "leads": 0,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Care",
+   "visits": 0,
+   "leads": 0,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Telecom",
+   "visits": 0,
+   "leads": 0,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Infotech",
+   "visits": 0,
+   "leads": 0,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  },
+  {
+   "sbu": "Nexa Logistics",
+   "visits": 0,
+   "leads": 0,
+   "opps": 0,
+   "cases": 0,
+   "cases_overdue": null,
+   "window_from": null,
+   "window_to": null,
+   "source": "Nexa CRM (https://demo.example.com) · totalCount · auto"
+  }
+ ],
+ "detail": {
+  "Nexa Readymix": {
+   "visit_status": {
+    "Completed": 9,
+    "Planned": 13,
+    "Checked-in": 1
+   },
+   "visits_productive": 6,
+   "visit_types": {
+    "Field Visit": 12,
+    "Meeting": 9
+   },
+   "lead_status": {
+    "New": 594
+   },
+   "lead_sources": {
+    "Direct Sales Visit": 611,
+    "Customer Referral": 3
+   },
+   "lead_value_cr": 1.90,
+   "case_categories": {
+    "Product Quality": 4,
+    "Delivery Delay": 1
+   },
+   "case_status": {
+    "Investigating": 1,
+    "Open": 4
+   },
+   "cases_overdue": 5,
+   "pipeline_cr": 0.78,
+   "pipeline_outlier_cr": 3554,
+   "leads_worked": 0,
+   "visits_total": 22,
+   "leads_total": 676,
+   "cases_total": 5,
+   "opps_total": 5
+  }
+ }
+}

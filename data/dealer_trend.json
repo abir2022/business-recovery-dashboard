@@ -1,0 +1,296 @@
+[
+ {
+  "sbu": "NXITX",
+  "region": null,
+  "month": "2026-04",
+  "active_dealers": 34,
+  "lifting": 1.381
+ },
+ {
+  "sbu": "NXITX",
+  "region": null,
+  "month": "2026-05",
+  "active_dealers": 18,
+  "lifting": 0.741
+ },
+ {
+  "sbu": "NXITX",
+  "region": null,
+  "month": "2026-06",
+  "active_dealers": 18,
+  "lifting": 0.84
+ },
+ {
+  "sbu": "NXITX",
+  "region": null,
+  "month": "2026-07",
+  "active_dealers": 16,
+  "lifting": 1.893
+ },
+ {
+  "sbu": "NXITX",
+  "region": null,
+  "month": "2026-08",
+  "active_dealers": 13,
+  "lifting": 0.836
+ },
+ {
+  "sbu": "NXITX",
+  "region": null,
+  "month": "2026-09",
+  "active_dealers": 9,
+  "lifting": 0.201
+ },
+ {
+  "sbu": "NXESS",
+  "region": null,
+  "month": "2026-04",
+  "active_dealers": 934,
+  "lifting": 215.512
+ },
+ {
+  "sbu": "NXESS",
+  "region": null,
+  "month": "2026-05",
+  "active_dealers": 713,
+  "lifting": 118.04
+ },
+ {
+  "sbu": "NXESS",
+  "region": null,
+  "month": "2026-06",
+  "active_dealers": 815,
+  "lifting": 138.72
+ },
+ {
+  "sbu": "NXESS",
+  "region": null,
+  "month": "2026-07",
+  "active_dealers": 834,
+  "lifting": 202.552
+ },
+ {
+  "sbu": "NXESS",
+  "region": null,
+  "month": "2026-08",
+  "active_dealers": 946,
+  "lifting": 270.386
+ },
+ {
+  "sbu": "NXESS",
+  "region": null,
+  "month": "2026-09",
+  "active_dealers": 762,
+  "lifting": 125.253
+ },
+ {
+  "sbu": "NXRMC",
+  "region": null,
+  "month": "2026-04",
+  "active_dealers": 124,
+  "lifting": 33.695
+ },
+ {
+  "sbu": "NXRMC",
+  "region": null,
+  "month": "2026-05",
+  "active_dealers": 222,
+  "lifting": 49.027
+ },
+ {
+  "sbu": "NXRMC",
+  "region": null,
+  "month": "2026-06",
+  "active_dealers": 99,
+  "lifting": 33.531
+ },
+ {
+  "sbu": "NXRMC",
+  "region": null,
+  "month": "2026-07",
+  "active_dealers": 195,
+  "lifting": 54.867
+ },
+ {
+  "sbu": "NXRMC",
+  "region": null,
+  "month": "2026-08",
+  "active_dealers": 229,
+  "lifting": 57.697
+ },
+ {
+  "sbu": "NXRMC",
+  "region": null,
+  "month": "2026-09",
+  "active_dealers": 229,
+  "lifting": 67.192
+ },
+ {
+  "sbu": "NXASP",
+  "region": null,
+  "month": "2026-04",
+  "active_dealers": 66,
+  "lifting": 23.224
+ },
+ {
+  "sbu": "NXASP",
+  "region": null,
+  "month": "2026-05",
+  "active_dealers": 58,
+  "lifting": 11.047
+ },
+ {
+  "sbu": "NXASP",
+  "region": null,
+  "month": "2026-06",
+  "active_dealers": 76,
+  "lifting": 13
+ },
+ {
+  "sbu": "NXASP",
+  "region": null,
+  "month": "2026-07",
+  "active_dealers": 52,
+  "lifting": 6.756
+ },
+ {
+  "sbu": "NXASP",
+  "region": null,
+  "month": "2026-08",
+  "active_dealers": 65,
+  "lifting": 3.82
+ },
+ {
+  "sbu": "NXASP",
+  "region": null,
+  "month": "2026-09",
+  "active_dealers": 59,
+  "lifting": 4.352
+ },
+ {
+  "sbu": "NXCBX",
+  "region": null,
+  "month": "2026-04",
+  "active_dealers": 37,
+  "lifting": 37.637
+ },
+ {
+  "sbu": "NXCBX",
+  "region": null,
+  "month": "2026-05",
+  "active_dealers": 32,
+  "lifting": 4.444
+ },
+ {
+  "sbu": "NXCBX",
+  "region": null,
+  "month": "2026-06",
+  "active_dealers": 23,
+  "lifting": 7.836
+ },
+ {
+  "sbu": "NXCBX",
+  "region": null,
+  "month": "2026-07",
+  "active_dealers": 27,
+  "lifting": 23.946
+ },
+ {
+  "sbu": "NXCBX",
+  "region": null,
+  "month": "2026-08",
+  "active_dealers": 29,
+  "lifting": 5.898
+ },
+ {
+  "sbu": "NXCBX",
+  "region": null,
+  "month": "2026-09",
+  "active_dealers": 22,
+  "lifting": 7.48
+ },
+ {
+  "sbu": "NXSTL",
+  "region": null,
+  "month": "2026-04",
+  "active_dealers": 306,
+  "lifting": 166.549
+ },
+ {
+  "sbu": "NXSTL",
+  "region": null,
+  "month": "2026-05",
+  "active_dealers": 222,
+  "lifting": 89.48
+ },
+ {
+  "sbu": "NXSTL",
+  "region": null,
+  "month": "2026-06",
+  "active_dealers": 279,
+  "lifting": 158.663
+ },
+ {
+  "sbu": "NXSTL",
+  "region": null,
+  "month": "2026-07",
+  "active_dealers": 235,
+  "lifting": 70.38
+ },
+ {
+  "sbu": "NXSTL",
+  "region": null,
+  "month": "2026-08",
+  "active_dealers": 261,
+  "lifting": 117.067
+ },
+ {
+  "sbu": "NXSTL",
+  "region": null,
+  "month": "2026-09",
+  "active_dealers": 296,
+  "lifting": 165.826
+ },
+ {
+  "sbu": "NXTEL",
+  "region": null,
+  "month": "2026-04",
+  "active_dealers": 14,
+  "lifting": 0.154
+ },
+ {
+  "sbu": "NXTEL",
+  "region": null,
+  "month": "2026-05",
+  "active_dealers": 44,
+  "lifting": 0.596
+ },
+ {
+  "sbu": "NXTEL",
+  "region": null,
+  "month": "2026-06",
+  "active_dealers": 51,
+  "lifting": 0.660
+ },
+ {
+  "sbu": "NXTEL",
+  "region": null,
+  "month": "2026-07",
+  "active_dealers": 44,
+  "lifting": 0.707
+ },
+ {
+  "sbu": "NXTEL",
+  "region": null,
+  "month": "2026-08",
+  "active_dealers": 45,
+  "lifting": 1.028
+ },
+ {
+  "sbu": "NXTEL",
+  "region": null,
+  "month": "2026-09",
+  "active_dealers": 57,
+  "lifting": 1.20
+ }
+]

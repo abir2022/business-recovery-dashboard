@@ -1,0 +1,368 @@
+[
+ {
+  "sbu": "NXLOG",
+  "p": "Product",
+  "own_q4": 3,
+  "own": 3.0,
+  "comp": "4.72 (Meris/Kuehne-X/DSV)",
+  "note": "Direct consol boxes to Hamburg/Felixstowe; air charter expanded.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXLOG",
+  "p": "Price",
+  "own_q4": 3.6,
+  "own": 3.38,
+  "comp": "3.68 (Meris/Kuehne-X/DSV)",
+  "note": "Competitive spot rates; 45-60d credit to AAA exporters.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXLOG",
+  "p": "Place",
+  "own_q4": 3.8,
+  "own": 3.7,
+  "comp": "5.30 (Meris/Kuehne-X/DSV)",
+  "note": "Direct MSC/CMA CGM contracts; roll-over 7%→2.3%.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXLOG",
+  "p": "Promotion",
+  "own_q4": 2.58,
+  "own": 2.3,
+  "comp": "4.59 (Meris/Kuehne-X/DSV)",
+  "note": "Excluded from Walmart/Inditex nomination — the key gap.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXLOG",
+  "p": "People",
+  "own_q4": 3.94,
+  "own": 3.67,
+  "comp": "3.13 (Meris/Kuehne-X/DSV)",
+  "note": "SPOC, <1hr response; strong RMG relationships.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXLOG",
+  "p": "Process",
+  "own_q4": 3,
+  "own": 2.9,
+  "comp": "3.46 (Meris/Kuehne-X/DSV)",
+  "note": "SO 18h→4h; draft BL <24h; dispute 3.5%.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXLOG",
+  "p": "Physical evidence",
+  "own_q4": 3,
+  "own": 3.00,
+  "comp": "5.30 (Meris/Kuehne-X/DSV)",
+  "note": "Basic tracking portal; ISO 7571 / BAFFA / FIATA.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXEL",
+  "p": "Product",
+  "own": null,
+  "comp": "Telebarsha 5,000+ SKU + Transtec; Ronno 10+ brands; Electro Mart Gree/Konarc",
+  "note": "Own Q4/Q1 blank — PORTAL marketing to score (Daily Star/Telebarsha evidence).",
+  "status": "open"
+ },
+ {
+  "sbu": "NXEL",
+  "p": "Price",
+  "own": null,
+  "comp": "Ronno 0% EMI 24mo; Sansung 36mo; Eid 48-53% off",
+  "note": "Own Q4/Q1 blank.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXEL",
+  "p": "Place",
+  "own": null,
+  "comp": "Telebarsha 68 stores; Ronno 36+100 dealers; Electro Kart 50+",
+  "note": "Own Q4/Q1 blank.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXEL",
+  "p": "Promotion",
+  "own": null,
+  "comp": "Eid campaigns; bank tie-ups (Padma Bank 7%, Eastern Bank Demo 10%)",
+  "note": "Own Q4/Q1 blank.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXEL",
+  "p": "People",
+  "own": null,
+  "comp": "Ronno trained execs (2022 rebrand)",
+  "note": "Own Q4/Q1 blank.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXEL",
+  "p": "Process",
+  "own": null,
+  "comp": "Ronno 24h install; Telebarsha omnichannel",
+  "note": "Own Q4/Q1 blank.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXEL",
+  "p": "Physical evidence",
+  "own": null,
+  "comp": "Flagship stores (Ronno Gulshan-2; Telebarsha Uttara)",
+  "note": "Own Q4/Q1 blank.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXASP",
+  "p": "Product",
+  "own": null,
+  "comp": "Bashkhola / PRC-RFL / PFP / Imported",
+  "note": "Govt favours 60/70 grade; imported grades face quality complaints. Own scores Pending (Asphalt marketing to self-score).",
+  "status": "open"
+ },
+ {
+  "sbu": "NXASP",
+  "p": "Price",
+  "own": null,
+  "comp": "—",
+  "note": "Scores pending — see item 47.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXASP",
+  "p": "Place",
+  "own": null,
+  "comp": "PRC (govt contractors)",
+  "note": "Open-market relies on private + imported drums. Own scores Pending.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXASP",
+  "p": "Promotion",
+  "own": null,
+  "comp": "—",
+  "note": "Scores pending — see item 55.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXASP",
+  "p": "People",
+  "own": null,
+  "comp": "—",
+  "note": "Sales coverage from items 19/61. Pending.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXASP",
+  "p": "Process",
+  "own": null,
+  "comp": "—",
+  "note": "Order-to-delivery from items 24/35/36. Pending.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXASP",
+  "p": "Physical evidence",
+  "own": null,
+  "comp": "—",
+  "note": "Drum quality, BSTI/BUET/PRC cert. Pending.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXTEL",
+  "p": "Product",
+  "own": null,
+  "comp": "4/5 benchmark",
+  "note": "Own Q4/Q1 Pending — SKU range, quality, features, stock.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXTEL",
+  "p": "Price",
+  "own": null,
+  "comp": "4/5 benchmark",
+  "note": "Own Pending — SKU prices, dealer margins, discounts.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXTEL",
+  "p": "Place",
+  "own": null,
+  "comp": "4/5 benchmark",
+  "note": "Own Pending — dealer coverage, retail, e-commerce.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXTEL",
+  "p": "Promotion",
+  "own": null,
+  "comp": "4/5 benchmark",
+  "note": "Own Pending — campaign reach, dealer schemes.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXTEL",
+  "p": "People",
+  "own": null,
+  "comp": "4/5 benchmark",
+  "note": "Own Pending — sales coverage, product knowledge.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXTEL",
+  "p": "Process",
+  "own": null,
+  "comp": "4/5 benchmark",
+  "note": "Own Pending — fulfilment, warranty, CRM.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXTEL",
+  "p": "Physical evidence",
+  "own": null,
+  "comp": "4/5 benchmark",
+  "note": "Own Pending — store presence, branding, cert.",
+  "status": "open"
+ },
+ {
+  "sbu": "NXESS",
+  "p": "Product",
+  "own_q4": 4,
+  "own": 5,
+  "comp": "Rokhoni 5 · Frestho 4 · Tear 5 · Prottoy 3 · Axiom 4",
+  "note": "Marketing 7P file (item 50).",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXESS",
+  "p": "Price",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Rokhoni 5 · Frestho 5 · Tear 4 · Prottoy 4 · Axiom 4",
+  "note": "Marketing 7P file (item 50).",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXESS",
+  "p": "Place",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Rokhoni 5 · Frestho 5 · Tear 4 · Prottoy 5 · Axiom 4",
+  "note": "Marketing 7P file (item 50).",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXESS",
+  "p": "Promotion",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Rokhoni 5 · Frestho 5 · Tear 5 · Prottoy 4 · Axiom 4",
+  "note": "Marketing 7P file (item 50).",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXESS",
+  "p": "People",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Rokhoni 3 · Frestho 3 · Tear 3 · Prottoy 3 · Axiom 3",
+  "note": "Marketing 7P file (item 50).",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXESS",
+  "p": "Process",
+  "own_q4": 5,
+  "own": 5,
+  "comp": "Rokhoni 4 · Frestho 4 · Tear 4 · Prottoy 4 · Axiom 4",
+  "note": "Marketing 7P file (item 50).",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXESS",
+  "p": "Physical evidence",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Rokhoni 4 · Frestho 4 · Tear 4 · Prottoy 4 · Axiom 4",
+  "note": "Marketing 7P file (item 50).",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXSTL",
+  "p": "Product",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Boral Steel 4 · AKS 4 · Kamal Steel 4 · Gopal 3",
+  "note": "Own FY25-26 → FY26-27 target (item 51). 700MPa QuakeShield; 28/32mm under-performing.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXSTL",
+  "p": "Price",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Boral Steel 5 · AKS 4 · Kamal Steel 4 · Gopal 4",
+  "note": "ASP 93,200–98,000 (budget avg 95,861). Share 3.49% vs Boral Steel 33% = price-led.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXSTL",
+  "p": "Place",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Boral Steel 5 · AKS 4 · Kamal Steel 4 · Gopal 3",
+  "note": "1 plant; 8 regions but 62% of sales from 3.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXSTL",
+  "p": "Promotion",
+  "own_q4": 4,
+  "own": 3,
+  "comp": "Boral Steel 4 · AKS 3 · Kamal Steel 3 · Gopal 3",
+  "note": "TVC 15 ch (2.32 Cr); Meta 8.30M; 49 mason programs.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXSTL",
+  "p": "People",
+  "own_q4": 3,
+  "own": 3,
+  "comp": "Boral Steel 4 · AKS 4 · Kamal Steel 3 · Gopal 3",
+  "note": "~40% monthly dealer defection.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXSTL",
+  "p": "Process",
+  "own_q4": 2,
+  "own": 3,
+  "comp": "Boral Steel 4 · AKS 4 · Kamal Steel 3 · Gopal 3",
+  "note": "Retention 27%→72.4%→75.2%; no OTIF dashboard; no min stock policy.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXSTL",
+  "p": "Physical evidence",
+  "own_q4": 4,
+  "own": 4,
+  "comp": "Boral Steel 5 · AKS 4 · Kamal Steel 4 · Gopal 3",
+  "note": "175/175 light boxes, 320 shop branding, 13 billboards.",
+  "status": "evidence"
+ },
+ {
+  "sbu": "NXSTL",
+  "p": "Weighted score (out of 5)",
+  "own_q4": 2.9,
+  "own": 2.99,
+  "comp": "Boral Steel 4.81 · AKS 4.16 · Kamal Steel 3.03 · Gopal 3.46",
+  "note": "Widest gaps vs Boral Steel: place, physical evidence, process.",
+  "status": "evidence"
+ }
+]

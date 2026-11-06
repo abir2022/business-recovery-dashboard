@@ -1,0 +1,159 @@
+[
+ {
+  "id": "H1",
+  "title": "Market shrank",
+  "verdict": "Rejected",
+  "confidence": "Medium",
+  "impact_cr": 0,
+  "data_ids": [
+   "C1",
+   "C3"
+  ],
+  "evidence": [
+   "Own revenue Q4→Q1 (DB): 8 of 12 SBUs grew — portfolio +63.1 Cr; only Nexa Steel (−82), Asphalt (−17), Commodities (−10), NXEL (−0.8) shrank.",
+   "National market grew (web): steel +15% CAGR, food/edible-oil imports +16%, telecom +4.3%."
+  ],
+  "verdict_note": "Market did not shrink. The drop is share-loss (4 SBUs) + margin (8 SBUs), not a contracting market."
+ },
+ {
+  "id": "H2",
+  "title": "Competitor won on price/offer",
+  "verdict": "Partial",
+  "confidence": "Medium",
+  "impact_cr": null,
+  "data_ids": [
+   "C2",
+   "E1",
+   "E2",
+   "E3"
+  ],
+  "evidence": [
+   "Competitor price/offer recovered (oms.tblCompetitorPriceHeader+Row numAvgMarketOffer): Nexa Steel 172, Nexa Essentials 194, Cement 271 headers (2024-25).",
+   "Named leaders (web): Boral Steel ~30% steel, Madhumala edible oil, Nexaphone 45.6% telecom."
+  ],
+  "verdict_note": "Competitor price/offer now in DB for Nexa Steel/Nexa Essentials. National competitor share now delivered (Nexa Steel, Nexa Readymix, Logistics); regional competitor volume (C2) is Not Applicable."
+ },
+ {
+  "id": "H3",
+  "title": "Sales team did not engage",
+  "verdict": "Partial",
+  "confidence": "Low",
+  "impact_cr": null,
+  "data_ids": [
+   "D2",
+   "D3",
+   "D4",
+   "D5"
+  ],
+  "evidence": [
+   "Team was equipped: KPI targets exist (Nexa Essentials 32,194, Nexa Steel 5,753) and beat routes exist (Nexa Essentials 6,695).",
+   "622 dealers churned (Q4 buyers with zero Q1 orders).",
+   "Actual calls unverifiable: oms.tblViciDialApiCallLog last entry 28-Aug-2025."
+  ],
+  "verdict_note": "Equipped but unverifiable. Actual cause of missing data: the CallLog call-center feed stopped 28-Aug-2025 — no Q1 call log exists in the DB."
+ },
+ {
+  "id": "H4",
+  "title": "Sales team instability",
+  "verdict": "Confirmed",
+  "confidence": "Medium",
+  "impact_cr": null,
+  "data_ids": [
+   "D1",
+   "D6",
+   "D2"
+  ],
+  "evidence": [
+   "Attrition now measured (HR-system separation-master): 2,248 separations — 951 in 2026, 796 in 2025, 487 in 2024.",
+   "Headcount 19,008 (employee-master).",
+   "SBU plans self-report: Logistics needs 4 salesmen, Nexa Infotech replace/hire 4 KAM, Nexa Mediplex team abolished then rebuilt."
+  ],
+  "verdict_note": "Attrition is real and rising (951 separations YTD 2026) — corroborates the self-reported instability."
+ },
+ {
+  "id": "H5",
+  "title": "Supply / service failure",
+  "verdict": "Confirmed",
+  "confidence": "High",
+  "impact_cr": 114,
+  "data_ids": [
+   "B8",
+   "G2",
+   "G3"
+  ],
+  "evidence": [
+   "Short-supply now quantified (oms.tblSalesOrderRow numUndeliveryValues, Q1): Nexa Steel 61.1 Cr, Nexa Readymix 42.7 Cr, Nexa Essentials 17.6 Cr ≈ 136.9 Cr undelivered.",
+   "Stock transactions 3.16M (wms.tblInventoryTransactionHeader) across 7 loss SBUs.",
+   "SBU notes: NXEL zero stock, Nexa Essentials RM shortage, Asphalt LC-bitumen, Commodities no LC approval, Nexa Steel BMRE shutdown."
+  ],
+  "verdict_note": "Strongest cause, now quantified: ~123.6 Cr of orders short-supplied in Q1 (revenue scale, not loss)."
+ },
+ {
+  "id": "H6",
+  "title": "Credit policy pushed dealers away",
+  "verdict": "Partial",
+  "confidence": "Low",
+  "impact_cr": null,
+  "data_ids": [
+   "B7",
+   "E2"
+  ],
+  "evidence": [
+   "AR now pullable (fin GL 5288056): Nexa Essentials 261k rows, Nexa Steel 101k.",
+   "Nexa Infotech root cause: overdue receivables + credit restrictions; Nexa Jobs: DSO 60→45, concentration 26%."
+  ],
+  "verdict_note": "AR data available. Actual cause of the remaining gap: the credit-BLOCKED customer list needs the prt.tblBusinessPartner credit-limit join (not yet pulled)."
+ },
+ {
+  "id": "H7",
+  "title": "Product / quality issue",
+  "verdict": "Rejected",
+  "confidence": "Low",
+  "impact_cr": 0,
+  "data_ids": [
+   "B9",
+   "F1",
+   "H1"
+  ],
+  "evidence": [
+   "No quality complaint in any SBU root-cause note.",
+   "Complaints table (prt.tblSiteComplainInfo) has Nexa Readymix only."
+  ],
+  "verdict_note": "No evidence in submitted plans or complaint data."
+ },
+ {
+  "id": "H8",
+  "title": "Margin-driven loss",
+  "verdict": "Confirmed",
+  "confidence": "High",
+  "impact_cr": 27.07,
+  "data_ids": [
+   "A1",
+   "A2",
+   "A5",
+   "A7"
+  ],
+  "evidence": [
+   "Nexa Telecom GP −36.6%; Commodities 8.0%; Logistics 2.8%; Asphalt 5.2%.",
+   "Nexa Essentials + Nexa Steel = 33.84 Cr of the 63.08 Cr total loss.",
+   "CM% now computed and fixed cost pulled for all 12 SBUs (break-even in Q2 outlook)."
+  ],
+  "verdict_note": "Confirmed with full CM% + fixed-cost base (was GP-only)."
+ },
+ {
+  "id": "H9",
+  "title": "Went silent in market",
+  "verdict": "Partial",
+  "confidence": "Low",
+  "impact_cr": null,
+  "data_ids": [
+   "F4",
+   "A5",
+   "E4"
+  ],
+  "evidence": [
+   "Marketing spend now pullable (fin GL 3998056): Nexa Essentials 5.21 Cr, Nexa Steel 5.71 Cr in Q1."
+  ],
+  "verdict_note": "Q1 marketing spend available. Actual cause of the remaining gap: Q4→Q1 spend-change needs the Q4 GL pull (Q1 is available)."
+ }
+]

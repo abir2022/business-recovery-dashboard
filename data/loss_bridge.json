@@ -1,0 +1,206 @@
+[
+ {
+  "sbu": "NXESS",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -20.04,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXSTL",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -11.4,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXRMC",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -7.8,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXMDX",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -2.41,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXCBX",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -2.7,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXPH",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -2.49,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXASP",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -2.40,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXTEL",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -2.3,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXJOB",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -2.0,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXITX",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -1.1,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXEL",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -0.92,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ },
+ {
+  "sbu": "NXLOG",
+  "q4_np": null,
+  "volume": null,
+  "price": null,
+  "mix": null,
+  "cost": null,
+  "fixed": null,
+  "unexplained": null,
+  "q1_np": -0.77,
+  "loss_type": null,
+  "pending": [
+   "A1",
+   "A2",
+   "A3"
+  ]
+ }
+]

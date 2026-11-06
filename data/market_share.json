@@ -1,0 +1,211 @@
+[
+ {
+  "sbu": "NXSTL",
+  "region": "National (TMT rebar)",
+  "period": "Q1FY27",
+  "market_volume": 5471794,
+  "own_volume": 111899,
+  "own_share": 0.041,
+  "own_share_text": "4.2% (6th) · +14.3% YoY volume",
+  "competitors": [
+   {
+    "name": "Boral Steel",
+    "volume": null,
+    "share": 0.32
+   },
+   {
+    "name": "AKS",
+    "volume": null,
+    "share": 0.129
+   },
+   {
+    "name": "Kamal Steel",
+    "volume": null,
+    "share": 0.109
+   },
+   {
+    "name": "Gopal",
+    "volume": null,
+    "share": 0.045
+   },
+   {
+    "name": "Anil Steel",
+    "volume": null,
+    "share": 0.026
+   },
+   {
+    "name": "Rafiq Steel",
+    "volume": null,
+    "share": 0.026
+   },
+   {
+    "name": "Others",
+    "volume": null,
+    "share": 0.318
+   }
+  ],
+  "source": "Marketing Google Sheet — Nexa Steel share-of-wallet benchmark (item 50)",
+  "is_proxy": false,
+  "note": "Mar'26 vs Jul'25: Boral Steel 22.6→33.0%, AKS 20.2→13.6%, Kamal Steel 5.9→10.5%, Gopal 12.7→4.5%, Nexa 2.6→3.5%. Market 60 Lac t (2024)→103 Lac t (2027e), ~BDT 47,704 Cr. Regional split: Not Applicable."
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "National (RMC)",
+  "period": "Q1FY27",
+  "market_volume": 9304135,
+  "own_volume": 1004345,
+  "own_share": 0.106,
+  "own_share_text": "12.4% (5th) — Sep'26 · 8.66% FY26",
+  "competitors": [
+   {
+    "name": "Falcon Cement RMC",
+    "volume": 2265016,
+    "share": 0.20
+   },
+   {
+    "name": "NDS",
+    "volume": 1674372,
+    "share": 0.155
+   },
+   {
+    "name": "Bashkhola RMC",
+    "volume": 1717963,
+    "share": 0.157
+   },
+   {
+    "name": "Moon RMC",
+    "volume": 1460148,
+    "share": 0.175
+   },
+   {
+    "name": "APR RMC",
+    "volume": 578113,
+    "share": 0.058
+   },
+   {
+    "name": "Corners RMC",
+    "volume": 641517,
+    "share": 0.061
+   },
+   {
+    "name": "Manar RMC",
+    "volume": 256527,
+    "share": 0.028
+   }
+  ],
+  "source": "Marketing Google Sheet — Nexa Readymix competitor benchmark (item 44/47)",
+  "is_proxy": false,
+  "note": "Total market 91.51 Mn cft (9.23 Mn/month). Nexa ASP 369 BDT/cft (highest). Sep'26: Sha 22.8%, NDS 18.2%, Bashkhola 17.5%, Moon 17.3%, Nexa 11.2%, ABC 6.3%, Concord 6.7%."
+ },
+ {
+  "sbu": "NXEL",
+  "region": "National (brand level)",
+  "period": "Q1FY27",
+  "market_volume": null,
+  "own_volume": null,
+  "own_share": 0.001,
+  "own_share_text": "<0.1% (e) of ~BDT 26,030 Cr market",
+  "competitors": [
+   {
+    "name": "Telebarsha Digital (78 stores)",
+    "volume": null,
+    "share": null
+   },
+   {
+    "name": "RONNO eMart (37 stores)",
+    "volume": null,
+    "share": null
+   },
+   {
+    "name": "Doruk/Pikabu (discount)",
+    "volume": null,
+    "share": null
+   }
+  ],
+  "source": "Brand Marketing Pack (https://demo.example.com)",
+  "is_proxy": true,
+  "note": "Brand-level share. Regional C1/C2: Not Applicable (no regional market published)."
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "National (brand level)",
+  "period": "Q1FY27",
+  "market_volume": null,
+  "own_volume": null,
+  "own_share": null,
+  "own_share_text": "Not available",
+  "competitors": [
+   {
+    "name": "BDkormo",
+    "volume": null,
+    "share": null
+   },
+   {
+    "name": "a jobs board",
+    "volume": null,
+    "share": null
+   },
+   {
+    "name": "Shubon",
+    "volume": null,
+    "share": null
+   }
+  ],
+  "source": "Brand Marketing Pack (https://demo.example.com)",
+  "is_proxy": true,
+  "note": "Brand-level share. Regional C1/C2: Not Applicable (no regional market published)."
+ },
+ {
+  "sbu": "NXPH",
+  "region": "National (brand level)",
+  "period": "Q1FY27",
+  "market_volume": null,
+  "own_volume": null,
+  "own_share": null,
+  "own_share_text": "Not available (trust-led niche)",
+  "competitors": [
+   {
+    "name": "OK Pharmacy",
+    "volume": null,
+    "share": null
+   },
+   {
+    "name": "Astra Pharmacy",
+    "volume": null,
+    "share": null
+   }
+  ],
+  "source": "Brand Marketing Pack (https://demo.example.com)",
+  "is_proxy": true,
+  "note": "Brand-level share. Regional C1/C2: Not Applicable (no regional market published)."
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "National (brand level)",
+  "period": "Q1FY27",
+  "market_volume": null,
+  "own_volume": null,
+  "own_share": null,
+  "own_share_text": "Not available",
+  "competitors": [
+   {
+    "name": "Padma Diagnostic",
+    "volume": null,
+    "share": null
+   },
+   {
+    "name": "Ibn Sina",
+    "volume": null,
+    "share": null
+   },
+   {
+    "name": "Labib Diagnostic",
+    "volume": null,
+    "share": null
+   }
+  ],
+  "source": "Brand Marketing Pack (https://demo.example.com)",
+  "is_proxy": true,
+  "note": "Brand-level share. Regional C1/C2: Not Applicable (no regional market published)."
+ }
+]

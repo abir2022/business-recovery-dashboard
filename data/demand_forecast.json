@@ -1,0 +1,150 @@
+{
+  "collected_at": "2026-11-03",
+  "source": "demand-planner file (per-SBU tabs) + ERP oms.tblSalesOrderHeader (monthly net order value)",
+  "sbus": [
+    {
+      "sbu": "NXESS",
+      "name": "Nexa Essentials",
+      "uom": "MT",
+      "history": {
+        "months": [
+          "Jan-26",
+          "Feb-26",
+          "Mar-26",
+          "Apr-26",
+          "May-26",
+          "Jun-26",
+          "Jul-26",
+          "Aug-26",
+          "Sep-26",
+          "Oct-26"
+        ],
+        "value_cr": [
+          411,
+          302.6,
+          279,
+          206,
+          109.1,
+          144,
+          182.5,
+          254.2,
+          129.4,
+          153.1
+        ]
+      },
+      "forecast": {
+        "months": [
+          "Nov-26",
+          "Dec-26",
+          "Jan-27"
+        ],
+        "qty": [
+          6254,
+          6970,
+          6614
+        ],
+        "value_cr": [
+          41.2,
+          47,
+          48
+        ]
+      }
+    },
+    {
+      "sbu": "NXSTL",
+      "name": "Nexa Steel",
+      "uom": "MT",
+      "history": {
+        "months": [
+          "Jan-26",
+          "Feb-26",
+          "Mar-26",
+          "Apr-26",
+          "May-26",
+          "Jun-26",
+          "Jul-26",
+          "Aug-26",
+          "Sep-26",
+          "Oct-26"
+        ],
+        "value_cr": [
+          187.5,
+          159.5,
+          170.2,
+          158.3,
+          98,
+          164.5,
+          85.3,
+          126.4,
+          179,
+          96.8
+        ]
+      },
+      "forecast": {
+        "months": [
+          "Nov-26",
+          "Dec-26",
+          "Jan-27"
+        ],
+        "qty": [
+          13572,
+          17517,
+          19559
+        ],
+        "value_cr": [
+          123,
+          156,
+          175.7
+        ]
+      }
+    },
+    {
+      "sbu": "NXCBX",
+      "name": "Nexa Commodities",
+      "uom": "Pc",
+      "history": {
+        "months": [
+          "Jan-26",
+          "Feb-26",
+          "Mar-26",
+          "Apr-26",
+          "May-26",
+          "Jun-26",
+          "Jul-26",
+          "Aug-26",
+          "Sep-26",
+          "Oct-26"
+        ],
+        "value_cr": [
+          34.4,
+          62,
+          66.7,
+          33.2,
+          4.4,
+          8.3,
+          23,
+          5.4,
+          8.4,
+          2
+        ]
+      },
+      "forecast": {
+        "months": [
+          "Nov-26",
+          "Dec-26",
+          "Jan-27"
+        ],
+        "qty": [
+          51616,
+          112909,
+          111881
+        ],
+        "value_cr": [
+          1.2,
+          2,
+          2.5
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1730 @@
+[
+ {
+  "sbu": "NXESS",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "city-gate rice/lentil millers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXESS",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "city-gate rice/lentil millers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXESS",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "city-gate rice/lentil millers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXESS",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "city-gate rice/lentil millers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXESS",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "city-gate rice/lentil millers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXESS",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "city-gate rice/lentil millers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXESS",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "city-gate rice/lentil millers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXESS",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "city-gate rice/lentil millers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXSTL",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Boral Steel 24.6% · AKS 14.7% · Gopal 10.3%",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXSTL",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Boral Steel 24.6% · AKS 14.7% · Gopal 10.3%",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXSTL",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Boral Steel 24.6% · AKS 14.7% · Gopal 10.3%",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXSTL",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Boral Steel 24.6% · AKS 14.7% · Gopal 10.3%",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXSTL",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Boral Steel 24.6% · AKS 14.7% · Gopal 10.3%",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXSTL",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Boral Steel 24.6% · AKS 14.7% · Gopal 10.3%",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXSTL",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Boral Steel 24.6% · AKS 14.7% · Gopal 10.3%",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXSTL",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Boral Steel 24.6% · AKS 14.7% · Gopal 10.3%",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "local unbranded RMC plants",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "local unbranded RMC plants",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "local unbranded RMC plants",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "local unbranded RMC plants",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "local unbranded RMC plants",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "local unbranded RMC plants",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "local unbranded RMC plants",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXRMC",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "local unbranded RMC plants",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Padma Diagnostic",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Padma Diagnostic",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Padma Diagnostic",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Padma Diagnostic",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Padma Diagnostic",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Padma Diagnostic",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Padma Diagnostic",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXMDX",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Padma Diagnostic",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXCBX",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "grey-market importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXCBX",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "grey-market importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXCBX",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "grey-market importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXCBX",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "grey-market importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXCBX",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "grey-market importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXCBX",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "grey-market importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXCBX",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "grey-market importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXCBX",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "grey-market importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXPH",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Ook / Astra (chains)",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXPH",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Ook / Astra (chains)",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXPH",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Ook / Astra (chains)",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXPH",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Ook / Astra (chains)",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXPH",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Ook / Astra (chains)",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXPH",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Ook / Astra (chains)",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXPH",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Ook / Astra (chains)",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXPH",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "Ook / Astra (chains)",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXASP",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "other bitumen importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXASP",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "other bitumen importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXASP",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "other bitumen importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXASP",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "other bitumen importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXASP",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "other bitumen importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXASP",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "other bitumen importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXASP",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "other bitumen importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXASP",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "other bitumen importers",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXTEL",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "handset brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXTEL",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "handset brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXTEL",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "handset brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXTEL",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "handset brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXTEL",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "handset brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXTEL",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "handset brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXTEL",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "handset brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXTEL",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "handset brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "BDkormo",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "BDkormo",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "BDkormo",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "BDkormo",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "BDkormo",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "BDkormo",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "BDkormo",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXJOB",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "BDkormo",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXITX",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "global brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXITX",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "global brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXITX",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "global brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXITX",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "global brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXITX",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "global brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXITX",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "global brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXITX",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "global brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXITX",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "global brands direct",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXEL",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "market ~BDT 22,858 Cr",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXEL",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "market ~BDT 22,858 Cr",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXEL",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "market ~BDT 22,858 Cr",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXEL",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "market ~BDT 22,858 Cr",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXEL",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "market ~BDT 22,858 Cr",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXEL",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "market ~BDT 22,858 Cr",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXEL",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "market ~BDT 22,858 Cr",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXEL",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "market ~BDT 22,858 Cr",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXLOG",
+  "region": "Dhaka",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "no published leader",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXLOG",
+  "region": "Chattogram",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "no published leader",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXLOG",
+  "region": "Rajshahi",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "no published leader",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXLOG",
+  "region": "Khulna",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "no published leader",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXLOG",
+  "region": "Barishal",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "no published leader",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXLOG",
+  "region": "Sylhet",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "no published leader",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXLOG",
+  "region": "Rangpur",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "no published leader",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ },
+ {
+  "sbu": "NXLOG",
+  "region": "Mymensingh",
+  "market_size": null,
+  "leader": null,
+  "leader_share": null,
+  "own_share": null,
+  "gap_pp": null,
+  "leader_benchmark": null,
+  "can_lead_pp": null,
+  "national_leader_context": "no published leader",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "status": "Not Applicable"
+ }
+]

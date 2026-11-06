@@ -1,0 +1,36 @@
+{
+  "collected_at": "2026-11-01",
+  "source": "oms.tblCompetitor (competitor master)",
+  "note": "Competitor CANDIDATE list per SBU. The specific 'which competitor won each lost dealer' (E3) is a field survey — this list + national share narrows it.",
+  "sbus": [
+    {
+      "sbu": "Nexa Essentials",
+      "competitors": 60,
+      "national_leader": "Madhumala Group",
+      "key_competitors": [
+        "Nogor Group",
+        "R.M. Group",
+        "Axiom Foods",
+        "Bashkhola Group",
+        "PREM Group",
+        "Shomudro Group",
+        "Bengal Edible Oil",
+        "Sena Kollan"
+      ]
+    },
+    {
+      "sbu": "Nexa Steel",
+      "competitors": 24,
+      "national_leader": "Boral Steel",
+      "key_competitors": [
+        "Abubakar Steel",
+        "Gobind Steel",
+        "Kamal Steel (Kamal)",
+        "Anil Nexa Steel",
+        "Rafiq Steel",
+        "Metrocrete Steel",
+        "Bidar Steel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "collected_at": "2026-11-01",
+  "D1_org_structure": {
+    "source": "HR-system employee master",
+    "total_employees": 17730,
+    "headcount_loss_sbus": {
+      "Nexa Essentials": 2870,
+      "Nexa Readymix": 2875,
+      "Nexa Steel": 1166,
+      "Nexa Care": 384,
+      "Nexa Asphalt": 219
+    }
+  },
+  "D2_kpi_target": {
+    "source": "oms.tblCustomerSalesTargetHeader + tblManpowerSalesTarget",
+    "customer_target_rows": {
+      "Nexa Essentials": 34043,
+      "Nexa Steel": 6185,
+      "Nexa Asphalt": 1909,
+      "Nexa Readymix": 1164,
+      "Nexa Commodities": 38,
+      "Nexa Infotech": 6,
+      "Nexa Logistics": 4,
+      "Nexa Jobs": 4,
+      "Notunjo": 3
+    }
+  },
+  "D5_beat_compliance": {
+    "source": "rtm.tblRoutePlanHeader + tblTourPlanHeader",
+    "route_plan": {
+      "Nexa Essentials": 6737
+    },
+    "tour_plan": 19
+  },
+  "D6_attrition": {
+    "source": "hr-system/employee-master + empTransferNPromotion",
+    "separations": 2337,
+    "by_year": {
+      "2023": 13,
+      "2024": 471,
+      "2025": 780,
+      "2026": 1002
+    },
+    "transfers": 66
+  },
+  "G2_stock": {
+    "source": "wms.tblInventoryTransactionHeader",
+    "total_transactions": 3097975,
+    "loss_sbu_transactions": {
+      "Nexa Readymix": 566733,
+      "Nexa Essentials": 304408,
+      "Nexa Steel": 178600,
+      "Nexa Care": 112673,
+      "Nexa Asphalt": 28266,
+      "Notunjo": 11701,
+      "Nexa Commodities": 9863
+    }
+  }
+}

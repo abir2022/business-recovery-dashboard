@@ -1,0 +1,21 @@
+{
+  "collected_at": "2026-11-01",
+  "source": "oms.tblSalesOrderRow numUndeliveryValues (Q1 FY27 = Jul-Sep 2026, header-date scoped)",
+  "short_supply_cr": {
+    "Nexa Steel": 67.37,
+    "Nexa Readymix": 43.59,
+    "Nexa Essentials": 17.96,
+    "Notunjo": 1.74,
+    "Nexa Asphalt": 1.33,
+    "Nexa Infotech": 0.25,
+    "Nexa Commodities": 0.1,
+    "Nexa Telecom": 0
+  },
+  "short_supply_pct_of_orders": {
+    "Nexa Steel": 17.8,
+    "Nexa Readymix": 25.5,
+    "Nexa Essentials": 3.2,
+    "Nexa Asphalt": 9.2
+  },
+  "note": "The earlier '86,980 Cr' was an NXLOG-TIME sum (369,635 rows) plus a data-quality outlier — a 'Maida 50 kg' order with 400,001,704 bags = 930 bn taka phantom. Scoping to Q1 FY27 gives the correct values above."
+}

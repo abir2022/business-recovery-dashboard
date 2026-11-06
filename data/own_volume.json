@@ -1,0 +1,46 @@
+{
+  "collected_at": "2026-11-01",
+  "note": "Own volume converted to the market-definition unit per SBU. Bag=50kg, Pieces=1kg assumed (net weight varies 1–50kg by item — an itemised net-weight join refines it). All-time cumulative.",
+  "sbus": [
+    {
+      "sbu": "Nexa Steel",
+      "uom": "MT",
+      "own_volume": 1690218.6
+    },
+    {
+      "sbu": "Nexa Readymix",
+      "uom": "m3",
+      "own_volume": 1958705.2
+    },
+    {
+      "sbu": "Nexa Essentials",
+      "uom": "MT",
+      "own_volume": 24081940.8
+    },
+    {
+      "sbu": "Notunjo",
+      "uom": "MT",
+      "own_volume": 340779
+    },
+    {
+      "sbu": "Nexa Asphalt",
+      "uom": "MT",
+      "own_volume": 242208
+    },
+    {
+      "sbu": "Nexa Commodities",
+      "uom": "MT",
+      "own_volume": 156192
+    },
+    {
+      "sbu": "Nexa Telecom",
+      "uom": "pieces",
+      "own_volume": 289076
+    },
+    {
+      "sbu": "Nexa Electronics",
+      "uom": "pieces",
+      "own_volume": 1954
+    }
+  ]
+}

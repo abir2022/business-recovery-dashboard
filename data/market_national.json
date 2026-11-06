@@ -1,0 +1,202 @@
+{
+ "generated_at": "2026-10-29T17:00:08",
+ "period": "Q4 FY26 (Apr–Jun 26) vs Q1 FY27 (Jul–Sep 26)",
+ "sbus": [
+  {
+   "sbu": "NXCMT",
+   "source": "https://demo.example.com",
+   "file": "NXCMT_Market Share2",
+   "status": "ok",
+   "rows": [
+    {
+     "brand": "Sahin & Aparna",
+     "q4": 19.75,
+     "q1": 17.27,
+     "dpp": -0.8
+    },
+    {
+     "brand": "Moon",
+     "q4": 12.25,
+     "q1": 12.11,
+     "dpp": 0.7
+    },
+    {
+     "brand": "Shat Rongi",
+     "q4": 13.14,
+     "q1": 10.60,
+     "dpp": -0.5
+    },
+    {
+     "brand": "Frestho",
+     "q4": 12.05,
+     "q1": 10.25,
+     "dpp": -0.23
+    },
+    {
+     "brand": "Prottoy",
+     "q4": 9.09,
+     "q1": 10.50,
+     "dpp": 0.14
+    },
+    {
+     "brand": "Supracrete & Halcyan",
+     "q4": 6.48,
+     "q1": 6.2,
+     "dpp": 1.12
+    },
+    {
+     "brand": "Nexa",
+     "q4": 5.00,
+     "q1": 4.24,
+     "dpp": 0.31
+    },
+    {
+     "brand": "Kokila & Rupali",
+     "q4": 4.05,
+     "q1": 3.92,
+     "dpp": 0.19
+    },
+    {
+     "brand": "Amon",
+     "q4": 3.45,
+     "q1": 3.90,
+     "dpp": 0.12
+    },
+    {
+     "brand": "Bashkhola & Karnareka",
+     "q4": 4.35,
+     "q1": 3.01,
+     "dpp": -1.54
+    },
+    {
+     "brand": "Shomolon",
+     "q4": 2.4,
+     "q1": 3.14,
+     "dpp": 0.56
+    },
+    {
+     "brand": "Anil",
+     "q4": 2.26,
+     "q1": 2.51,
+     "dpp": 0.31
+    },
+    {
+     "brand": "Panch Rongi",
+     "q4": 2.11,
+     "q1": 2.6,
+     "dpp": 0.15
+    },
+    {
+     "brand": "Dia",
+     "q4": 1.68,
+     "q1": 1.47,
+     "dpp": -0.03
+    },
+    {
+     "brand": "Seven Steed",
+     "q4": 1.31,
+     "q1": 1.5,
+     "dpp": 0.13
+    },
+    {
+     "brand": "Inseca",
+     "q4": 1.21,
+     "q1": 1.22,
+     "dpp": 0.21
+    },
+    {
+     "brand": "Raal",
+     "q4": 1.13,
+     "q1": 1.12,
+     "dpp": 0.10
+    },
+    {
+     "brand": "Hati",
+     "q4": 1.1,
+     "q1": 0.86,
+     "dpp": -0.15
+    },
+    {
+     "brand": "Bagh",
+     "q4": 0.76,
+     "q1": 0.78,
+     "dpp": 0.01
+    },
+    {
+     "brand": "NGX",
+     "q4": 0.86,
+     "q1": 0.80,
+     "dpp": 0.02
+    },
+    {
+     "brand": "Metrocrete",
+     "q4": 0.4,
+     "q1": 0.44,
+     "dpp": 0.08
+    },
+    {
+     "brand": "Manar",
+     "q4": 0.20,
+     "q1": 0.15,
+     "dpp": -0.05
+    },
+    {
+     "brand": "Bango",
+     "q4": 0.03,
+     "q1": 0.04,
+     "dpp": 0.01
+    }
+   ],
+   "basis": "volume-derived share"
+  },
+  {
+   "sbu": "NXESS",
+   "source": "https://demo.example.com",
+   "file": "Martket Share Dat H1 2025-26 2",
+   "status": "unparsed",
+   "rows": []
+  },
+  {
+   "sbu": "NXRMC",
+   "source": "https://demo.example.com",
+   "file": "Month wise sales comparison2",
+   "status": "unparsed",
+   "rows": []
+  },
+  {
+   "sbu": "NXEL",
+   "source": "https://demo.example.com",
+   "file": "Copy of Competitor_Market_Share__2026.xlsx",
+   "status": "unparsed",
+   "rows": []
+  },
+  {
+   "sbu": "NXMDX",
+   "source": "https://demo.example.com",
+   "file": "Competitor Information2.xlsx",
+   "status": "unparsed",
+   "rows": []
+  },
+  {
+   "sbu": "NXPH",
+   "source": "https://demo.example.com",
+   "file": "Market / Industry Sales & Share (competitor-wise monthly)2",
+   "status": "unparsed",
+   "rows": []
+  },
+  {
+   "sbu": "NXJOB",
+   "source": "https://demo.example.com",
+   "file": "Nexa Jobs Strategic Marketing Analysis — Source Files FY26-272",
+   "status": "unparsed",
+   "rows": []
+  },
+  {
+   "sbu": "NXASP",
+   "source": "https://demo.example.com",
+   "file": "Market Share 2",
+   "status": "unparsed",
+   "rows": []
+  }
+ ]
+}

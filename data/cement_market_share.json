@@ -1,0 +1,97 @@
+{
+  "source": "sms.tblMarketShareSalesContribution + sms.tblMarketShareCompany (the ERP)",
+  "collected_at": "2026-11-01",
+  "note": "Cement (BU 4) market-share survey. Real data only for 2018 and 2022; 2019-21 empty, 2024-26 very thin (Q1 FY27 = ~14 rows). Q1 FY27 vs Q4 FY26 comparison not possible (Q4 empty).",
+  "cement_share_2022": [
+    {
+      "company": "Frestho",
+      "qty": 4711244
+    },
+    {
+      "company": "Sha",
+      "qty": 3770215
+    },
+    {
+      "company": "Prottoy",
+      "qty": 3277229
+    },
+    {
+      "company": "Nexa",
+      "qty": 2623680
+    },
+    {
+      "company": "Karnareka",
+      "qty": 2536974
+    },
+    {
+      "company": "Shat Rongi",
+      "qty": 2418532
+    },
+    {
+      "company": "Moon",
+      "qty": 2268048
+    },
+    {
+      "company": "Bashkhola",
+      "qty": 2074214
+    },
+    {
+      "company": "Halcyan",
+      "qty": 1611687
+    },
+    {
+      "company": "Panch Rongi",
+      "qty": 1168600
+    },
+    {
+      "company": "Surecrete",
+      "qty": 1384041
+    },
+    {
+      "company": "Metrocrete",
+      "qty": 1107047
+    },
+    {
+      "company": "Skaan",
+      "qty": 1167223
+    },
+    {
+      "company": "Inseca",
+      "qty": 978247
+    },
+    {
+      "company": "Bango",
+      "qty": 980204
+    },
+    {
+      "company": "Angan",
+      "qty": 871921
+    },
+    {
+      "company": "Amon Cement",
+      "qty": 726228
+    }
+  ],
+  "q1_fy27_share": [
+    {
+      "company": "Amon Cement",
+      "qty": 2124
+    },
+    {
+      "company": "Nexa",
+      "qty": 2043
+    },
+    {
+      "company": "Angan",
+      "qty": 60
+    },
+    {
+      "company": "A.Kay",
+      "qty": 12
+    },
+    {
+      "company": "Anil",
+      "qty": 6
+    }
+  ]
+}

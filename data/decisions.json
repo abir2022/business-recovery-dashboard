@@ -1,0 +1,350 @@
+[
+ {
+  "id": "D1",
+  "sbu": "NXESS",
+  "rank": 1,
+  "question": "Should Nexa Essentials get RM/LC approvals released this month?",
+  "brutal_fact": "Nexa Essentials lost 19.65 Cr in Q1 — the single largest loss in the portfolio — on raw-material shortage.",
+  "options": [
+   {
+    "name": "Approve the 30-day SKU/plant/customer recovery plan and release RM procurement",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 21.75,
+    "cost_cr": 0,
+    "time_to_impact": "30–60 days",
+    "risk": "Working capital locked in inventory",
+    "assumption": "SBU commitment (sheet col BN)"
+   },
+   {
+    "name": "Release only the top-20 SKU lines",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 10.04,
+    "cost_cr": 0,
+    "time_to_impact": "30–60 days",
+    "risk": "Partial volume recovery",
+    "assumption": "Assumed 50% of the committed recovery"
+   },
+   {
+    "name": "Do nothing — hold procurement as is",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 0,
+    "cost_cr": 0,
+    "time_to_impact": "—",
+    "risk": "Loss repeats at ~21.55 Cr/quarter",
+    "assumption": "Run-rate continuation of the Q1 loss"
+   }
+  ],
+  "recommendation": "Approve the 30-day plan — the loss is supply-driven and the fix is an approval, not capital.",
+  "why": "Root cause is RM shortage, not demand: revenue was 77.7% of budget and GP is 10.8%.",
+  "confidence": "Medium",
+  "data_ids": [
+   "A1",
+   "A8",
+   "B8"
+  ],
+  "reversibility": "Two-way door",
+  "owner": "Revenue: Sales Heads. EAT: CFO. Individual initiative owners to be assigned by the respective functional heads.",
+  "decide_by": "2026-11-05",
+  "review_date": "2026-12-05",
+  "tracking_kpi": "Weekly revenue back to 125 Cr+/month; RM fill rate ≥ 95%",
+  "kill_criterion": "If September run-rate is not recovered by 30 Nov, stop the plan and re-baseline",
+  "status": "Proposed",
+  "rec_index": 0,
+  "blocked_by": []
+ },
+ {
+  "id": "D2",
+  "sbu": "NXSTL",
+  "rank": 2,
+  "question": "Should Nexa Steel sign the Kareem Metal and Salar Steel agreements now?",
+  "brutal_fact": "Nexa Steel lost 10.5 Cr in Q1 while revenue was only 74.2% of budget; GP 13.5%.",
+  "options": [
+   {
+    "name": "Sign both agreements and continue the progressive price increase",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 12.0,
+    "cost_cr": 0,
+    "time_to_impact": "1–2 quarters",
+    "risk": "Volume loss if the market resists the price",
+    "assumption": "Q1 loss elimination is the SBU's stated target (sheet col BN)"
+   },
+   {
+    "name": "Sign Kareem Metal only (Nov), defer Salar Steel",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 6.3,
+    "cost_cr": 0,
+    "time_to_impact": "1–2 quarters",
+    "risk": "COGS stays high for another quarter",
+    "assumption": "Assumed 50% of the committed recovery"
+   },
+   {
+    "name": "Do nothing — wait for the BMRE project",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 0,
+    "cost_cr": 0,
+    "time_to_impact": "—",
+    "risk": "Loss continues until Jan-27",
+    "assumption": "Q1 run-rate"
+   }
+  ],
+  "recommendation": "Sign both now; the loss is a cost problem (electricity +18%, VAT up) and price has already moved +BDT 1,600/MT.",
+  "why": "Cost inflation, not volume, is the driver — GP fell even though achievement was 74%.",
+  "confidence": "Medium",
+  "data_ids": [
+   "A1",
+   "A6"
+  ],
+  "reversibility": "One-way door",
+  "owner": "Cluster CEO, Cluster CSO, Head of Sales, CPO",
+  "decide_by": "2026-11-15",
+  "review_date": "2026-12-15",
+  "tracking_kpi": "COGS per MT down 5%; NP ≥ 0 by Mar-27",
+  "kill_criterion": "If COGS/MT is not down 5% by 31 Dec, re-open the sourcing decision",
+  "status": "Proposed",
+  "rec_index": 0,
+  "blocked_by": []
+ },
+ {
+  "id": "D3",
+  "sbu": "NXCBX",
+  "rank": 3,
+  "question": "Should Commodities F&B keep trading below an 8% gross margin?",
+  "brutal_fact": "Commodities F&B lost 2.08 Cr on 41.11 Cr revenue at 8.6% GP.",
+  "options": [
+   {
+    "name": "Set a price floor off true landed cost and drop negative-SKU lines",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 2.3,
+    "cost_cr": 0,
+    "time_to_impact": "1 quarter",
+    "risk": "Volume falls further in Q2",
+    "assumption": "Q1 loss elimination is the SBU's stated target"
+   },
+   {
+    "name": "Hold prices, keep the 5-LC plan and grow volume",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 1.4,
+    "cost_cr": 0,
+    "time_to_impact": "2 quarters",
+    "risk": "Margin stays thin; loss continues",
+    "assumption": "Assumed 50% of the committed recovery"
+   },
+   {
+    "name": "Do nothing",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 0,
+    "cost_cr": 0,
+    "time_to_impact": "—",
+    "risk": "Loss repeats at ~2.11 Cr/quarter",
+    "assumption": "Q1 run-rate"
+   }
+  ],
+  "recommendation": "Price floor first, volume second — at 8% GP the volume plan cannot cover cost.",
+  "why": "Thin margin plus import cost; the SBU's own plan already proposes a price floor from 1-Nov.",
+  "confidence": "Medium",
+  "data_ids": [
+   "A1",
+   "A3",
+   "A5"
+  ],
+  "reversibility": "Two-way door",
+  "owner": "Md. Imran Hossen, Head of Sales – NXCBX (Imported Food Business), reporting to Md. Akhterul Alam Khan, COO, Nexa Essential.",
+  "decide_by": "2026-11-10",
+  "review_date": "2026-12-10",
+  "tracking_kpi": "GP ≥ 12% and monthly PAT ≥ 0 by 30 Nov",
+  "kill_criterion": "If GP is below 10% by 30 Nov, exit the affected SKUs",
+  "status": "Proposed",
+  "rec_index": 0,
+  "blocked_by": []
+ },
+ {
+  "id": "D4",
+  "sbu": "NXTEL",
+  "rank": 4,
+  "question": "Should Nexa Telecom stop subsidised stock clearance and go to exit review?",
+  "brutal_fact": "Nexa Telecom GP is −39.6%: it lost 1.72 Cr on 2.5 Cr revenue.",
+  "options": [
+   {
+    "name": "Stop clearance immediately; write off the residual stock",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 2.0,
+    "cost_cr": null,
+    "time_to_impact": "Immediate",
+    "risk": "Stock write-off hits this quarter",
+    "assumption": "Q1 loss is the avoidable run-rate"
+   },
+   {
+    "name": "Wind down over 2 quarters while selling at positive contribution",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 1.0,
+    "cost_cr": null,
+    "time_to_impact": "2 quarters",
+    "risk": "Subsidy continues one more quarter",
+    "assumption": "Assumed 50% of the Q1 loss avoided"
+   },
+   {
+    "name": "Do nothing",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 0,
+    "cost_cr": 0,
+    "time_to_impact": "—",
+    "risk": "Every taka of sales adds loss",
+    "assumption": "Q1 run-rate"
+   }
+  ],
+  "recommendation": "Stop clearance now and start exit review — negative gross margin cannot be fixed by volume.",
+  "why": "GP −36.6% is a structural price/cost gap, not a demand problem.",
+  "confidence": "High",
+  "data_ids": [
+   "A1",
+   "A3"
+  ],
+  "reversibility": "One-way door",
+  "owner": "Sayed Mahmud Faysal",
+  "decide_by": "2026-11-15",
+  "review_date": "2026-12-15",
+  "tracking_kpi": "No invoice below landed cost; residual stock cleared by 31 Dec",
+  "kill_criterion": "If a positive-GP range is not identified by 31 Dec, recommend exit",
+  "status": "Proposed",
+  "rec_index": 0,
+  "blocked_by": []
+ },
+ {
+  "id": "D5",
+  "sbu": "NXEL",
+  "rank": 5,
+  "question": "Should Nexa Electronics get bank financing to restock, or pause?",
+  "brutal_fact": "Nexa Electronics achieved 18.8% of budget and lost 0.9 Cr — zero stock at the principal.",
+  "options": [
+   {
+    "name": "Secure working-capital financing and restock",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 1,
+    "cost_cr": null,
+    "time_to_impact": "1–2 quarters",
+    "risk": "Debt service while demand is unproven",
+    "assumption": "Q1 loss is the avoidable run-rate"
+   },
+   {
+    "name": "Pause expansion, run 4 showrooms cash-only",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 0.4,
+    "cost_cr": 0,
+    "time_to_impact": "1 quarter",
+    "risk": "Revenue stays at ~0.8 Cr/month",
+    "assumption": "Assumed 50% of the Q1 loss avoided"
+   },
+   {
+    "name": "Do nothing",
+    "revenue_impact_cr": null,
+    "np_impact_cr": 0,
+    "cost_cr": 0,
+    "time_to_impact": "—",
+    "risk": "Fixed showroom cost with no stock",
+    "assumption": "Q1 run-rate"
+   }
+  ],
+  "recommendation": "Financing first, showrooms second — the constraint is stock, not demand.",
+  "why": "The SBU is supply-blocked; the 4 existing showrooms cannot sell what is not stocked.",
+  "confidence": "Low",
+  "data_ids": [
+   "A1",
+   "B8"
+  ],
+  "reversibility": "One-way door",
+  "owner": "Mamunur Rashid, Chief Business Officer",
+  "decide_by": "2026-11-30",
+  "review_date": "2026-12-30",
+  "tracking_kpi": "Stock cover ≥ 45 days; revenue ≥ 3 Cr/month by Jan-27",
+  "kill_criterion": "If stock is not restored by 31 Dec, re-baseline to 4 showrooms",
+  "status": "Proposed",
+  "rec_index": 0,
+  "blocked_by": []
+ },
+ {
+  "id": "D6",
+  "sbu": null,
+  "rank": null,
+  "question": "Which competitor took our share in the lost-dealer regions?",
+  "brutal_fact": "622 dealers who bought in Q4 placed no order in Q1 — and we cannot yet say why.",
+  "options": [],
+  "recommendation": null,
+  "why": null,
+  "confidence": "Low",
+  "data_ids": [
+   "C1",
+   "C2",
+   "C3"
+  ],
+  "reversibility": "—",
+  "owner": "Marketing / Strategy",
+  "decide_by": "2026-11-02",
+  "review_date": null,
+  "tracking_kpi": "C1/C2/C3 delivered",
+  "kill_criterion": "—",
+  "status": "Waiting for data",
+  "blocked_by": [
+   "C1",
+   "C2",
+   "C3"
+  ]
+ },
+ {
+  "id": "D7",
+  "sbu": null,
+  "rank": null,
+  "question": "Did our own sales team stop calling on the lost dealers?",
+  "brutal_fact": "No CRM visit/call log exists for Q1, so contact on the 622 lost dealers is unknown.",
+  "options": [],
+  "recommendation": null,
+  "why": null,
+  "confidence": "Low",
+  "data_ids": [
+   "D2",
+   "D3",
+   "D4",
+   "D5"
+  ],
+  "reversibility": "—",
+  "owner": "Sales Ops / IT",
+  "decide_by": "2026-11-02",
+  "review_date": null,
+  "tracking_kpi": "CRM extract delivered",
+  "kill_criterion": "—",
+  "status": "Waiting for data",
+  "blocked_by": [
+   "D2",
+   "D3",
+   "D4",
+   "D5"
+  ]
+ },
+ {
+  "id": "D8",
+  "sbu": null,
+  "rank": null,
+  "question": "Which lost dealers are worth winning back?",
+  "brutal_fact": "Dealer-level profit (A4) and lifting history (B2) are missing, so win-back cannot be prioritised by value.",
+  "options": [],
+  "recommendation": null,
+  "why": null,
+  "confidence": "Low",
+  "data_ids": [
+   "A4",
+   "B1",
+   "B2"
+  ],
+  "reversibility": "—",
+  "owner": "Finance / Sales Ops",
+  "decide_by": "2026-11-07",
+  "review_date": null,
+  "tracking_kpi": "Dealer profit extract",
+  "kill_criterion": "—",
+  "status": "Waiting for data",
+  "blocked_by": [
+   "A4",
+   "B1",
+   "B2"
+  ]
+ }
+]

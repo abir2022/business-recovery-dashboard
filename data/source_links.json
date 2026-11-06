@@ -1,0 +1,2039 @@
+{
+ "checked_at": "2026-11-02T16:34:31",
+ "sbus": [
+  {
+   "sbu": "Nexa Essentials",
+   "asks": 59,
+   "linked": 19,
+   "rows": [
+    {
+     "ask": 20,
+     "function": "Sales",
+     "item": "Sales org, territory assignment and vacancies",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 41,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 42,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 40,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "Copy of Competitor's Comparison - Price & Trade Offer",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "Copy of Competitor's Comparison - Price & Trade Offer",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 42,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "Copy of 7P assessment — own Q4 vs Q1 vs competitors ",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 53,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "Copy of Competitor's Comparison - Price & Trade Offer",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "Outlet Registration_NXESS.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 56,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 62,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 63,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 60,
+     "function": "Marketing",
+     "item": "Import parity, FX and duty exposure",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Care Pharmacy",
+   "asks": 68,
+   "linked": 20,
+   "rows": [
+    {
+     "ask": 20,
+     "function": "Sales",
+     "item": "Sales org, territory assignment and vacancies",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "Copy of Nexa Phamacy Market Share Details- Industry",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "Copy of Nexa Phamacy Market Share Details- Industry",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 39,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "01_Own_Volume_by_Region.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 41,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "02_Competitor_Price_List.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 42,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "03_Competitor_Offers_Credit_Terms.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 50,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "04_Dealer_Share_of_Wallet.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "05_7P_Assessment.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "Copy of Nexa Care Pharmacy Mkt Budget (26-27).xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 57,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "07_Retail_Outlet_Distribution.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "08_Competitor_Capacity_New_Entrants.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 55,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "08_Competitor_Capacity_New_Entrants.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "10_Competitor_Promotion_Launches.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "Nexa Care Pharmacy Sales-Revenue",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "drive-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 56,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 56,
+     "function": "Marketing",
+     "item": "Import parity, FX and duty exposure",
+     "label": "Data is not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 62,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Jobs",
+   "asks": 64,
+   "linked": 16,
+   "rows": [
+    {
+     "ask": 20,
+     "function": "Sales",
+     "item": "Sales org, territory assignment and vacancies",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 41,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "44 · Market size by region",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 38,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "45 · Competitor volume by region",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 39,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "46 · Own volume by region",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 42,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "47 · Competitor price list",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 50,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "48 · Competitor offers & credit terms",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "49 · Dealer share-of-wallet",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 41,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "50 · 7P assessment",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "51 · Promotion / trade spend",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "52 · Retail / outlet distribution",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "53 · Competitor capacity / new entrants",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 55,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "54 · Lost dealer → competitor mapping",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 53,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "55 · Competitor promotion & launches",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 58,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "56 · Competitor service levels",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 60,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "57 · Regional macro & disruption",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 62,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "58 · Seasonality pattern",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 62,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "59 · Regulatory / tax changes",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 61,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "60 · Regional demand pipeline",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Import parity, FX and duty exposure",
+     "label": "61 · Import parity, FX & duty",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 63,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Mediplex",
+   "asks": 57,
+   "linked": 20,
+   "rows": [
+    {
+     "ask": 16,
+     "function": "Sales",
+     "item": "Sales org, territory assignment and vacancies",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 46,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 40,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 38,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "Nexa Mediplex Dont have any kind of Dealer Partnership",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 47,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "Nexa Mediplex Dont have any kind of Retail Businesss",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 52,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 53,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 65,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 50,
+     "function": "Marketing",
+     "item": "Import parity, FX and duty exposure",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 55,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Steel",
+   "asks": 67,
+   "linked": 19,
+   "rows": [
+    {
+     "ask": 21,
+     "function": "Sales",
+     "item": "Sales org, territory assignment and vacancies",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "Copy of Market Share. NXSTL",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 40,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "Copy of Market Share. NXSTL",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "Nexa Steel_Sales Analysis Report_Oct'26 (FY 26-27)",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 46,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "Copy of Nexa Steel Competitor Analysis.",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "Copy of Competitors Analysis",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "Copy of Nexa Steel - Dealer Share-of-Wallet (FY26-27)",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "Copy of Nexa Steel - 7P Assessment (FY26-27)",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 52,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "Copy of Marketing Analysis",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 47,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 46,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 55,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 62,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 55,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 62,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 58,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Telecom",
+   "asks": 60,
+   "linked": 18,
+   "rows": [
+    {
+     "ask": 16,
+     "function": "Sales",
+     "item": "Sales KPI — target vs actual by person",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 38,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "Market size by region — Q4 FY26 and Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "Competitor volume by region — Q4 and Q1",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 36,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "Own volume by region ",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 37,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "com price list",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 40,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "Competitor offers and credit terms ",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 39,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "Not more then 15% because we have so many quality issues of our previous product stock",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "Nexa Telecom 7P assessment",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 53,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "As we are stoppping our previous product lline and will start with product of our own brand enover we didnt spend ",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 53,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "Active dealer list ",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "Competitor capacity / new entrants",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "we are connecting with more dealers now then before",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "Competitor promotion & launches",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 47,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "Competitor service levels",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "(our sales is increasing now)",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 59,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": " Income Tax",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 59,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "Regional demand opportunity map",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 51,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Electronics",
+   "asks": 55,
+   "linked": 17,
+   "rows": [
+    {
+     "ask": 14,
+     "function": "Sales",
+     "item": "Sales KPI — target vs actual by person",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 37,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 52,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 46,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Lost Customer → competitor mapping",
+     "label": "PORTAL doesn't have dealer channel yet ",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 62,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 65,
+     "function": "Marketing",
+     "item": "Import parity, FX and duty exposure",
+     "label": "This data should come from procurement /finance team",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 64,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Infotech",
+   "asks": 62,
+   "linked": 13,
+   "rows": [
+    {
+     "ask": 17,
+     "function": "Sales",
+     "item": "Sales KPI — target vs actual by person",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 41,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 37,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "Data Not Available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 40,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "Sku wise Data not available",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 42,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "Not Applicable",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "NXITX operates exclusively as a B2B business and does not have any retail or outlet distribution network.",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "Not Applicable",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 52,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "Not Applicable",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 58,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 52,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Readymix",
+   "asks": 62,
+   "linked": 18,
+   "rows": [
+    {
+     "ask": 18,
+     "function": "Sales",
+     "item": "Sales org, territory assignment and vacancies",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "Nexa Readymix - Ask 42-44 - Market Size & Volume.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "drive-public"
+    },
+    {
+     "ask": 47,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 41,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 46,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 39,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 42,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 56,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "doc-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 60,
+     "function": "Marketing",
+     "item": "Import parity, FX and duty exposure",
+     "label": "https://demo.example.com",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 63,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Commodities",
+   "asks": 58,
+   "linked": 18,
+   "rows": [
+    {
+     "ask": 18,
+     "function": "Sales",
+     "item": "Sales org, territory assignment and vacancies",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 39,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 41,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 40,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 56,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 57,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 57,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 63,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 60,
+     "function": "Marketing",
+     "item": "Import parity, FX and duty exposure",
+     "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Sheet1",
+   "asks": 0,
+   "linked": 0,
+   "rows": []
+  },
+  {
+   "sbu": "Nexa Logistics",
+   "asks": 57,
+   "linked": 19,
+   "rows": [
+    {
+     "ask": 17,
+     "function": "Sales",
+     "item": "Sales KPI — target vs actual by person",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY24 and Q1 FY25",
+     "label": "Copy of Market Size by Region — Q4 FY24 and Q1 FY25",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "Copy of Competitor volume by region — Q4 and Q1",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "Copy of Own volume by region — same definition as market size",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 50,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "Copy of Competitor_Price_List_and_Equivalent_SKUs.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "Copy of Competitor_Offers_and_Credit_Terms.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 52,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "Copy of Dealer Share Wallet",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "Copy of 7P_Assessment_Marketing_Q4_vs_Q1_Competitors.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 42,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "Copy of Nexa_Logistics_Promotion_Trade_Spend_GL4210001.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "Copy of Retail Outlet ",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 48,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "Copy of Competitor capacity / new entrants",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 50,
+     "function": "Marketing",
+     "item": "Lost Customer",
+     "label": "Copy of List of Lost Customer",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 47,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "hCopy of Competitor promotion & launches",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 56,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "Copy of Competitor Service-Level Benchmark",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 53,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "Copy of Regional Macro & Disruption",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 61,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "Copy of Seasonality Pattern",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 61,
+     "function": "Marketing",
+     "item": "Regional demand pipeline (govt / private projects)",
+     "label": "Copy of Regional Demand Pipeline",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 65,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  },
+  {
+   "sbu": "Nexa Asphalt",
+   "asks": 53,
+   "linked": 16,
+   "rows": [
+    {
+     "ask": 16,
+     "function": "Sales",
+     "item": "Sales org, territory assignment and vacancies",
+     "label": "HR-system — Employee / Position / Transfer modules",
+     "url": null,
+     "kind": "named-file"
+    },
+    {
+     "ask": 38,
+     "function": "Marketing",
+     "item": "Market size by region — Q4 FY26 and Q1 FY27",
+     "label": "Copy of NXASP 44 · Market size by region.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 45,
+     "function": "Marketing",
+     "item": "Competitor volume by region — Q4 and Q1",
+     "label": "Copy of NXASP 45 · Competitor volume by region.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 37,
+     "function": "Marketing",
+     "item": "Own volume by region — same definition as market size",
+     "label": "Copy of NXASP 46 · Own volume by region.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 44,
+     "function": "Marketing",
+     "item": "Competitor price list (equivalent SKUs, change dates)",
+     "label": "Copy of NXASP 47 · Competitor price list.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 47,
+     "function": "Marketing",
+     "item": "Competitor offers & credit terms (scheme, discount, credit days)",
+     "label": "Copy of NXASP 48 · Competitor offers & credit terms.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Dealer share-of-wallet (their total category purchase vs ours)",
+     "label": "Copy of NXASP 49 · Dealer share-of-wallet.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 42,
+     "function": "Marketing",
+     "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
+     "label": "Copy of NXASP 50 · 7P assessment.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 46,
+     "function": "Marketing",
+     "item": "Promotion / trade spend by region",
+     "label": "Copy of NXASP 51 · Promotion _ trade spend.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 52,
+     "function": "Marketing",
+     "item": "Retail / outlet distribution",
+     "label": "Copy of NXASP 52 · Retail _ outlet distribution.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 43,
+     "function": "Marketing",
+     "item": "Competitor capacity / new entrants",
+     "label": "Copy of NXASP 53 · Competitor capacity _ new entrants.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 49,
+     "function": "Marketing",
+     "item": "Lost dealer → competitor mapping",
+     "label": "Copy of NXASP 54 · Lost dealer → competitor mapping.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 51,
+     "function": "Marketing",
+     "item": "Competitor promotion & launches",
+     "label": "Copy of NXASP 55 · Competitor promotion & launches.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 54,
+     "function": "Marketing",
+     "item": "Competitor service levels",
+     "label": "Copy of NXASP 56 · Competitor service levels.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 56,
+     "function": "Marketing",
+     "item": "Regional macro & disruption events",
+     "label": "Copy of NXASP 57 · Regional macro & disruption events.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 47,
+     "function": "Marketing",
+     "item": "Seasonality pattern",
+     "label": "Copy of NXASP 58 · Seasonality pattern.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 59,
+     "function": "Marketing",
+     "item": "Regulatory / tax changes",
+     "label": "Copy of NXASP 59 · Regulatory _ tax changes.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 58,
+     "function": "Marketing",
+     "item": "Import parity, FX and duty exposure",
+     "label": "Copy of NXASP 60 · Import parity, FX and duty exposure.xlsx",
+     "url": "https://demo.example.com",
+     "kind": "link",
+     "access": "sheet-public"
+    },
+    {
+     "ask": 62,
+     "function": "HR",
+     "item": "Sales team attrition, transfers and vacancy days",
+     "label": "HR-system — attrition / transfer / vacancy reports",
+     "url": null,
+     "kind": "named-file"
+    }
+   ]
+  }
+ ]
+}

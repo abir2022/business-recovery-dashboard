@@ -1,0 +1,341 @@
+[
+ {
+  "sbu": "NXESS",
+  "name": "Nexa Essentials",
+  "source": "Marketing tracker · Consumer Goods sheet (1DIO4tXgaimF9jr6W1_--zJAasGDGE5Pi, gid 1391907820)",
+  "products": [
+   {
+    "name": "Chinigura (aromatic rice)",
+    "unit": "MT",
+    "latest": "May26",
+    "market_size": 3982,
+    "ours": "Nexa Essentials",
+    "ours_share": 4.59,
+    "leader": "Chash",
+    "leader_share": 18.49,
+    "brands": [
+     {
+      "name": "Chash",
+      "share": 20.47,
+      "sales": 1167
+     },
+     {
+      "name": "Prottoy",
+      "share": 12.23,
+      "sales": 706
+     },
+     {
+      "name": "Rupchando",
+      "share": 8.46,
+      "sales": 620
+     },
+     {
+      "name": "Frestho",
+      "share": 8.87,
+      "sales": 633
+     },
+     {
+      "name": "Others",
+      "share": 7.9,
+      "sales": 580
+     },
+     {
+      "name": "Tear",
+      "share": 5.9,
+      "sales": 321
+     },
+     {
+      "name": "Axiom",
+      "share": 5.16,
+      "sales": 292
+     },
+     {
+      "name": "Nexa Essentials",
+      "share": 4.87,
+      "sales": 271
+     }
+    ]
+   },
+   {
+    "name": "Table rice",
+    "unit": "MT",
+    "latest": "May26",
+    "market_size": 1749,
+    "ours": "Nexa Essentials",
+    "ours_share": 10,
+    "leader": "ACI",
+    "leader_share": 36,
+    "brands": [
+     {
+      "name": "Axiom",
+      "share": 30,
+      "sales": 514
+     },
+     {
+      "name": "Others",
+      "share": 30,
+      "sales": 496
+     },
+     {
+      "name": "Prottoy",
+      "share": 11,
+      "sales": 195
+     },
+     {
+      "name": "Rupchando",
+      "share": 8,
+      "sales": 163
+     },
+     {
+      "name": "Nexa Essentials",
+      "share": 9,
+      "sales": 136
+     },
+     {
+      "name": "Iram",
+      "share": 3,
+      "sales": 52
+     },
+     {
+      "name": "Frestho",
+      "share": 3,
+      "sales": 49
+     }
+    ]
+   },
+   {
+    "name": "Flour / AMS (consumer)",
+    "unit": "MT",
+    "latest": "Oct26",
+    "market_size": 44061,
+    "ours": "Nexa Essentials",
+    "ours_share": 4,
+    "leader": "Frestho",
+    "leader_share": 22,
+    "brands": [
+     {
+      "name": "Others",
+      "share": 34,
+      "sales": 14073
+     },
+     {
+      "name": "Frestho",
+      "share": 22,
+      "sales": 7816
+     },
+     {
+      "name": "Phulki",
+      "share": 17,
+      "sales": 7118
+     },
+     {
+      "name": "Tear",
+      "share": 14,
+      "sales": 5224
+     },
+     {
+      "name": "Axiom",
+      "share": 9,
+      "sales": 3759
+     },
+     {
+      "name": "Sonaron",
+      "share": 6,
+      "sales": 3215
+     },
+     {
+      "name": "Nexa Essentials",
+      "share": 4,
+      "sales": 1815
+     }
+    ]
+   },
+   {
+    "name": "Mustard oil",
+    "unit": "MT",
+    "latest": "May26",
+    "market_size": 2347,
+    "ours": "Nexa Essentials",
+    "ours_share": 2.06,
+    "leader": "Rodhuni",
+    "leader_share": 28.78,
+    "brands": [
+     {
+      "name": "Others",
+      "share": 39.1,
+      "sales": 924
+     },
+     {
+      "name": "Rokhoni",
+      "share": 27.19,
+      "sales": 648
+     },
+     {
+      "name": "Prottoy",
+      "share": 12.79,
+      "sales": 337
+     },
+     {
+      "name": "Frestho",
+      "share": 9.41,
+      "sales": 188
+     },
+     {
+      "name": "Tear",
+      "share": 7.4,
+      "sales": 184
+     },
+     {
+      "name": "Axiom",
+      "share": 4.5,
+      "sales": 122
+     },
+     {
+      "name": "Nexa Essentials",
+      "share": 2.58,
+      "sales": 57
+     }
+    ]
+   },
+   {
+    "name": "Bulk rice",
+    "unit": "MT",
+    "latest": "Jan26",
+    "market_size": 1667975,
+    "ours": "Nexa Essentials",
+    "ours_share": 0.30,
+    "leader": "Mozaharul",
+    "leader_share": 1.04,
+    "brands": [
+     {
+      "name": "Others",
+      "share": 100.06,
+      "sales": 1410902
+     },
+     {
+      "name": "Mozaharul",
+      "share": 1.17,
+      "sales": 15642
+     },
+     {
+      "name": "Tear",
+      "share": 0.46,
+      "sales": 7560
+     },
+     {
+      "name": "Nabil",
+      "share": 0.39,
+      "sales": 5766
+     },
+     {
+      "name": "Iram",
+      "share": 0.39,
+      "sales": 4911
+     },
+     {
+      "name": "Manjur",
+      "share": 0.32,
+      "sales": 5292
+     },
+     {
+      "name": "Nexa Essentials",
+      "share": 0.35,
+      "sales": 4472
+     },
+     {
+      "name": "Ehsan",
+      "share": 0.35,
+      "sales": 4998
+     },
+     {
+      "name": "Frestho",
+      "share": 0.31,
+      "sales": 3744
+     },
+     {
+      "name": "Axiom",
+      "share": 0.25,
+      "sales": 4076
+     },
+     {
+      "name": "Ekattor",
+      "share": 0.22,
+      "sales": 3226
+     },
+     {
+      "name": "Anil",
+      "share": 0.23,
+      "sales": 3569
+     },
+     {
+      "name": "Phulki",
+      "share": 0.1,
+      "sales": 1265
+     },
+     {
+      "name": "Shagore",
+      "share": 0.03,
+      "sales": 4905
+     },
+     {
+      "name": "Mazumder",
+      "share": 0.03,
+      "sales": 6216
+     }
+    ]
+   },
+   {
+    "name": "Flour / AMS (bulk)",
+    "unit": "MT",
+    "latest": "Oct26",
+    "market_size": 508768,
+    "ours": "Nexa Essentials",
+    "ours_share": 2,
+    "leader": "Phulki",
+    "leader_share": 14,
+    "brands": [
+     {
+      "name": "Others",
+      "share": 51,
+      "sales": 198551
+     },
+     {
+      "name": "Phulki",
+      "share": 13,
+      "sales": 62780
+     },
+     {
+      "name": "Tear",
+      "share": 10,
+      "sales": 57020
+     },
+     {
+      "name": "Frestho",
+      "share": 10,
+      "sales": 53752
+     },
+     {
+      "name": "Nabil",
+      "share": 8,
+      "sales": 41104
+     },
+     {
+      "name": "KBD",
+      "share": 6,
+      "sales": 31043
+     },
+     {
+      "name": "Sonaron",
+      "share": 3,
+      "sales": 19308
+     },
+     {
+      "name": "Nexa Essentials",
+      "share": 2,
+      "sales": 9078
+     }
+    ]
+   }
+  ]
+ }
+]

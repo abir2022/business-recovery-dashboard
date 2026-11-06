@@ -1,0 +1,169 @@
+{
+ "sbus": [
+  {
+   "sbu": "NXCMT",
+   "name": "NXCMT",
+   "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
+   "median_growth": 26.5,
+   "products": [
+    {
+     "product": "Cement",
+     "market_cr": null,
+     "market_qty": 40200168,
+     "own_share_pct": 5.00,
+     "growth_pct": 24.0,
+     "quadrant": "Star"
+    }
+   ],
+   "note": "Growth = our own volume change; strong = own share 5% or more"
+  },
+  {
+   "sbu": "NXSTL",
+   "name": "NXSTL",
+   "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
+   "median_growth": 29.4,
+   "products": [
+    {
+     "product": "Steel (MT)",
+     "market_cr": null,
+     "market_qty": 6094191,
+     "own_share_pct": 3.92,
+     "growth_pct": 28.8,
+     "quadrant": "Question mark"
+    }
+   ],
+   "note": "Growth = our own volume change; strong = own share 5% or more"
+  },
+  {
+   "sbu": "NXESS",
+   "name": "NXESS",
+   "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
+   "median_growth": 105.0,
+   "products": [
+    {
+     "product": "Rice ( Table Consumer)",
+     "market_cr": null,
+     "market_qty": 21406,
+     "own_share_pct": 21.75,
+     "growth_pct": -11.1,
+     "quadrant": "Cash cow"
+    },
+    {
+     "product": "Flour (Consumer)",
+     "market_cr": null,
+     "market_qty": 544824,
+     "own_share_pct": 6.35,
+     "growth_pct": 309.0,
+     "quadrant": "Star"
+    },
+    {
+     "product": "M. Oil",
+     "market_cr": null,
+     "market_qty": 29358,
+     "own_share_pct": 7.24,
+     "growth_pct": 135.2,
+     "quadrant": "Star"
+    },
+    {
+     "product": "Rice (Aromatic Consumer)",
+     "market_cr": null,
+     "market_qty": 63261,
+     "own_share_pct": 4.70,
+     "growth_pct": -13.3,
+     "quadrant": "Dog"
+    },
+    {
+     "product": "Flour (Bulk)",
+     "market_cr": null,
+     "market_qty": 3880254,
+     "own_share_pct": 3.30,
+     "growth_pct": 109.6,
+     "quadrant": "Question mark"
+    },
+    {
+     "product": "Salt",
+     "market_cr": null,
+     "market_qty": 965878,
+     "own_share_pct": 0.95,
+     "growth_pct": 136.5,
+     "quadrant": "Question mark"
+    },
+    {
+     "product": "Puffed Rice",
+     "market_cr": null,
+     "market_qty": 47765,
+     "own_share_pct": 0.33,
+     "growth_pct": 361.1,
+     "quadrant": "Question mark"
+    },
+    {
+     "product": "Rice (Bulk)",
+     "market_cr": null,
+     "market_qty": 20339078,
+     "own_share_pct": 0.16,
+     "growth_pct": -43.8,
+     "quadrant": "Dog"
+    },
+    {
+     "product": "Semai",
+     "market_cr": null,
+     "market_qty": 35600,
+     "own_share_pct": 0.1,
+     "growth_pct": 101.4,
+     "quadrant": "Dog"
+    }
+   ],
+   "note": "Growth = our own volume change; strong = own share 5% or more"
+  },
+  {
+   "sbu": "NXAGF",
+   "name": "NXAGF",
+   "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
+   "median_growth": 553.6,
+   "products": [
+    {
+     "product": "Cattle",
+     "market_cr": null,
+     "market_qty": 900163,
+     "own_share_pct": 3.34,
+     "growth_pct": 411.6,
+     "quadrant": "Dog"
+    },
+    {
+     "product": "Poultry",
+     "market_cr": null,
+     "market_qty": 5377602,
+     "own_share_pct": 2.18,
+     "growth_pct": 514.6,
+     "quadrant": "Question mark"
+    },
+    {
+     "product": "Aquaculture",
+     "market_cr": null,
+     "market_qty": 1679043,
+     "own_share_pct": 1.71,
+     "growth_pct": 501,
+     "quadrant": "Question mark"
+    }
+   ],
+   "note": "Growth = our own volume change; strong = own share 5% or more"
+  },
+  {
+   "sbu": "NXASP",
+   "name": "NXASP",
+   "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
+   "median_growth": -21.5,
+   "products": [
+    {
+     "product": "Lube Oil",
+     "market_cr": null,
+     "market_qty": 137501,
+     "own_share_pct": 0.21,
+     "growth_pct": -27,
+     "quadrant": "Question mark"
+    }
+   ],
+   "note": "Growth = our own volume change; strong = own share 5% or more"
+  }
+ ]
+}
