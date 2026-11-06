@@ -1,102 +1,75 @@
 # NexaGroup SBU Loss Recovery — Diagnostic Dashboard
 
-A **self-contained, single-file HTML dashboard** (no build step, no CDN, no framework) that
-diagnoses why the fictional **NexaGroup's** loss-making SBUs are losing money in
-**Q1 FY2026-27 (Jul–Sep 2026)**, what their recovery plans are, and whether those plans reach
-Q2 profit.
+A zero-dependency, single-file HTML dashboard that turns a diversified group's twelve loss-making
+business units into one executive view: *why* each unit is losing, *what* its own recovery plan
+commits, and *whether* that commitment reaches break-even inside the next quarter. It opens
+straight from disk, ships with every figure inlined, and draws all charts as hand-written SVG.
 
-> **Synthetic demo.** This is a portfolio project. All company names, SBUs, competitors,
-> brands, people, and every monetary / volume figure are **synthetic demo data** — randomly
-> rescaled from a demo generator. The `data/*.json` files are static build snapshots; the
-> dashboard ships with all numbers already inlined in `index.html`, so **no live source, ERP,
-> spreadsheet, or API is used at runtime.**
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new) ![build](https://img.shields.io/badge/build-none-10B981) ![runtime%20deps](https://img.shields.io/badge/runtime%20deps-0-3B82F6) ![status](https://img.shields.io/badge/status-portfolio%20demo-D97706)
 
----
+![Dashboard banner](assets/banner.png)
 
-## 1. Problem
+> **Synthetic demo data.** Every company, SBU, competitor, brand, person and monetary figure is
+> fictional and randomly rescaled for this portfolio. `data/*.json` are static build snapshots;
+> nothing is fetched, queried or written at runtime.
 
-A diversified group has a dozen business units running at a loss. Leadership needs, in one view:
-*why* each unit is losing, *what* the recovery plan commits, and *whether* that plan actually
-closes the gap in the coming quarter. That analysis normally lives scattered across spreadsheets
-and reports — hard to read, easy to distrust.
+## Quick start
 
-## 2. Solution
+```bash
+start index.html            # Windows — or double-click the file
+open index.html             # macOS
+python -m http.server 8000  # or serve the folder statically
+```
 
-A single HTML file that renders an executive **Overview** plus a page per loss-making SBU, with
-charts and scorecards derived from the embedded data model. It is fully client-side and deploys
-as a static site.
+## What it does
 
-- **Overview** — portfolio KPIs (revenue deficit, net loss, stated commitment, break-even
-  coverage), a "revenue recovery — committed vs required" chart, a "break-even vs the Q2 window"
-  timeline, and a full SBU scorecard table.
-- **One page per loss-making SBU** (collapsible sidebar, most-loss-first), each showing:
-  - **Internal problems** — Acquisition · Conversion · Retention · Business degression cards.
-  - **External problems** — market / regulatory / macro factors.
-  - **Monthly revenue** chart (budget vs actual, Jul/Aug/Sep).
-  - **Q2-profit verdict**, **recovery plan**, and **commitment & accountability**.
+- **MD Brief** — one direction per loss-making SBU from four data-only rules, the top 5 decisions
+  of the week (options, NP impact, cost, owner, kill criterion), three brutal facts, and the
+  decisions still blocked on a named Data ID.
+- **Overview** — four KPI cards with delta chips, committed-vs-required recovery bars, a
+  break-even timeline against the Q2 profit window, and the full SBU scorecard.
+- **One page per SBU** — loss demarcation tree (division → district → thana), monthly budget vs
+  actual, Q2-profit verdict, internal / external problem cards, commitment & accountability, plus
+  the market, dealer, CRM, 7P, BCG, brand-audit and people-cost evidence that actually exists.
+- **Loss bridge, competitive game, EAT simulator** — revenue-effect vs residual split, a hold/cut
+  payoff matrix, and live price / volume / COGS sliders on Q1 actuals.
+- **Design layer** — token-driven dark-navy UI (Fira Sans / Fira Code), sticky top bar with a
+  synthetic-data chip and light-mode toggle, tooltips and legends on every chart, focus-visible
+  rings, `prefers-reduced-motion` support, one ≤450 ms load-in stagger.
 
-## 3. Features
-
-- Zero-dependency, single-file app — opens directly in a browser.
-- Inline SVG charts (recovery, break-even timeline, monthly trend) — no chart library.
-- Severity-toned cards, verdict badges, and an SBU scorecard with rankings.
-- Collapsible navigation, most-loss-first ordering, surplus units filtered out.
-
-## 4. SBUs covered (fictional)
-
-Nexa Electronics · Nexa Logistics · Nexa Care Pharmacy · Nexa Jobs · Nexa Telecom ·
-Nexa Essentials · Nexa Readymix · Nexa Commodities · Nexa Asphalt · Nexa Infotech ·
-Nexa Steel · Nexa Mediplex
-
-## 5. Repo layout
+## Layout
 
 ```
 business-recovery-dashboard/
-├── index.html            # the entire dashboard (data inlined)
-├── data/                 # static demo snapshots (not fetched at runtime)
-├── src/                  # analysis modules (used at build time only)
-├── scripts/              # offline build/validation helpers
-├── tests/                # unit tests for the analysis functions
-├── PROFILE.md            # portfolio one-pager
-├── CHANGELOG.md
-└── README.md
+├── index.html         # the whole app: markup + design layer + inlined data
+├── data/*.json        # static demo snapshots (build inputs, never fetched)
+├── src/               # extracted script, analysis module, inventory snapshot
+├── scripts/           # offline validate / embed / split helpers
+├── tests/             # unit tests for the analysis functions (node)
+└── README.md · PROFILE.md · CHANGELOG.md · TRADEOFFS.md
 ```
 
-## 6. Code organization (inside `index.html`)
+Inside `index.html`: `SBUS` (SBU data model), `META` (accountability scorecard), `BE` (break-even
+month), `DEMARC` (geographic loss split) and `MD` (all snapshot blocks) are plain literals; every
+`render*()` function writes one pane. Analysis rules live in `src/analysis/analysis.js` and are
+mirrored inline.
 
-| Symbol | What it holds |
-|--------|---------------|
-| `SBUS`  | Array of SBU objects (the data model). Surplus units (loss 0) are spliced out, then sorted most-loss-first at load. |
-| `META`  | Per-SBU lookup: business head, loss region, order scorecards, commitments, owner, People/Process/Technology. |
-| `BE`    | Break-even month per SBU, used by the overview timeline. |
-| `renderOverview()` / `renderSbu()` | Overview KPIs/charts and per-SBU page rendering. |
+## Working with it
 
-## 7. Run locally
+- Tests: `node tests/test_analysis.js`
+- After editing `data/`: `python scripts/validate_data.py data/` then `python scripts/embed_data.py`
+- Money is BDT crore; labels use full names; gaps are shown as "Data pending", never estimated.
 
-No build step — it's a static file:
+## Demo-data disclaimer
 
-```bash
-# just open it
-start index.html          # Windows
-open index.html           # macOS
-# or serve it
-python -m http.server 8000
-```
+Names (`NexaGroup`, the `NX…` SBU codes, competitor brands, people) and all quantities are
+synthetic. Source-system labels (ERP table names, Data IDs, GL codes) are illustrative, kept to
+show how a real recovery pack is wired together — they are not real systems. Method, formulas and
+decision logic are documented in [`PROFILE.md`](PROFILE.md).
 
-## 8. Deploy (Vercel — static)
+## Deploy
 
-Import the repository (or this folder) into Vercel. It's a static site: framework **Other**,
-build command **none**, output directory the project root. `index.html` is served as-is; no API
-or environment variables are required.
+Import the folder into Vercel as a static site — framework **Other**, no build command, output
+directory = project root; no environment variables or keys.
 
-## 9. Conventions & gotchas
-
-- **Full names, not codes** in all visible labels.
-- Money in **BDT crore** throughout (synthetic).
-- `deficit` = top-line deficit; `rev.q1.deficit` = budget − actual.
-- Surplus SBUs (loss 0) are hidden at load — remove the filter line to show them.
-
-## 10. Disclaimer
-
-Prepared for a personal portfolio. No real company, financial, or personal information is
-included; any resemblance to a real organisation is coincidental. See `PROFILE.md`.
+Built by Abir — portfolio piece. See `PROFILE.md` for methodology and limitations.

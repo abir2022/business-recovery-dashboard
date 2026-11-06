@@ -4,30 +4,30 @@
    "sbu": "NXESS",
    "name": "Nexa Essentials",
    "period": "Q1FY27",
-   "revenue": 462.34,
-   "budget_revenue": 378.23,
-   "cogs": 428.310,
-   "gross_margin": -128.35,
-   "gp_pct": 0.0989,
-   "sd_cost": 14.376,
-   "admin_cost": 3.52,
-   "ebitda": 48.045,
-   "finance_cost": 45.433,
-   "net_profit": -24.89,
-   "budget_np": -13.71,
-   "fixed_cost": 73.24,
-   "cm_pct": 0.1152,
-   "breakeven_sales": 1043.4,
-   "deficit": 112.4,
-   "loss": 25.53,
+   "revenue": 423.16,
+   "budget_revenue": 407.33,
+   "cogs": 397.242,
+   "gross_margin": -126.33,
+   "gp_pct": 0.083,
+   "sd_cost": 11.775,
+   "admin_cost": 3.32,
+   "ebitda": 48.093,
+   "finance_cost": 59.171,
+   "net_profit": -21.84,
+   "budget_np": -13.61,
+   "fixed_cost": 82.75,
+   "cm_pct": 0.1161,
+   "breakeven_sales": 1000.3,
+   "deficit": 121.7,
+   "loss": 20.43,
    "scope": "Revenue + Loss",
    "status": "Not Started",
-   "commit_rev": 84.42,
-   "commit_loss": 20.6,
-   "erp_revenue_q1": 442.135,
-   "erp_revenue_q4": 474.035,
-   "erp_np_proxy_q1": -9.12,
-   "erp_np_proxy_q4": -30.014,
+   "commit_rev": 98.18,
+   "commit_loss": 23.9,
+   "erp_revenue_q1": 385.101,
+   "erp_revenue_q4": 383.483,
+   "erp_np_proxy_q1": -7.84,
+   "erp_np_proxy_q4": -28.017,
    "data_completeness": 0.205,
    "root_cause_rev": "Sales underachievement across priority channels due to Lentils, chickpeas, yellow peas, raw martials shortage, Miniket paddy shortage and taking some strategic call for go slow in AMS. Chinigura rice demand reduced in Market. Still not inject NPD, which was included in budget and Disruption salt supply.",
    "root_cause_loss": "After maintaining more than 11% GP it can not be negative. Finance cost Matter.",
@@ -40,30 +40,30 @@
    "sbu": "NXSTL",
    "name": "Nexa Steel",
    "period": "Q1FY27",
-   "revenue": 292.19,
-   "budget_revenue": 371.52,
-   "cogs": 264.748,
-   "gross_margin": 37.07,
-   "gp_pct": 0.119,
-   "sd_cost": 9.02,
-   "admin_cost": 1.74,
-   "ebitda": 36.100,
-   "finance_cost": 5.99,
-   "net_profit": -13,
-   "budget_np": -4.88,
-   "fixed_cost": 18.76,
-   "cm_pct": 0.157,
-   "breakeven_sales": 172.2,
-   "deficit": 93.37,
-   "loss": 10.6,
+   "revenue": 324.62,
+   "budget_revenue": 369.31,
+   "cogs": 295.894,
+   "gross_margin": 29.28,
+   "gp_pct": 0.108,
+   "sd_cost": 9.75,
+   "admin_cost": 2.22,
+   "ebitda": 27.209,
+   "finance_cost": 6.39,
+   "net_profit": -16,
+   "budget_np": -4.5,
+   "fixed_cost": 18.45,
+   "cm_pct": 0.175,
+   "breakeven_sales": 169.5,
+   "deficit": 117.5,
+   "loss": 11.5,
    "scope": "Revenue + Loss",
    "status": "In progress",
    "commit_rev": null,
    "commit_loss": null,
-   "erp_revenue_q1": 276.257,
-   "erp_revenue_q4": 319.768,
-   "erp_np_proxy_q1": 19.68,
-   "erp_np_proxy_q4": 57.578,
+   "erp_revenue_q1": 281.112,
+   "erp_revenue_q4": 272.682,
+   "erp_np_proxy_q1": 18.43,
+   "erp_np_proxy_q4": 53.488,
    "data_completeness": 0.16,
    "root_cause_rev": "The budget rate was set considering the anticipated increase in key cost components, including approximately 18% increase in electricity cost and VAT increase from BDT 3,300 to BDT 3,900/MT. However, the expected price increase could not be fully reflected in the market due to weak demand and competitive pressure from top Brands like Boral Steel, AKS, Kamal Steel and Gobind Steel. Additionally, The volume shortfall was primarily influenced by the overall industry-wide de-growth during Jul–Sep 2026.",
    "root_cause_loss": "The budget rate was set considering the anticipated increase in key cost components, including approximately 18% increase in electricity cost and VAT increase from BDT 3,300 to BDT 3,900/MT. However, the expected price increase could not be fully reflected in the market due to weak demand and competitive pressure from top Brands like Boral Steel, AKS, Kamal Steel and Gobind Steel. We are currently sourcing materials from Shamim Steel and Rani Mill at a cost approximately BDT 2,500–3,000 per MT higher than our current cost from Mohammadpur Steel.",
@@ -76,30 +76,30 @@
    "sbu": "NXRMC",
    "name": "Nexa Readymix",
    "period": "Q1FY27",
-   "revenue": 87.01,
-   "budget_revenue": 134.90,
-   "cogs": 86.86,
-   "gross_margin": 19.246,
-   "gp_pct": 0.156,
-   "sd_cost": 9.01,
-   "admin_cost": 0.442,
-   "ebitda": 22.70,
+   "revenue": 103.32,
+   "budget_revenue": 135.37,
+   "cogs": 98.23,
+   "gross_margin": 22.3,
+   "gp_pct": 0.127,
+   "sd_cost": 10.41,
+   "admin_cost": 0.457,
+   "ebitda": 18.03,
    "finance_cost": 7.44,
-   "net_profit": -5.59,
+   "net_profit": -5.77,
    "budget_np": 1,
-   "fixed_cost": 11.29,
-   "cm_pct": 0.1622,
-   "breakeven_sales": 65.4,
-   "deficit": 26.34,
-   "loss": 7.8,
+   "fixed_cost": 13.04,
+   "cm_pct": 0.1686,
+   "breakeven_sales": 63.5,
+   "deficit": 27.34,
+   "loss": 8.8,
    "scope": "Revenue + Loss",
    "status": "In progress",
-   "commit_rev": 30.6,
-   "commit_loss": 6.40,
-   "erp_revenue_q1": 114.488,
-   "erp_revenue_q4": 76.23,
-   "erp_np_proxy_q1": 12.1,
-   "erp_np_proxy_q4": 3.949,
+   "commit_rev": 29.6,
+   "commit_loss": 6.76,
+   "erp_revenue_q1": 97.025,
+   "erp_revenue_q4": 74.82,
+   "erp_np_proxy_q1": 14.2,
+   "erp_np_proxy_q4": 3.921,
    "data_completeness": 0.16,
    "root_cause_rev": "Q1 revenue underperformance was primarily attributable to the rainy season, which traditionally represents a lean period for the construction materials industry, resulting in lower sales volume and reduced capacity utilization. Limited market penetration and the absence of an RMC plant within Dhaka City further constrained market access and increased logistics and distribution costs. Additionally, competitive pricing pressure, lower conversion of sales leads into confirmed orders, and challenges in acquiring new customers and retaining existing ones contributed to the shortfall against the budgeted revenue target.",
    "root_cause_loss": "The Q1 net loss resulted from inadequate revenue and volume absorption against a high fixed-cost base, low and fluctuating gross margins, high logistics and distribution expenses, manufacturing overhead, and substantial financial expenses. Lower capacity utilization and unfavorable selling-price-to-cost relationships further weakened profitability. The September deterioration in GP margin and the continuing negative EBIT demonstrate the need for immediate cost and margin correction.",
@@ -112,30 +112,30 @@
    "sbu": "NXMDX",
    "name": "Nexa Mediplex",
    "period": "Q1FY27",
-   "revenue": 0.69,
-   "budget_revenue": 2.55,
+   "revenue": 0.71,
+   "budget_revenue": 2.14,
    "cogs": null,
    "gross_margin": null,
    "gp_pct": 0.2,
-   "sd_cost": 0.336,
-   "admin_cost": 1.072,
-   "ebitda": -0.894,
-   "finance_cost": 0.64,
-   "net_profit": -2.47,
-   "budget_np": -2.29,
-   "fixed_cost": 6.91,
-   "cm_pct": 0.4780,
-   "breakeven_sales": 16.4,
-   "deficit": 1.32,
-   "loss": 2.36,
+   "sd_cost": 0.332,
+   "admin_cost": 1.318,
+   "ebitda": -0.829,
+   "finance_cost": 0.63,
+   "net_profit": -2.41,
+   "budget_np": -2.22,
+   "fixed_cost": 6.74,
+   "cm_pct": 0.4653,
+   "breakeven_sales": 15.9,
+   "deficit": 1.43,
+   "loss": 1.8,
    "scope": "Revenue + Loss",
    "status": "In progress",
    "commit_rev": null,
    "commit_loss": null,
-   "erp_revenue_q1": 0.561,
-   "erp_revenue_q4": 0.023,
-   "erp_np_proxy_q1": -1.919,
-   "erp_np_proxy_q4": -1.635,
+   "erp_revenue_q1": 0.624,
+   "erp_revenue_q4": 0.029,
+   "erp_np_proxy_q1": -1.598,
+   "erp_np_proxy_q4": -1.489,
    "data_completeness": 0.12,
    "root_cause_rev": "Referral policy not equivalent to competitors; doctors confused about entitlement Referral payments delayed by approval issues Sales team abolished; new team late Sales coverage incomplete Star doctors not available; no celebrity USG doctor Star doctors not available for practicing Services absent: OPG, endoscopy, colonoscopy, EEG, EMG, ETT Marketing not up to the mark Low street-level awareness; competitors 30+ years in market Cost base ahead of volume",
    "root_cause_loss": "Referral policy not equivalent to competitors; doctors confused about entitlement Referral payments delayed by approval issues Sales team abolished; new team late Sales coverage incomplete Star doctors not available; no celebrity USG doctor Star doctors not available for practising Services absent: OPG, endoscopy, colonoscopy, EEG, EMG, ETT Marketing not up to the mark Low street-level awareness; competitors 30+ years in market Cost base ahead of volume",
@@ -148,30 +148,30 @@
    "sbu": "NXCBX",
    "name": "Nexa Commodities",
    "period": "Q1FY27",
-   "revenue": 39.77,
-   "budget_revenue": 8.37,
-   "cogs": 36.556,
-   "gross_margin": -5.87,
+   "revenue": 44.92,
+   "budget_revenue": 7.65,
+   "cogs": 36.348,
+   "gross_margin": -6.39,
    "gp_pct": 0.1,
-   "sd_cost": 0.689,
+   "sd_cost": 0.638,
    "admin_cost": 0.32,
    "ebitda": -7,
-   "finance_cost": 3.971,
-   "net_profit": -2.7,
+   "finance_cost": 4.013,
+   "net_profit": -3.1,
    "budget_np": 0.3,
-   "fixed_cost": 3.66,
-   "cm_pct": -0.2370,
+   "fixed_cost": 3.68,
+   "cm_pct": -0.2442,
    "breakeven_sales": null,
    "deficit": 0,
    "loss": 2.9,
    "scope": "Loss only",
    "status": "In progress",
-   "commit_rev": 7.7,
+   "commit_rev": 8.1,
    "commit_loss": 0,
-   "erp_revenue_q1": 43.575,
-   "erp_revenue_q4": 51.840,
-   "erp_np_proxy_q1": -9.795,
-   "erp_np_proxy_q4": -6.157,
+   "erp_revenue_q1": 39.498,
+   "erp_revenue_q4": 48.664,
+   "erp_np_proxy_q1": -10.872,
+   "erp_np_proxy_q4": -6.582,
    "data_completeness": 0.205,
    "root_cause_rev": "Q1 FY26-27 net revenue BDT 3.33 Cr against a BDT 8.31 Cr budget — a shortfall of BDT 3.7 Cr (43% achievement): Jul 1.191 vs 1.37 (90%), Aug 0.459 vs 1.79 (33%), Sep 1.206 vs 3.35 (27%). The deficit is supply-driven, not demand-driven. The Malaysia and Thailand import lines that carry the core range were not opened in the quarter, so 56% of finished-goods SKUs (82 of 146) sat at zero stock and three new categories budgeted at BDT 1.3 Cr never traded. A customs branch lock on one Thailand shipment held ~BDT 2.17 Cr of sellable stock for most of July, and a C&F transition that was not F&B-ready produced clearance delays and misdeclared HS codes on 3 of 18 lines. Sell-in was further constrained by credit holds on the two customers who represent ~78% of revenue. Demand was intact — July hit 90% of budget and collections ran at 81% — the business simply had nothing to sell.",
    "root_cause_loss": "PAT −BDT 1.1 Cr against a budgeted profit of BDT 0.34 Cr — adverse BDT 1.91 Cr (Jul −0.386, Aug −0.935, Sep −0.246); EBITDA −0.99 Cr against +0.88 Cr budget. Most of the loss is non-recurring import shock: BDT 87L exceptional cost (BDT 37L demurrage and penalties on a held shipment, BDT 50L from a C&F assessment error that raised Gatorade from USD 1.62 to 8.63) plus a BDT 32.39L NRV write-down. The remainder is structural: volume at 43% of plan cannot absorb fixed cost — August COGS exceeded revenue — gross margin was negative to thin in July–August and only recovered in September.",
@@ -184,30 +184,30 @@
    "sbu": "NXPH",
    "name": "Nexa Care Pharmacy",
    "period": "Q1FY27",
-   "revenue": 23.1,
-   "budget_revenue": 22.81,
-   "cogs": 18.244,
-   "gross_margin": 2.446,
-   "gp_pct": 0.1279,
-   "sd_cost": 0.18,
-   "admin_cost": 3.903,
-   "ebitda": -0.944,
-   "finance_cost": 0.75,
-   "net_profit": -2.62,
-   "budget_np": -2.89,
-   "fixed_cost": 4.89,
-   "cm_pct": 0.150,
-   "breakeven_sales": 52,
-   "deficit": 3.61,
-   "loss": 2.99,
+   "revenue": 18.1,
+   "budget_revenue": 25.75,
+   "cogs": 15.355,
+   "gross_margin": 2.347,
+   "gp_pct": 0.1336,
+   "sd_cost": 0.15,
+   "admin_cost": 3.208,
+   "ebitda": -0.942,
+   "finance_cost": 0.7,
+   "net_profit": -2.36,
+   "budget_np": -2.75,
+   "fixed_cost": 5.77,
+   "cm_pct": 0.142,
+   "breakeven_sales": 58,
+   "deficit": 3.45,
+   "loss": 2.37,
    "scope": "Revenue + Loss",
    "status": "On track",
-   "commit_rev": 3.24,
-   "commit_loss": 2.45,
-   "erp_revenue_q1": 24.670,
-   "erp_revenue_q4": 16.9,
-   "erp_np_proxy_q1": -2.000,
-   "erp_np_proxy_q4": -2.674,
+   "commit_rev": 3.78,
+   "commit_loss": 2.73,
+   "erp_revenue_q1": 19.682,
+   "erp_revenue_q4": 15.3,
+   "erp_np_proxy_q1": -2.003,
+   "erp_np_proxy_q4": -2.64,
    "data_completeness": 0.12,
    "root_cause_rev": "1. Expansion was slower than budgeted. Outlet growth was deliberately slowed (34 outlets now), and new outlets take longer to reach maturity, so revenue from new stores lagged the budget. 2. The budget assumed a steeper ramp than the network delivered. Budget grew 36% from July to September (5.92 → 10.57). Actual sales grew 25% (5.61 → 7.05). The monthly gap widened from 0.86 to 1.39 to 1.71 Cr. Actual sales are growing; they are just growing more slowly than budget assumed. 3. Competitive pressure is high. Neighborhood pharmacies and online players (discount-led) are taking sales.",
    "root_cause_loss": "1. GP is too thin to cover the cost base. GP of 12.9% (12.5% in September, falling) yields about 2.1 Cr per quarter against about 4.2 Cr of costs. 2. Fixed costs are high relative to current sales. Outlet rent, staff and head-office overhead were sized for the budgeted network and volume. Sales per outlet are only about 22 lakh a month. 3. The margin is being diluted. Customer discounts are given to compete, high-margin categories are a small share of sales, and supplier terms for trade discounts and bonuses are weak. 4. Working capital costs are rising. Mostly cash purchasing, inventory build-up, and some expiry or slow-moving stock add finance cost. Note: EAT came in 0.13 Cr better than budget, so cost control is working. The gap is structural, driven by revenue and margin.",
@@ -220,30 +220,30 @@
    "sbu": "NXASP",
    "name": "Nexa Asphalt",
    "period": "Q1FY27",
-   "revenue": 6.9,
-   "budget_revenue": 28.87,
-   "cogs": 7.100,
-   "gross_margin": -1.649,
-   "gp_pct": 0.0526,
-   "sd_cost": 2.25,
-   "admin_cost": 0.343,
-   "ebitda": 4.50,
-   "finance_cost": 1.308,
+   "revenue": 8.7,
+   "budget_revenue": 28.4,
+   "cogs": 8.029,
+   "gross_margin": -1.552,
+   "gp_pct": 0.0657,
+   "sd_cost": 2.48,
+   "admin_cost": 0.413,
+   "ebitda": 3.75,
+   "finance_cost": 1.22,
    "net_profit": -2.7,
    "budget_np": 0.01,
-   "fixed_cost": 3.02,
-   "cm_pct": 0.331,
-   "breakeven_sales": 10.1,
-   "deficit": 23.23,
-   "loss": 2.65,
+   "fixed_cost": 3.61,
+   "cm_pct": 0.298,
+   "breakeven_sales": 10.2,
+   "deficit": 28.74,
+   "loss": 2.43,
    "scope": "Revenue + Loss",
    "status": "In progress",
-   "commit_rev": 25.84,
-   "commit_loss": 1.93,
-   "erp_revenue_q1": 12.501,
+   "commit_rev": 25.86,
+   "commit_loss": 2.14,
+   "erp_revenue_q1": 12.407,
    "erp_revenue_q4": 34,
-   "erp_np_proxy_q1": 2.885,
-   "erp_np_proxy_q4": 5.260,
+   "erp_np_proxy_q1": 3.043,
+   "erp_np_proxy_q4": 5.712,
    "data_completeness": 0.205,
    "root_cause_rev": "The revenue shortfall was mainly caused by the rainy season, which reduced road construction activities and asphalt demand, and the unavailability of LC bitumen, forcing the company to purchase higher priced local bitumen. This weakened price competitiveness and reduced order conversion. Q1 revenue was Tk 7.10 Cr against a budget of Tk 30.16 Cr, resulting in a deficit of Tk 25.83 Cr (81.1%).",
    "root_cause_loss": "Low revenue and sales volume resulted in inadequate absorption of fixed costs. Higher priced local bitumen, Lower sales demand, and increased sales price weakened profitability. GP margin declined to -11.0% in September. Consequently, Q1 EAT was a loss of Tk 2.14 Cr against a budgeted profit of Tk 0.01 Cr, creating an adverse gap of Tk 2.23 Cr.",
@@ -256,30 +256,30 @@
    "sbu": "NXTEL",
    "name": "Nexa Telecom",
    "period": "Q1FY27",
-   "revenue": 2.57,
-   "budget_revenue": 3.25,
-   "cogs": 4.456,
-   "gross_margin": -1.306,
-   "gp_pct": -0.481,
-   "sd_cost": 0.5833,
-   "admin_cost": 0.081,
+   "revenue": 2.79,
+   "budget_revenue": 2.98,
+   "cogs": 4.699,
+   "gross_margin": -1.061,
+   "gp_pct": -0.412,
+   "sd_cost": 0.5306,
+   "admin_cost": 0.082,
    "ebitda": -1.57,
-   "finance_cost": 0.460,
-   "net_profit": -2.8,
-   "budget_np": -1.90,
-   "fixed_cost": 0.88,
-   "cm_pct": -0.6425,
+   "finance_cost": 0.41,
+   "net_profit": -2.6,
+   "budget_np": -1.95,
+   "fixed_cost": 1.0,
+   "cm_pct": -0.6559,
    "breakeven_sales": null,
    "deficit": 0,
-   "loss": 1.6,
+   "loss": 1.8,
    "scope": "Loss only",
    "status": "In progress",
    "commit_rev": null,
-   "commit_loss": 1.5,
-   "erp_revenue_q1": 2.29,
-   "erp_revenue_q4": 1.406,
-   "erp_np_proxy_q1": -2.5,
-   "erp_np_proxy_q4": -1.051,
+   "commit_loss": 1.7,
+   "erp_revenue_q1": 2.57,
+   "erp_revenue_q4": 1.563,
+   "erp_np_proxy_q1": -2.6,
+   "erp_np_proxy_q4": -1.028,
    "data_completeness": 0.205,
    "root_cause_rev": "Revenue Achieved",
    "root_cause_loss": "To clear the old and slow-moving stock, we sold products to dealers with higher subsidies. As a result, the company incurred financial losses.",
@@ -292,30 +292,30 @@
    "sbu": "NXJOB",
    "name": "Nexa Jobs",
    "period": "Q1FY27",
-   "revenue": 0.5,
-   "budget_revenue": 0.62,
+   "revenue": 0.6,
+   "budget_revenue": 0.78,
    "cogs": null,
    "gross_margin": null,
-   "gp_pct": 0.3763,
-   "sd_cost": 0.066,
-   "admin_cost": 0.538,
-   "ebitda": -1.224,
-   "finance_cost": 0.094,
-   "net_profit": -2.0,
-   "budget_np": -2.56,
-   "fixed_cost": 3.54,
-   "cm_pct": 1.0129,
+   "gp_pct": 0.4186,
+   "sd_cost": 0.07,
+   "admin_cost": 0.48,
+   "ebitda": -1.37,
+   "finance_cost": 0.106,
+   "net_profit": -1.7,
+   "budget_np": -2.62,
+   "fixed_cost": 3.06,
+   "cm_pct": 1.1516,
    "breakeven_sales": 3,
    "deficit": 0.07,
-   "loss": 2.2,
+   "loss": 2.4,
    "scope": "Revenue + Loss",
    "status": "In progress",
    "commit_rev": null,
    "commit_loss": null,
-   "erp_revenue_q1": 0.692,
-   "erp_revenue_q4": 0.211,
-   "erp_np_proxy_q1": -1.793,
-   "erp_np_proxy_q4": -0.889,
+   "erp_revenue_q1": 0.732,
+   "erp_revenue_q4": 0.194,
+   "erp_np_proxy_q1": -1.507,
+   "erp_np_proxy_q4": -0.982,
    "data_completeness": 0.12,
    "root_cause_rev": "Q1 revenue = 76.4% of budget (0.56 Cr vs 0.81 Cr; −0.07 Cr; Jul 86.6% → Aug 101.8% → Sep 104.5%, Sep = 2.70M = 84.9% of budget). Root causes: (1) the 55.0%-planned Payroll/Staffing pillar was still in setup most of Q1 (the trade-license authority license + payroll-disbursement infra; first staffing revenue only in Aug at ৳1.11M), so the quarter ran on a substitute mix of ~61% Training + ~33% a jobs board resale; (2) 9 of 14 revenue streams stayed inactive (CV/Career Services, BGV, Salary Survey, Employer Branding, Assessment, CV Bank, International/Remote, RMS/ATS SaaS, Premium Subscription = ৳0); (3) employer accounts barely monetized — 7,343 accounts but only 636 verified and ~23–35 paid posts/mo; (4) weak demand conversion — 86% of 'active' flags expired, ~200–232 genuinely live jobs, no self-serve checkout / CRM / GA4 value events.",
    "root_cause_loss": "Q1 EAT = BDT −1.79 Cr (vs −3.37 Cr budget, favourable by 1.16 Cr, but worsening Jul→Sep). Root causes: (1) gross-margin collapse — GP% 104.5% (Jul) → 47.2% (Aug) → 1.7% (Sep); Q1 blended 31.2%; Sep's ~1.7% GP on 0.26 Cr revenue is the driver as mix shifted to low/zero-margin a jobs board resale + one-off training while the high-margin payroll/staffing pillar was still ramping; (2) marketing overspend — Q1 ~BDT 17.49M vs ~8.19M budget (160%), S&M ~4.2× revenue; (3) broken unit economics — CAC ≈ ৳126,400 vs LTV ≈ ৳29,900 (LTV:CAC 0.27 vs 12.60× plan); (4) fixed cost base built ahead of revenue, with 9 of 14 streams inactive and the 55.0% pillar producing ~BDT 0 until Aug.",
@@ -329,29 +329,29 @@
    "name": "Nexa Infotech",
    "period": "Q1FY27",
    "revenue": 3,
-   "budget_revenue": 8.84,
-   "cogs": 1.933,
-   "gross_margin": 0.412,
-   "gp_pct": 0.12,
-   "sd_cost": 0.26,
-   "admin_cost": 0.258,
-   "ebitda": -0.209,
-   "finance_cost": 1.137,
-   "net_profit": -1.7,
-   "budget_np": -0.06,
-   "fixed_cost": 1.60,
-   "cm_pct": 0.0316,
-   "breakeven_sales": 75.9,
-   "deficit": 7.03,
+   "budget_revenue": 9.69,
+   "cogs": 2.03,
+   "gross_margin": 0.419,
+   "gp_pct": 0.15,
+   "sd_cost": 0.24,
+   "admin_cost": 0.295,
+   "ebitda": -0.222,
+   "finance_cost": 1.169,
+   "net_profit": -1.6,
+   "budget_np": -0.05,
+   "fixed_cost": 1.6,
+   "cm_pct": 0.0292,
+   "breakeven_sales": 68.5,
+   "deficit": 8.68,
    "loss": 1,
    "scope": "Revenue + Loss",
    "status": "In progress",
-   "commit_rev": 3.6,
+   "commit_rev": 4.5,
    "commit_loss": 2,
-   "erp_revenue_q1": 2.878,
-   "erp_revenue_q4": 3.93,
+   "erp_revenue_q1": 3.122,
+   "erp_revenue_q4": 3.61,
    "erp_np_proxy_q1": -1,
-   "erp_np_proxy_q4": -1.48,
+   "erp_np_proxy_q4": -1.8,
    "data_completeness": 0.205,
    "root_cause_rev": "Limited fresh orders due to overdue receivables, customer credit restrictions, aged inventory and delayed project conversions.",
    "root_cause_loss": "Revenue and gross profit below plan, combined with fixed operating costs, slow-moving inventory and financing/credit exposure.",
@@ -365,29 +365,29 @@
    "name": "Nexa Electronics",
    "period": "Q1FY27",
    "revenue": 1.9,
-   "budget_revenue": 7.67,
-   "cogs": 2.272,
-   "gross_margin": 0.242,
-   "gp_pct": 0.15,
-   "sd_cost": 0.256,
-   "admin_cost": 0.63,
-   "ebitda": -0.236,
-   "finance_cost": 0.40,
-   "net_profit": -0.95,
-   "budget_np": -0.9,
+   "budget_revenue": 7.48,
+   "cogs": 1.82,
+   "gross_margin": 0.219,
+   "gp_pct": 0.18,
+   "sd_cost": 0.212,
+   "admin_cost": 0.69,
+   "ebitda": -0.264,
+   "finance_cost": 0.42,
+   "net_profit": -1.09,
+   "budget_np": -0.7,
    "fixed_cost": 2.1,
-   "cm_pct": 0.174,
+   "cm_pct": 0.15,
    "breakeven_sales": 15,
-   "deficit": 9.75,
-   "loss": 0.97,
+   "deficit": 9.0,
+   "loss": 1.13,
    "scope": "Revenue + Loss",
    "status": "In progress",
    "commit_rev": 1,
    "commit_loss": null,
-   "erp_revenue_q1": 2.271,
-   "erp_revenue_q4": 2.198,
-   "erp_np_proxy_q1": -0.547,
-   "erp_np_proxy_q4": -0.526,
+   "erp_revenue_q1": 2.6,
+   "erp_revenue_q4": 2.235,
+   "erp_np_proxy_q1": -0.579,
+   "erp_np_proxy_q4": -0.496,
    "data_completeness": 0.12,
    "root_cause_rev": "We are significantly behind our original expansion plan due to a shortage of funds and manpower. So far, we have successfully opened four showrooms, with another scheduled to open by 30 October 2026. The delay in showroom openings has negatively impacted business performance, resulting in a decline in sales. In addition, product availability has been severely affected due to zero stock at the principal level. Furthermore, our ability to procure and replenish the available products has been constrained by the ongoing funding shortage. These challenges have collectively hindered our planned business growth and expansion.",
    "root_cause_loss": "Net loss in Q1 was primarily driven by delayed showroom openings, resulting in lower-than-planned revenue, product shortages due to principal stock unavailability, and limited working capital to support inventory and business operations. High operating costs relative to sales further impacted profitability.",
@@ -400,30 +400,30 @@
    "sbu": "NXLOG",
    "name": "Nexa Logistics",
    "period": "Q1FY27",
-   "revenue": 11.17,
-   "budget_revenue": 17.35,
+   "revenue": 9.81,
+   "budget_revenue": 16.55,
    "cogs": null,
    "gross_margin": null,
-   "gp_pct": 0.0321,
-   "sd_cost": 0.635,
-   "admin_cost": 1.249,
-   "ebitda": 25.40,
+   "gp_pct": 0.0292,
+   "sd_cost": 0.566,
+   "admin_cost": 1.196,
+   "ebitda": 29.71,
    "finance_cost": 0.028,
-   "net_profit": -1.04,
+   "net_profit": -0.99,
    "budget_np": -0.3,
-   "fixed_cost": 2.18,
-   "cm_pct": 0.9912,
-   "breakeven_sales": 2.6,
-   "deficit": 5.30,
-   "loss": 0.87,
+   "fixed_cost": 2.03,
+   "cm_pct": 0.9648,
+   "breakeven_sales": 2.1,
+   "deficit": 6.48,
+   "loss": 0.96,
    "scope": "Revenue + Loss",
    "status": "In progress",
-   "commit_rev": 5,
+   "commit_rev": 6,
    "commit_loss": 2,
-   "erp_revenue_q1": 35.54,
-   "erp_revenue_q4": 16.562,
-   "erp_np_proxy_q1": 32.733,
-   "erp_np_proxy_q4": 9.077,
+   "erp_revenue_q1": 31.04,
+   "erp_revenue_q4": 14.265,
+   "erp_np_proxy_q1": 35.472,
+   "erp_np_proxy_q4": 9.534,
    "data_completeness": 0.1,
    "root_cause_rev": "1. War Situation, causing slowdown in export trend 2. Power (Electricity and Gas Shortages) delayed production specially in August'26 3. Lack of Winter order specially from Europe 4. High Transportation cost due war, resulting in delayed delivery and order hold and cancellation 5. FF Salesmen requirement not fulfilled",
    "root_cause_loss": "1. Drop in revenue due War Situation, causing slowdown in export trend 2. Power (Electricity and Gas Shortages) delayed production specially in August'26 3. Lack of Winter order specially from Europe 4. High Transportation cost due war, resulting in delayed delivery and order hold and cancellation 5. FF Salesmen requirement not fulfilled",
@@ -454,10 +454,10 @@
     "D3",
     "D4"
    ],
-   "loss": 20.83,
-   "deficit": 101.6,
-   "gp_pct": 0.0764,
-   "revenue": 336.16
+   "loss": 24.32,
+   "deficit": 121.4,
+   "gp_pct": 0.0876,
+   "revenue": 352.33
   },
   {
    "sbu": "NXSTL",
@@ -479,10 +479,10 @@
     "D3",
     "D4"
    ],
-   "loss": 12.2,
-   "deficit": 108.20,
-   "gp_pct": 0.098,
-   "revenue": 246.99
+   "loss": 12.7,
+   "deficit": 86.3,
+   "gp_pct": 0.101,
+   "revenue": 301.41
   },
   {
    "sbu": "NXRMC",
@@ -504,10 +504,10 @@
     "D3",
     "D4"
    ],
-   "loss": 8.5,
-   "deficit": 27.82,
-   "gp_pct": 0.148,
-   "revenue": 77.59
+   "loss": 8.3,
+   "deficit": 27.74,
+   "gp_pct": 0.132,
+   "revenue": 82.54
   },
   {
    "sbu": "NXMDX",
@@ -529,10 +529,10 @@
     "D3",
     "D4"
    ],
-   "loss": 2.25,
-   "deficit": 1.18,
-   "gp_pct": 0.22,
-   "revenue": 0.6
+   "loss": 2.1,
+   "deficit": 1.33,
+   "gp_pct": 0.18,
+   "revenue": 0.7
   },
   {
    "sbu": "NXCBX",
@@ -554,10 +554,10 @@
     "D3",
     "D4"
    ],
-   "loss": 2.7,
+   "loss": 2.6,
    "deficit": 0,
    "gp_pct": 0.08,
-   "revenue": 31.77
+   "revenue": 36.99
   },
   {
    "sbu": "NXPH",
@@ -580,9 +580,9 @@
     "D4"
    ],
    "loss": 3.01,
-   "deficit": 3.09,
-   "gp_pct": 0.1295,
-   "revenue": 20.38
+   "deficit": 3.4,
+   "gp_pct": 0.1231,
+   "revenue": 16.04
   },
   {
    "sbu": "NXASP",
@@ -604,10 +604,10 @@
     "D3",
     "D4"
    ],
-   "loss": 2.26,
-   "deficit": 22.67,
-   "gp_pct": 0.063,
-   "revenue": 6.6
+   "loss": 1.97,
+   "deficit": 23.83,
+   "gp_pct": 0.055,
+   "revenue": 7.1
   },
   {
    "sbu": "NXTEL",
@@ -629,10 +629,10 @@
     "D3",
     "D4"
    ],
-   "loss": 1.6,
+   "loss": 1.9,
    "deficit": 0,
-   "gp_pct": -0.445,
-   "revenue": 2.47
+   "gp_pct": -0.335,
+   "revenue": 2.33
   },
   {
    "sbu": "NXJOB",
@@ -655,9 +655,9 @@
     "D4"
    ],
    "loss": 2.2,
-   "deficit": 0.07,
-   "gp_pct": 0.4443,
-   "revenue": 0.47
+   "deficit": 0.06,
+   "gp_pct": 0.4341,
+   "revenue": 0.6
   },
   {
    "sbu": "NXITX",
@@ -680,9 +680,9 @@
     "D4"
    ],
    "loss": 1,
-   "deficit": 6.47,
-   "gp_pct": 0.11,
-   "revenue": 2.6
+   "deficit": 8.25,
+   "gp_pct": 0.12,
+   "revenue": 3.0
   },
   {
    "sbu": "NXEL",
@@ -704,10 +704,10 @@
     "D3",
     "D4"
    ],
-   "loss": 1.12,
-   "deficit": 8.09,
-   "gp_pct": 0.18,
-   "revenue": 1.67
+   "loss": 1.22,
+   "deficit": 8.16,
+   "gp_pct": 0.17,
+   "revenue": 1.8
   },
   {
    "sbu": "NXLOG",
@@ -730,9 +730,9 @@
     "D4"
    ],
    "loss": 1,
-   "deficit": 6.05,
-   "gp_pct": 0.0261,
-   "revenue": 8.04
+   "deficit": 5.1,
+   "gp_pct": 0.0332,
+   "revenue": 7.51
   }
  ],
  "decisions": [
@@ -746,7 +746,7 @@
     {
      "name": "Approve the 30-day SKU/plant/customer recovery plan and release RM procurement",
      "revenue_impact_cr": null,
-     "np_impact_cr": 24.41,
+     "np_impact_cr": 25.24,
      "cost_cr": 0,
      "time_to_impact": "30–60 days",
      "risk": "Working capital locked in inventory",
@@ -755,7 +755,7 @@
     {
      "name": "Release only the top-20 SKU lines",
      "revenue_impact_cr": null,
-     "np_impact_cr": 10.34,
+     "np_impact_cr": 10.04,
      "cost_cr": 0,
      "time_to_impact": "30–60 days",
      "risk": "Partial volume recovery",
@@ -799,7 +799,7 @@
     {
      "name": "Sign both agreements and continue the progressive price increase",
      "revenue_impact_cr": null,
-     "np_impact_cr": 12.8,
+     "np_impact_cr": 14.2,
      "cost_cr": 0,
      "time_to_impact": "1–2 quarters",
      "risk": "Volume loss if the market resists the price",
@@ -808,7 +808,7 @@
     {
      "name": "Sign Kareem Metal only (Nov), defer Salar Steel",
      "revenue_impact_cr": null,
-     "np_impact_cr": 7,
+     "np_impact_cr": 6,
      "cost_cr": 0,
      "time_to_impact": "1–2 quarters",
      "risk": "COGS stays high for another quarter",
@@ -851,7 +851,7 @@
     {
      "name": "Set a price floor off true landed cost and drop negative-SKU lines",
      "revenue_impact_cr": null,
-     "np_impact_cr": 2.7,
+     "np_impact_cr": 2.4,
      "cost_cr": 0,
      "time_to_impact": "1 quarter",
      "risk": "Volume falls further in Q2",
@@ -904,7 +904,7 @@
     {
      "name": "Stop clearance immediately; write off the residual stock",
      "revenue_impact_cr": null,
-     "np_impact_cr": 1.9,
+     "np_impact_cr": 1.5,
      "cost_cr": null,
      "time_to_impact": "Immediate",
      "risk": "Stock write-off hits this quarter",
@@ -913,7 +913,7 @@
     {
      "name": "Wind down over 2 quarters while selling at positive contribution",
      "revenue_impact_cr": null,
-     "np_impact_cr": 0.93,
+     "np_impact_cr": 1.09,
      "cost_cr": null,
      "time_to_impact": "2 quarters",
      "risk": "Subsidy continues one more quarter",
@@ -956,7 +956,7 @@
     {
      "name": "Secure working-capital financing and restock",
      "revenue_impact_cr": null,
-     "np_impact_cr": 1.01,
+     "np_impact_cr": 1.2,
      "cost_cr": null,
      "time_to_impact": "1–2 quarters",
      "risk": "Debt service while demand is unproven",
@@ -1162,7 +1162,7 @@
    "title": "Supply / service failure",
    "verdict": "Confirmed",
    "confidence": "High",
-   "impact_cr": 135.3,
+   "impact_cr": 148.1,
    "data_ids": [
     "B8",
     "G2",
@@ -1213,7 +1213,7 @@
    "title": "Margin-driven loss",
    "verdict": "Confirmed",
    "confidence": "High",
-   "impact_cr": 36.83,
+   "impact_cr": 36.74,
    "data_ids": [
     "A1",
     "A2",
@@ -1249,25 +1249,25 @@
    "sbu": "NXSTL",
    "region": "National (TMT rebar)",
    "period": "Q1FY27",
-   "market_volume": 5562120,
-   "own_volume": 127585,
+   "market_volume": 5594132,
+   "own_volume": 105967,
    "own_share": 0.04,
    "own_share_text": "4.2% (6th) · +14.3% YoY volume",
    "competitors": [
     {
      "name": "Boral Steel",
      "volume": null,
-     "share": 0.39
+     "share": 0.34
     },
     {
      "name": "AKS",
      "volume": null,
-     "share": 0.152
+     "share": 0.176
     },
     {
      "name": "Kamal Steel",
      "volume": null,
-     "share": 0.113
+     "share": 0.126
     },
     {
      "name": "Gopal",
@@ -1277,17 +1277,17 @@
     {
      "name": "Anil Steel",
      "volume": null,
-     "share": 0.029
+     "share": 0.034
     },
     {
      "name": "Rafiq Steel",
      "volume": null,
-     "share": 0.024
+     "share": 0.027
     },
     {
      "name": "Others",
      "volume": null,
-     "share": 0.29
+     "share": 0.24
     }
    ],
    "source": "Marketing Google Sheet — Nexa Steel share-of-wallet benchmark (item 50)",
@@ -1298,45 +1298,45 @@
    "sbu": "NXRMC",
    "region": "National (RMC)",
    "period": "Q1FY27",
-   "market_volume": 9790347,
-   "own_volume": 1117983,
-   "own_share": 0.109,
+   "market_volume": 11486097,
+   "own_volume": 994301,
+   "own_share": 0.097,
    "own_share_text": "12.4% (5th) — Sep'26 · 8.66% FY26",
    "competitors": [
     {
      "name": "Falcon Cement RMC",
-     "volume": 2608532,
-     "share": 0.23
+     "volume": 3082404,
+     "share": 0.22
     },
     {
      "name": "NDS",
-     "volume": 1827421,
-     "share": 0.180
+     "volume": 1698297,
+     "share": 0.209
     },
     {
      "name": "Bashkhola RMC",
-     "volume": 2044436,
-     "share": 0.205
+     "volume": 1695021,
+     "share": 0.161
     },
     {
      "name": "Moon RMC",
-     "volume": 1540754,
-     "share": 0.227
+     "volume": 1565381,
+     "share": 0.186
     },
     {
      "name": "APR RMC",
-     "volume": 629144,
-     "share": 0.051
+     "volume": 820436,
+     "share": 0.058
     },
     {
      "name": "Corners RMC",
-     "volume": 699449,
-     "share": 0.080
+     "volume": 694186,
+     "share": 0.063
     },
     {
      "name": "Manar RMC",
-     "volume": 294716,
-     "share": 0.030
+     "volume": 344660,
+     "share": 0.027
     }
    ],
    "source": "Marketing Google Sheet — Nexa Readymix competitor benchmark (item 44/47)",
@@ -3346,164 +3346,164 @@
  "se": [
   {
    "bu": "NXESS Bulk Flour & Dal",
-   "jul": 110,
-   "aug": 81,
-   "sep": 124,
-   "avg": 111,
-   "oct_mtd": 70,
-   "commitment": 67.3,
-   "se_contribution": 56.79,
-   "ads": 1.85,
-   "rads": 8.50,
+   "jul": 90,
+   "aug": 79,
+   "sep": 142,
+   "avg": 105,
+   "oct_mtd": 64,
+   "commitment": 58.5,
+   "se_contribution": 53.66,
+   "ads": 1.76,
+   "rads": 6.64,
    "status": "At Risk",
-   "fixed_cost": 14.54,
-   "cm_pct": 0.1279,
-   "breakeven": 101.03,
-   "be_coverage": 0.77,
+   "fixed_cost": 11.64,
+   "cm_pct": 0.1299,
+   "breakeven": 99.97,
+   "be_coverage": 0.71,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   },
   {
    "bu": "NXESS Rice Bulk",
    "jul": 113,
-   "aug": 97,
+   "aug": 93,
    "sep": 89,
-   "avg": 102,
-   "oct_mtd": 89,
-   "commitment": 26.95,
-   "se_contribution": 35.96,
-   "ads": 1.12,
+   "avg": 115,
+   "oct_mtd": 90,
+   "commitment": 24.71,
+   "se_contribution": 31.91,
+   "ads": 0.91,
    "rads": 0,
    "status": "On Track",
-   "fixed_cost": 5.91,
-   "cm_pct": 0.060,
-   "breakeven": 99.29,
-   "be_coverage": 0.272,
+   "fixed_cost": 6.44,
+   "cm_pct": 0.051,
+   "breakeven": 114.12,
+   "be_coverage": 0.263,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   },
   {
    "bu": "NXESS Consumer",
-   "jul": 67,
-   "aug": 63,
-   "sep": 66,
-   "avg": 65,
-   "oct_mtd": 46,
-   "commitment": 32.60,
-   "se_contribution": 42.07,
-   "ads": 0.90,
-   "rads": 10.29,
+   "jul": 60,
+   "aug": 69,
+   "sep": 64,
+   "avg": 66,
+   "oct_mtd": 47,
+   "commitment": 35.09,
+   "se_contribution": 38.4,
+   "ads": 0.88,
+   "rads": 10.76,
    "status": "Critical",
-   "fixed_cost": 3.91,
-   "cm_pct": 0.0635,
-   "breakeven": 58.91,
-   "be_coverage": 0.5,
+   "fixed_cost": 4.75,
+   "cm_pct": 0.0799,
+   "breakeven": 50.85,
+   "be_coverage": 0.7,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   },
   {
    "bu": "NXESS Corporate",
-   "jul": 27,
-   "aug": 118,
-   "sep": 149,
-   "avg": 101,
-   "oct_mtd": 66,
-   "commitment": 9.7,
-   "se_contribution": 11.9,
-   "ads": 0.33,
-   "rads": 1.85,
+   "jul": 21,
+   "aug": 113,
+   "sep": 124,
+   "avg": 106,
+   "oct_mtd": 61,
+   "commitment": 8.6,
+   "se_contribution": 11.6,
+   "ads": 0.39,
+   "rads": 2.02,
    "status": "Critical",
-   "fixed_cost": 3.81,
-   "cm_pct": 0.1909,
-   "breakeven": 18.32,
-   "be_coverage": 0.395,
+   "fixed_cost": 4.57,
+   "cm_pct": 0.216,
+   "breakeven": 18.36,
+   "be_coverage": 0.417,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   },
   {
    "bu": "NXESS Tender",
-   "jul": 92,
-   "aug": 82,
-   "sep": 107,
-   "avg": 106,
-   "oct_mtd": 64,
-   "commitment": 7.09,
-   "se_contribution": 7.62,
-   "ads": 0.19,
-   "rads": 1.01,
+   "jul": 99,
+   "aug": 93,
+   "sep": 105,
+   "avg": 89,
+   "oct_mtd": 65,
+   "commitment": 6.94,
+   "se_contribution": 6.35,
+   "ads": 0.21,
+   "rads": 1.14,
    "status": "Critical",
-   "fixed_cost": 3.60,
-   "cm_pct": 0.2758,
-   "breakeven": 15.91,
-   "be_coverage": 0.48,
+   "fixed_cost": 4.08,
+   "cm_pct": 0.2673,
+   "breakeven": 16.35,
+   "be_coverage": 0.6,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   },
   {
    "bu": "NXESS Modern Trade",
-   "jul": 40,
-   "aug": 64,
-   "sep": 65,
-   "avg": 55,
-   "oct_mtd": 86,
-   "commitment": 1.37,
-   "se_contribution": 1.54,
+   "jul": 34,
+   "aug": 61,
+   "sep": 73,
+   "avg": 54,
+   "oct_mtd": 83,
+   "commitment": 1.43,
+   "se_contribution": 1.41,
    "ads": 0.05,
    "rads": 0.1,
    "status": "At Risk",
-   "fixed_cost": 0.16,
-   "cm_pct": 0.0345,
-   "breakeven": 4.65,
+   "fixed_cost": 0.15,
+   "cm_pct": 0.0333,
+   "breakeven": 4.88,
    "be_coverage": 0.3,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   },
   {
    "bu": "NXSTL",
    "jul": 70,
-   "aug": 72,
-   "sep": 93,
-   "avg": 86,
-   "oct_mtd": 68,
-   "commitment": 122.4,
-   "se_contribution": 150,
-   "ads": 2.7,
-   "rads": 9.9,
+   "aug": 91,
+   "sep": 87,
+   "avg": 77,
+   "oct_mtd": 70,
+   "commitment": 115.2,
+   "se_contribution": 141,
+   "ads": 2.6,
+   "rads": 9.6,
    "status": "Critical",
-   "fixed_cost": 15,
-   "cm_pct": 0.08,
-   "breakeven": 281.74,
-   "be_coverage": 0.429,
+   "fixed_cost": 13,
+   "cm_pct": 0.07,
+   "breakeven": 267.98,
+   "be_coverage": 0.386,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   },
   {
    "bu": "NXRMC",
-   "jul": 59,
-   "aug": 89,
-   "sep": 92,
-   "avg": 88,
-   "oct_mtd": 79,
-   "commitment": 47.9,
-   "se_contribution": 55.18,
-   "ads": 1.2,
-   "rads": 3.7,
+   "jul": 63,
+   "aug": 98,
+   "sep": 101,
+   "avg": 89,
+   "oct_mtd": 68,
+   "commitment": 59.1,
+   "se_contribution": 54.24,
+   "ads": 1.1,
+   "rads": 4.0,
    "status": "At Risk",
-   "fixed_cost": 6.2,
-   "cm_pct": 0.1058,
-   "breakeven": 67.79,
-   "be_coverage": 0.722,
+   "fixed_cost": 5.3,
+   "cm_pct": 0.09,
+   "breakeven": 71.04,
+   "be_coverage": 0.674,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   },
   {
    "bu": "NXCMT",
-   "jul": 91.0,
-   "aug": 72.1,
-   "sep": 86,
-   "avg": 91.3,
-   "oct_mtd": 61,
-   "commitment": 138.49,
-   "se_contribution": 161.65,
-   "ads": 5.6,
-   "rads": 10.48,
+   "jul": 96.3,
+   "aug": 74.9,
+   "sep": 105,
+   "avg": 114.3,
+   "oct_mtd": 77,
+   "commitment": 109.91,
+   "se_contribution": 154.41,
+   "ads": 6.1,
+   "rads": 12.02,
    "status": "Critical",
-   "fixed_cost": 18.95,
-   "cm_pct": 0.2490,
-   "breakeven": 90.61,
-   "be_coverage": 1.750,
+   "fixed_cost": 19.11,
+   "cm_pct": 0.2122,
+   "breakeven": 92.95,
+   "be_coverage": 1.591,
    "source": "NXLOG SE commitment dashboard (demo-commitment.example.com)"
   }
  ],
@@ -3511,11 +3511,11 @@
   {
    "sbu": "NXESS",
    "name": "Nexa Essentials",
-   "q4_active": 1233,
-   "q1_active": 1237,
-   "q4_orders": 8800,
-   "q1_orders": 7653,
-   "lost": 264,
+   "q4_active": 1199,
+   "q1_active": 1273,
+   "q4_orders": 8130,
+   "q1_orders": 8316,
+   "lost": 271,
    "new": null,
    "lost_revenue_cr": null,
    "source": "ERP oms.tblSalesOrderHeader"
@@ -3523,11 +3523,11 @@
   {
    "sbu": "NXSTL",
    "name": "Nexa Steel",
-   "q4_active": 383,
-   "q1_active": 380,
-   "q4_orders": 2398,
-   "q1_orders": 3457,
-   "lost": 98,
+   "q4_active": 329,
+   "q1_active": 365,
+   "q4_orders": 1983,
+   "q1_orders": 3599,
+   "lost": 83,
    "new": null,
    "lost_revenue_cr": null,
    "source": "ERP oms.tblSalesOrderHeader"
@@ -3535,11 +3535,11 @@
   {
    "sbu": "NXRMC",
    "name": "Nexa Readymix",
-   "q4_active": 266,
-   "q1_active": 305,
-   "q4_orders": 913,
-   "q1_orders": 1855,
-   "lost": 85,
+   "q4_active": 246,
+   "q1_active": 366,
+   "q4_orders": 864,
+   "q1_orders": 1739,
+   "lost": 91,
    "new": null,
    "lost_revenue_cr": null,
    "source": "ERP oms.tblSalesOrderHeader"
@@ -3547,11 +3547,11 @@
   {
    "sbu": "NXCBX",
    "name": "Nexa Commodities",
-   "q4_active": 61,
-   "q1_active": 41,
-   "q4_orders": 197,
-   "q1_orders": 198,
-   "lost": 26,
+   "q4_active": 60,
+   "q1_active": 40,
+   "q4_orders": 211,
+   "q1_orders": 208,
+   "lost": 23,
    "new": null,
    "lost_revenue_cr": null,
    "source": "ERP oms.tblSalesOrderHeader"
@@ -3559,11 +3559,11 @@
   {
    "sbu": "NXASP",
    "name": "Nexa Asphalt",
-   "q4_active": 118,
-   "q1_active": 129,
-   "q4_orders": 479,
-   "q1_orders": 411,
-   "lost": 56,
+   "q4_active": 128,
+   "q1_active": 132,
+   "q4_orders": 452,
+   "q1_orders": 512,
+   "lost": 64,
    "new": null,
    "lost_revenue_cr": null,
    "source": "ERP oms.tblSalesOrderHeader"
@@ -3571,11 +3571,11 @@
   {
    "sbu": "NXTEL",
    "name": "Nexa Telecom",
-   "q4_active": 73,
-   "q1_active": 68,
-   "q4_orders": 301,
-   "q1_orders": 486,
-   "lost": 24,
+   "q4_active": 71,
+   "q1_active": 72,
+   "q4_orders": 291,
+   "q1_orders": 456,
+   "lost": 20,
    "new": null,
    "lost_revenue_cr": null,
    "source": "ERP oms.tblSalesOrderHeader"
@@ -3583,11 +3583,11 @@
   {
    "sbu": "NXITX",
    "name": "Nexa Infotech",
-   "q4_active": 43,
-   "q1_active": 27,
-   "q4_orders": 128,
-   "q1_orders": 79,
-   "lost": 27,
+   "q4_active": 46,
+   "q1_active": 30,
+   "q4_orders": 123,
+   "q1_orders": 82,
+   "lost": 26,
    "new": null,
    "lost_revenue_cr": null,
    "source": "ERP oms.tblSalesOrderHeader"
@@ -3598,295 +3598,295 @@
    "sbu": "NXITX",
    "region": null,
    "month": "2026-04",
-   "active_dealers": 30,
-   "lifting": 1.307
+   "active_dealers": 28,
+   "lifting": 1.194
   },
   {
    "sbu": "NXITX",
    "region": null,
    "month": "2026-05",
-   "active_dealers": 19,
-   "lifting": 0.677
+   "active_dealers": 15,
+   "lifting": 0.691
   },
   {
    "sbu": "NXITX",
    "region": null,
    "month": "2026-06",
-   "active_dealers": 17,
+   "active_dealers": 18,
    "lifting": 0.62
   },
   {
    "sbu": "NXITX",
    "region": null,
    "month": "2026-07",
+   "active_dealers": 15,
+   "lifting": 2.077
+  },
+  {
+   "sbu": "NXITX",
+   "region": null,
+   "month": "2026-08",
    "active_dealers": 14,
-   "lifting": 2.349
-  },
-  {
-   "sbu": "NXITX",
-   "region": null,
-   "month": "2026-08",
-   "active_dealers": 16,
-   "lifting": 0.752
+   "lifting": 0.666
   },
   {
    "sbu": "NXITX",
    "region": null,
    "month": "2026-09",
-   "active_dealers": 7,
-   "lifting": 0.227
+   "active_dealers": 9,
+   "lifting": 0.249
   },
   {
    "sbu": "NXESS",
    "region": null,
    "month": "2026-04",
-   "active_dealers": 712,
-   "lifting": 233.099
+   "active_dealers": 688,
+   "lifting": 258.192
   },
   {
    "sbu": "NXESS",
    "region": null,
    "month": "2026-05",
-   "active_dealers": 808,
-   "lifting": 120.299
+   "active_dealers": 722,
+   "lifting": 119.336
   },
   {
    "sbu": "NXESS",
    "region": null,
    "month": "2026-06",
-   "active_dealers": 876,
-   "lifting": 162.261
+   "active_dealers": 674,
+   "lifting": 147.901
   },
   {
    "sbu": "NXESS",
    "region": null,
    "month": "2026-07",
-   "active_dealers": 912,
-   "lifting": 174.833
+   "active_dealers": 814,
+   "lifting": 210.908
   },
   {
    "sbu": "NXESS",
    "region": null,
    "month": "2026-08",
-   "active_dealers": 717,
-   "lifting": 298.593
+   "active_dealers": 799,
+   "lifting": 271.123
   },
   {
    "sbu": "NXESS",
    "region": null,
    "month": "2026-09",
-   "active_dealers": 721,
-   "lifting": 112.689
+   "active_dealers": 830,
+   "lifting": 126.651
   },
   {
    "sbu": "NXRMC",
    "region": null,
    "month": "2026-04",
-   "active_dealers": 128,
-   "lifting": 34.160
+   "active_dealers": 114,
+   "lifting": 45.167
   },
   {
    "sbu": "NXRMC",
    "region": null,
    "month": "2026-05",
-   "active_dealers": 181,
-   "lifting": 50.986
+   "active_dealers": 195,
+   "lifting": 56.002
   },
   {
    "sbu": "NXRMC",
    "region": null,
    "month": "2026-06",
-   "active_dealers": 108,
-   "lifting": 32.432
+   "active_dealers": 96,
+   "lifting": 27.957
   },
   {
    "sbu": "NXRMC",
    "region": null,
    "month": "2026-07",
-   "active_dealers": 156,
-   "lifting": 62.615
+   "active_dealers": 166,
+   "lifting": 75.823
   },
   {
    "sbu": "NXRMC",
    "region": null,
    "month": "2026-08",
-   "active_dealers": 180,
-   "lifting": 49.35
+   "active_dealers": 230,
+   "lifting": 51.63
   },
   {
    "sbu": "NXRMC",
    "region": null,
    "month": "2026-09",
-   "active_dealers": 209,
-   "lifting": 81.969
+   "active_dealers": 189,
+   "lifting": 73.901
   },
   {
    "sbu": "NXASP",
    "region": null,
    "month": "2026-04",
-   "active_dealers": 73,
-   "lifting": 16.917
+   "active_dealers": 71,
+   "lifting": 15.982
   },
   {
    "sbu": "NXASP",
    "region": null,
    "month": "2026-05",
-   "active_dealers": 58,
-   "lifting": 9.11
+   "active_dealers": 47,
+   "lifting": 8.55
   },
   {
    "sbu": "NXASP",
    "region": null,
    "month": "2026-06",
-   "active_dealers": 58,
-   "lifting": 11.133
+   "active_dealers": 61,
+   "lifting": 13.562
   },
   {
    "sbu": "NXASP",
    "region": null,
    "month": "2026-07",
-   "active_dealers": 46,
-   "lifting": 7.86
+   "active_dealers": 54,
+   "lifting": 8.72
   },
   {
    "sbu": "NXASP",
    "region": null,
    "month": "2026-08",
    "active_dealers": 64,
-   "lifting": 3.256
+   "lifting": 3.343
   },
   {
    "sbu": "NXASP",
    "region": null,
    "month": "2026-09",
-   "active_dealers": 65,
-   "lifting": 5.989
+   "active_dealers": 58,
+   "lifting": 5.38
   },
   {
    "sbu": "NXCBX",
    "region": null,
    "month": "2026-04",
-   "active_dealers": 33,
-   "lifting": 39.63
+   "active_dealers": 38,
+   "lifting": 33.95
   },
   {
    "sbu": "NXCBX",
    "region": null,
    "month": "2026-05",
-   "active_dealers": 27,
-   "lifting": 5.335
+   "active_dealers": 32,
+   "lifting": 4.903
   },
   {
    "sbu": "NXCBX",
    "region": null,
    "month": "2026-06",
-   "active_dealers": 22,
-   "lifting": 8.95
+   "active_dealers": 21,
+   "lifting": 8.46
   },
   {
    "sbu": "NXCBX",
    "region": null,
    "month": "2026-07",
    "active_dealers": 29,
-   "lifting": 25.03
+   "lifting": 26.3
   },
   {
    "sbu": "NXCBX",
    "region": null,
    "month": "2026-08",
-   "active_dealers": 25,
-   "lifting": 4.311
+   "active_dealers": 23,
+   "lifting": 4.732
   },
   {
    "sbu": "NXCBX",
    "region": null,
    "month": "2026-09",
-   "active_dealers": 18,
-   "lifting": 9.913
+   "active_dealers": 21,
+   "lifting": 9.254
   },
   {
    "sbu": "NXSTL",
    "region": null,
    "month": "2026-04",
-   "active_dealers": 256,
-   "lifting": 177.234
+   "active_dealers": 329,
+   "lifting": 185.175
   },
   {
    "sbu": "NXSTL",
    "region": null,
    "month": "2026-05",
-   "active_dealers": 179,
-   "lifting": 103.55
+   "active_dealers": 171,
+   "lifting": 97.92
   },
   {
    "sbu": "NXSTL",
    "region": null,
    "month": "2026-06",
-   "active_dealers": 277,
-   "lifting": 103.984
+   "active_dealers": 257,
+   "lifting": 125.045
   },
   {
    "sbu": "NXSTL",
    "region": null,
    "month": "2026-07",
-   "active_dealers": 207,
-   "lifting": 67.768
+   "active_dealers": 228,
+   "lifting": 72.424
   },
   {
    "sbu": "NXSTL",
    "region": null,
    "month": "2026-08",
-   "active_dealers": 287,
-   "lifting": 106.2
+   "active_dealers": 285,
+   "lifting": 99.8
   },
   {
    "sbu": "NXSTL",
    "region": null,
    "month": "2026-09",
-   "active_dealers": 310,
-   "lifting": 138.54
+   "active_dealers": 286,
+   "lifting": 160.22
   },
   {
    "sbu": "NXTEL",
    "region": null,
    "month": "2026-04",
-   "active_dealers": 11,
-   "lifting": 0.157
+   "active_dealers": 12,
+   "lifting": 0.156
   },
   {
    "sbu": "NXTEL",
    "region": null,
    "month": "2026-05",
+   "active_dealers": 49,
+   "lifting": 0.704
+  },
+  {
+   "sbu": "NXTEL",
+   "region": null,
+   "month": "2026-06",
    "active_dealers": 46,
-   "lifting": 0.766
-  },
-  {
-   "sbu": "NXTEL",
-   "region": null,
-   "month": "2026-06",
-   "active_dealers": 45,
-   "lifting": 0.72
+   "lifting": 0.63
   },
   {
    "sbu": "NXTEL",
    "region": null,
    "month": "2026-07",
-   "active_dealers": 51,
+   "active_dealers": 53,
    "lifting": 0.5
   },
   {
    "sbu": "NXTEL",
    "region": null,
    "month": "2026-08",
-   "active_dealers": 47,
-   "lifting": 1.112
+   "active_dealers": 46,
+   "lifting": 0.878
   },
   {
    "sbu": "NXTEL",
    "region": null,
    "month": "2026-09",
-   "active_dealers": 53,
-   "lifting": 1.32
+   "active_dealers": 42,
+   "lifting": 1.69
   }
  ],
  "recovery": [
@@ -3897,8 +3897,8 @@
    "action": "Develop a 30-day SKU/plant/customer recovery plan with weekly revenue and volume targets. Prioritize Consumer and Corporate recovery, Bulk Rice, Bulk Flour & Dal, Modern Trade, HORECA, and conversion of pending Tender business.",
    "owner": "Revenue: Sales Heads. EAT: CFO. Individual initiative owners to be assigned by the respective functional heads.",
    "start": "2026-10-28",
-   "revenue_impact_cr": 78.91,
-   "np_impact_cr": 23.01,
+   "revenue_impact_cr": 89.27,
+   "np_impact_cr": 22.33,
    "status": "Not Started",
    "assumption": "SBU's own commitment (sheet col BM/BN), not an independent estimate",
    "target_date": "31 January 2027, with weekly checkpoints and monthly management reviews.",
@@ -3931,8 +3931,8 @@
    "action": "Implement a focused, volume-driven revenue recovery strategy by strengthening key-account management, acquiring new customers, recovering lost orders, expanding market coverage in high-potential areas, and maximizing plant utilization. Ensure the realization of approved selling-price increases and eliminate unjustified lower prices for 3,000 PSI, 3,500 PSI, 4,000 PSI, and 4,500 PSI concrete grades. The key objectives are to achieve 100% of the approved monthly revenue budget, ensure sustainable sales volume growth, and progressively recover the Q1 revenue shortfall of Tk 26.32 Cr.",
    "owner": "The following responsibility matrix can be used in the NXRMC turnaround plan. Names should be confirmed against the current organizational structure before final submission. Sl. Supportive Functions Action Owner Name Action Owner Designation Key Responsibilities 1 Plant Operations Md. Showkat Ali Manager, Plant Operations Optimize manufacturing cost per CFT; improve plant capacity utilization and productivity; control manpower, power, maintenance, wastage, and production losses. 2 Logistics and Distribution Md. Firoz Karim Logistics & Distribution Lead, NXRMC Reduce logistics cost per CFT; optimize fuel consumption, MRO expenses, fleet utilization, vehicle downtime, routing, and delivery efficiency. 3 Supply Chain Management (SCM) Md. Nasiruddin Alam SCM Lead, NXRMC Ensure competitive procurement of cement, stone, sand, admixtures, and other raw materials through strategic sourcing, supplier negotiations, and effective inventory planning. 4 Sales Md. Jubair Ahmed Head of Sales, NXRMC Achieve 100% of approved sales and revenue targets; increase sales volume, strengthen customer acquisition and retention, enforce approved selling prices, and improve customer-wise contribution. 5 Finance Pranab Gosh Cluster FC Reduce financial expenses, improve working-capital efficiency, accelerate receivables collection, control overdue balances, and optimize financing costs and cash flow. 6 Human Resource Ariful Haque HR BP Optimize manpower deployment, improve workforce productivity, support plant-level restructuring, and facilitate recruitment of additional sales personnel where needed. 7 Overall coordination & accountability Md. Anil Hosen and Ashton Haque CEO & Cluster CEO Lead the turnaround program, coordinate all functional heads, review progress against agreed KPIs, resolve cross-functional issues, and ensure delivery of profitability targets.",
    "start": "2026-10-28",
-   "revenue_impact_cr": 25.57,
-   "np_impact_cr": 6.60,
+   "revenue_impact_cr": 26.41,
+   "np_impact_cr": 6.84,
    "status": "In progress",
    "assumption": "SBU's own commitment (sheet col BM/BN), not an independent estimate",
    "target_date": "31 December 2026 — proposed deadline to implement the turnaround measures and achieve the agreed revenue and profitability recovery milestones, subject to Finance validation and management approval.",
@@ -3948,7 +3948,7 @@
    "action": "Rebuild the range, then hold a steady BDT 2.6 Cr monthly run-rate. Supply is anchored on the approved 5-LC import plan of BDT 12.84 Cr landed (24,185 cartons, 157 SKUs), which carries 19.79% gross margin and 4.97% net margin and is already in execution under CEO approval. Alongside that, widen the channel so the run-rate is not dependent on two accounts: Modern Trade, HORECA, Nexa Essential retail, sole distributorship of high-demand lines and demand-led local purchase. Target state: BDT 2.9 Cr/month sustained from November, ~95% availability on the top-20 SKUs, 60%+ of 69 accounts active against 14 today, top-2 customer concentration below 50%, blended GP 18%, and monthly PAT positive. FY27 revenue lands at ~BDT 27.7 Cr against the BDT 44.23 Cr ABP, which is re-baselined with the Board rather than left as an unachievable number.",
    "owner": "Md. Irfan Hosen, Head of Sales – NXCBX (Imported Food Business), reporting to Md. Akhterul Alam Khan, COO, Nexa Essential.",
    "start": "2026-10-28",
-   "revenue_impact_cr": 8.2,
+   "revenue_impact_cr": 7.7,
    "np_impact_cr": 0,
    "status": "In progress",
    "assumption": "SBU's own commitment (sheet col BM/BN), not an independent estimate",
@@ -3965,8 +3965,8 @@
    "action": "Approach: grow same-store sales first, through repeat customers, bigger baskets and better mix, rather than new outlets. Use data and segmentation at outlet level. Add online sales as an extra channel. Target state: monthly net sales grow about 5% month on month, from 6.67 Cr (September) to 14.01 Cr by June 2027. Q2 (Oct–Dec) sales reach at least 23.1 Cr, which equals Q1’s budget and is 4.0 Cr above Q1 actual.",
    "owner": "Overall: Iqbal Hossain, CBO Revenue and outlets: Saifur Rahman, Assistant Operation Manager Purchasing, GP and inventory: Sujit Roy, Head of Operations and Category Management Marketing, CRM and campaigns: Fahima Haque, Brand Custodian Online channel: E-commerce / Digital lead. Finance and the outlet-level P&L: Ayubul Islam, FC People changes: Mizanur Rahman, HRBP.",
    "start": "2026-10-28",
-   "revenue_impact_cr": 3.25,
-   "np_impact_cr": 2.78,
+   "revenue_impact_cr": 3.49,
+   "np_impact_cr": 3.06,
    "status": "On track",
    "assumption": "SBU's own commitment (sheet col BM/BN), not an independent estimate",
    "target_date": "Interim milestones by 31 Dec 2026: credit purchasing in place, GP around 13%, Q2 targets met. Full recovery by 30 Jun 2027.",
@@ -3999,8 +3999,8 @@
    "action": "Ensure timely LC bitumen procurement, strengthen customer acquisition, recover lost orders, and expand market coverage among RHD, LGED, City Corporations, MES and other contractors and infrastructure projects. Improve price competitiveness and plant utilization to achieve 100% of the approved monthly revenue budget and progressively recover the Tk 23.53 Cr shortfall.",
    "owner": "Primary: Mohammad Iqbal, Chief Supply Chain Officer ; Masudur Rahman, Senior Manager. Supporting: Md. Jubair Ahmed, Deputy General Manager; Md. Sabbir Ali, Chief Financial Officer.",
    "start": "2026-10-28",
-   "revenue_impact_cr": 26.6,
-   "np_impact_cr": 2.69,
+   "revenue_impact_cr": 24.0,
+   "np_impact_cr": 2.29,
    "status": "In progress",
    "assumption": "SBU's own commitment (sheet col BM/BN), not an independent estimate",
    "target_date": "31 December 2026, subject to management approval and Finance validation.",
@@ -4017,7 +4017,7 @@
    "owner": "Sayed Mahmud Faysal",
    "start": "2026-10-28",
    "revenue_impact_cr": null,
-   "np_impact_cr": 1.6,
+   "np_impact_cr": 2.0,
    "status": "In progress",
    "assumption": "SBU's own commitment (sheet col BM/BN), not an independent estimate",
    "target_date": "June 2028",
@@ -4033,7 +4033,7 @@
    "action": "Prioritize collectible accounts, sellable stock and confirmed B2B/project orders; close the Q1 shortfall through a weekly approved sales plan.",
    "owner": "Aminul Haque, Head of Business & Operations",
    "start": "2026-10-28",
-   "revenue_impact_cr": 4.1,
+   "revenue_impact_cr": 3.6,
    "np_impact_cr": 2,
    "status": "In progress",
    "assumption": "SBU's own commitment (sheet col BM/BN), not an independent estimate",
@@ -4177,16 +4177,16 @@
   {
    "kpi": "Customer Satisfaction Score (CSAT)",
    "code": "C1",
-   "target": 102,
+   "target": 87,
    "uom": "Index (0–100)",
    "polarity": "Higher is better",
    "months": {
-    "jun": 104.18,
+    "jun": 110.08,
     "jul": 81,
-    "aug": 90.3,
-    "sep": 76
+    "aug": 85.1,
+    "sep": 79
    },
-   "q1_avg": 77.82,
+   "q1_avg": 93.0,
    "ytd_achievement": null,
    "status": "On Track",
    "weight": 0.1,
@@ -4195,16 +4195,16 @@
   {
    "kpi": "Brand Health Score",
    "code": "C2",
-   "target": 80,
+   "target": 88,
    "uom": "Index (0–100)",
    "polarity": "Higher is better",
    "months": {
-    "jun": 83.18,
-    "jul": 76.48,
-    "aug": 72.55,
-    "sep": 70.98
+    "jun": 84.9,
+    "jul": 86.51,
+    "aug": 74.92,
+    "sep": 78.87
    },
-   "q1_avg": 92.24,
+   "q1_avg": 70.24,
    "ytd_achievement": null,
    "status": "On Track",
    "weight": 0.15,
@@ -4215,10 +4215,10 @@
   "coverage": [
    {
     "sbu": "Nexa Readymix",
-    "visits": 23,
-    "leads": 587,
-    "opps": 5,
-    "cases": 5,
+    "visits": 27,
+    "leads": 576,
+    "opps": 6,
+    "cases": 4,
     "cases_overdue": 6,
     "window_from": null,
     "window_to": null,
@@ -4227,7 +4227,7 @@
    {
     "sbu": "Nexa Electronics",
     "visits": 0,
-    "leads": 464,
+    "leads": 479,
     "opps": 0,
     "cases": 0,
     "cases_overdue": null,
@@ -4238,7 +4238,7 @@
    {
     "sbu": "Nexa Jobs",
     "visits": 0,
-    "leads": 261,
+    "leads": 298,
     "opps": 0,
     "cases": 0,
     "cases_overdue": null,
@@ -4339,22 +4339,22 @@
    "Nexa Readymix": {
     "visit_status": {
      "Completed": 8,
-     "Planned": 15,
+     "Planned": 12,
      "Checked-in": 1
     },
-    "visits_productive": 6,
+    "visits_productive": 7,
     "visit_types": {
      "Field Visit": 12,
-     "Meeting": 8
+     "Meeting": 9
     },
     "lead_status": {
-     "New": 566
+     "New": 562
     },
     "lead_sources": {
      "Direct Sales Visit": 596,
      "Customer Referral": 3
     },
-    "lead_value_cr": 1.97,
+    "lead_value_cr": 1.9,
     "case_categories": {
      "Product Quality": 4,
      "Delivery Delay": 1
@@ -4364,12 +4364,12 @@
      "Open": 4
     },
     "cases_overdue": 5,
-    "pipeline_cr": 0.9,
-    "pipeline_outlier_cr": 5184,
+    "pipeline_cr": 1.0,
+    "pipeline_outlier_cr": 4442,
     "leads_worked": 0,
-    "visits_total": 23,
-    "leads_total": 668,
-    "cases_total": 6,
+    "visits_total": 20,
+    "leads_total": 713,
+    "cases_total": 5,
     "opps_total": 6
    }
   }
@@ -4386,134 +4386,134 @@
     "rows": [
      {
       "brand": "Sahin & Aparna",
-      "q4": 20.21,
-      "q1": 13.07,
-      "dpp": -0.93
+      "q4": 16.79,
+      "q1": 13.38,
+      "dpp": -0.89
      },
      {
       "brand": "Moon",
-      "q4": 10.40,
-      "q1": 12,
+      "q4": 7.87,
+      "q1": 10,
       "dpp": 0.8
      },
      {
       "brand": "Shat Rongi",
-      "q4": 11.69,
-      "q1": 12.37,
-      "dpp": -0.6
+      "q4": 13.25,
+      "q1": 15.05,
+      "dpp": -0.5
      },
      {
       "brand": "Frestho",
-      "q4": 11.49,
-      "q1": 10.72,
+      "q4": 11.17,
+      "q1": 12.04,
       "dpp": -0.28
      },
      {
       "brand": "Prottoy",
-      "q4": 9.13,
-      "q1": 8.16,
-      "dpp": 0.13
-     },
-     {
-      "brand": "Supracrete & Halcyan",
-      "q4": 5.7,
-      "q1": 6.45,
-      "dpp": 0.82
-     },
-     {
-      "brand": "Nexa",
-      "q4": 4.85,
-      "q1": 5.90,
-      "dpp": 0.35
-     },
-     {
-      "brand": "Kokila & Rupali",
-      "q4": 2.66,
-      "q1": 4.93,
+      "q4": 8.73,
+      "q1": 8.96,
       "dpp": 0.15
      },
      {
+      "brand": "Supracrete & Halcyan",
+      "q4": 6.5,
+      "q1": 7.45,
+      "dpp": 0.88
+     },
+     {
+      "brand": "Nexa",
+      "q4": 4.71,
+      "q1": 5.26,
+      "dpp": 0.32
+     },
+     {
+      "brand": "Kokila & Rupali",
+      "q4": 3.12,
+      "q1": 4.75,
+      "dpp": 0.16
+     },
+     {
       "brand": "Amon",
-      "q4": 3.7,
-      "q1": 4.22,
+      "q4": 3.4,
+      "q1": 4.84,
       "dpp": 0.1
      },
      {
       "brand": "Bashkhola & Karnareka",
-      "q4": 3.24,
-      "q1": 3.86,
-      "dpp": -1.28
+      "q4": 3.6,
+      "q1": 2.95,
+      "dpp": -1.25
      },
      {
       "brand": "Shomolon",
-      "q4": 2.46,
-      "q1": 3.11,
-      "dpp": 0.68
+      "q4": 2.79,
+      "q1": 3.08,
+      "dpp": 0.56
      },
      {
       "brand": "Anil",
-      "q4": 2.28,
-      "q1": 2.86,
-      "dpp": 0.30
+      "q4": 2.09,
+      "q1": 2.9,
+      "dpp": 0.38
      },
      {
       "brand": "Panch Rongi",
-      "q4": 2.06,
-      "q1": 2.4,
+      "q4": 2.16,
+      "q1": 3.0,
       "dpp": 0.15
      },
      {
       "brand": "Dia",
-      "q4": 1.72,
-      "q1": 1.45,
+      "q4": 1.94,
+      "q1": 1.47,
       "dpp": -0.03
      },
      {
       "brand": "Seven Steed",
-      "q4": 1.34,
+      "q4": 1.35,
       "q1": 1.7,
-      "dpp": 0.12
+      "dpp": 0.15
      },
      {
       "brand": "Inseca",
-      "q4": 1.29,
-      "q1": 1.22,
+      "q4": 1.08,
+      "q1": 1.52,
       "dpp": 0.2
      },
      {
       "brand": "Raal",
-      "q4": 1.00,
-      "q1": 1.1,
+      "q4": 1.26,
+      "q1": 1.2,
       "dpp": 0.1
      },
      {
       "brand": "Hati",
       "q4": 1.3,
-      "q1": 0.98,
+      "q1": 0.81,
       "dpp": -0.16
      },
      {
       "brand": "Bagh",
-      "q4": 0.9,
-      "q1": 1.0,
+      "q4": 0.7,
+      "q1": 0.9,
       "dpp": 0.01
      },
      {
       "brand": "NGX",
-      "q4": 0.57,
-      "q1": 0.86,
+      "q4": 0.55,
+      "q1": 0.84,
       "dpp": 0.02
      },
      {
       "brand": "Metrocrete",
       "q4": 0.4,
-      "q1": 0.53,
-      "dpp": 0.09
+      "q1": 0.52,
+      "dpp": 0.08
      },
      {
       "brand": "Manar",
-      "q4": 0.17,
-      "q1": 0.19,
+      "q4": 0.16,
+      "q1": 0.17,
       "dpp": -0.04
      },
      {
@@ -4581,11 +4581,11 @@
   "sbus": [
    {
     "sbu": "Nexa Essentials",
-    "asks": 65,
+    "asks": 56,
     "linked": 16,
     "rows": [
      {
-      "ask": 18,
+      "ask": 20,
       "function": "Sales",
       "item": "Sales org, territory assignment and vacancies",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -4593,7 +4593,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 47,
+      "ask": 43,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "Data is not available",
@@ -4601,7 +4601,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 41,
+      "ask": 42,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "Data is not available",
@@ -4609,7 +4609,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 48,
+      "ask": 40,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "Data is not available",
@@ -4617,7 +4617,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 47,
+      "ask": 52,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "Copy of Competitor's Comparison - Price & Trade Offer",
@@ -4626,7 +4626,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 48,
+      "ask": 45,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "Copy of Competitor's Comparison - Price & Trade Offer",
@@ -4635,7 +4635,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 49,
+      "ask": 55,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "Data is not available",
@@ -4643,7 +4643,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 50,
+      "ask": 45,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "Copy of 7P assessment — own Q4 vs Q1 vs competitors ",
@@ -4652,7 +4652,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 50,
+      "ask": 49,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "Copy of Competitor's Comparison - Price & Trade Offer",
@@ -4661,7 +4661,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 55,
+      "ask": 60,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "Outlet Registration_NXESS.xlsx",
@@ -4670,7 +4670,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 51,
+      "ask": 60,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "Data is not available",
@@ -4678,7 +4678,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 62,
+      "ask": 64,
       "function": "Marketing",
       "item": "Lost dealer → competitor mapping",
       "label": "Data is not available",
@@ -4686,7 +4686,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 59,
+      "ask": 52,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "https://demo.example.com",
@@ -4695,7 +4695,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 61,
+      "ask": 59,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "Data is not available",
@@ -4703,7 +4703,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 67,
+      "ask": 52,
       "function": "Marketing",
       "item": "Regional macro & disruption events",
       "label": "Data is not available",
@@ -4711,7 +4711,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 61,
+      "ask": 67,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "Data is not available",
@@ -4719,7 +4719,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 55,
+      "ask": 65,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "Data is not available",
@@ -4727,7 +4727,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 55,
+      "ask": 60,
       "function": "Marketing",
       "item": "Regional demand pipeline (govt / private projects)",
       "label": "Data is not available",
@@ -4735,7 +4735,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 66,
+      "ask": 54,
       "function": "Marketing",
       "item": "Import parity, FX and duty exposure",
       "label": "Data is not available",
@@ -4746,11 +4746,11 @@
    },
    {
     "sbu": "Nexa Care Pharmacy",
-    "asks": 55,
-    "linked": 21,
+    "asks": 70,
+    "linked": 18,
     "rows": [
      {
-      "ask": 20,
+      "ask": 18,
       "function": "Sales",
       "item": "Sales org, territory assignment and vacancies",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -4758,7 +4758,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 45,
+      "ask": 41,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "Copy of Nexa Phamacy Market Share Details- Industry",
@@ -4767,7 +4767,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 54,
+      "ask": 46,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "Copy of Nexa Phamacy Market Share Details- Industry",
@@ -4776,7 +4776,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 50,
+      "ask": 46,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "01_Own_Volume_by_Region.xlsx",
@@ -4785,7 +4785,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 43,
+      "ask": 49,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "02_Competitor_Price_List.xlsx",
@@ -4794,7 +4794,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 53,
+      "ask": 50,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "03_Competitor_Offers_Credit_Terms.xlsx",
@@ -4803,7 +4803,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 59,
+      "ask": 48,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "04_Dealer_Share_of_Wallet.xlsx",
@@ -4812,7 +4812,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 48,
+      "ask": 51,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "05_7P_Assessment.xlsx",
@@ -4821,7 +4821,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 56,
+      "ask": 48,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "Copy of Nexa Care Pharmacy Mkt Budget (26-27).xlsx",
@@ -4830,7 +4830,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 55,
+      "ask": 49,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "07_Retail_Outlet_Distribution.xlsx",
@@ -4839,7 +4839,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 51,
+      "ask": 60,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "08_Competitor_Capacity_New_Entrants.xlsx",
@@ -4848,7 +4848,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 57,
+      "ask": 59,
       "function": "Marketing",
       "item": "Lost dealer → competitor mapping",
       "label": "08_Competitor_Capacity_New_Entrants.xlsx",
@@ -4857,7 +4857,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 55,
+      "ask": 57,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "10_Competitor_Promotion_Launches.xlsx",
@@ -4866,7 +4866,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 64,
+      "ask": 51,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "Data is not available",
@@ -4874,7 +4874,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 54,
+      "ask": 52,
       "function": "Marketing",
       "item": "Regional macro & disruption events",
       "label": "Data is not available",
@@ -4882,7 +4882,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 54,
+      "ask": 56,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "Nexa Care Pharmacy Sales-Revenue",
@@ -4891,7 +4891,7 @@
       "access": "drive-public"
      },
      {
-      "ask": 55,
+      "ask": 60,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "Data is not available",
@@ -4899,7 +4899,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 66,
+      "ask": 67,
       "function": "Marketing",
       "item": "Regional demand pipeline (govt / private projects)",
       "label": "Data is not available",
@@ -4907,7 +4907,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 61,
+      "ask": 64,
       "function": "Marketing",
       "item": "Import parity, FX and duty exposure",
       "label": "Data is not available",
@@ -4915,7 +4915,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 67,
+      "ask": 74,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -4926,11 +4926,11 @@
    },
    {
     "sbu": "Nexa Jobs",
-    "asks": 62,
-    "linked": 19,
+    "asks": 52,
+    "linked": 20,
     "rows": [
      {
-      "ask": 20,
+      "ask": 19,
       "function": "Sales",
       "item": "Sales org, territory assignment and vacancies",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -4938,7 +4938,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 43,
+      "ask": 51,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "44 · Market size by region",
@@ -4947,7 +4947,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 42,
+      "ask": 46,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "45 · Competitor volume by region",
@@ -4956,7 +4956,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 49,
+      "ask": 53,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "46 · Own volume by region",
@@ -4965,7 +4965,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 50,
+      "ask": 54,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "47 · Competitor price list",
@@ -4974,7 +4974,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 53,
+      "ask": 52,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "48 · Competitor offers & credit terms",
@@ -4983,7 +4983,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 46,
+      "ask": 44,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "49 · Dealer share-of-wallet",
@@ -4992,7 +4992,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 51,
+      "ask": 45,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "50 · 7P assessment",
@@ -5001,7 +5001,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 54,
+      "ask": 61,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "51 · Promotion / trade spend",
@@ -5010,7 +5010,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 47,
+      "ask": 59,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "52 · Retail / outlet distribution",
@@ -5019,7 +5019,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 52,
+      "ask": 58,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "53 · Competitor capacity / new entrants",
@@ -5037,7 +5037,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 54,
+      "ask": 56,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "55 · Competitor promotion & launches",
@@ -5055,7 +5055,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 60,
+      "ask": 53,
       "function": "Marketing",
       "item": "Regional macro & disruption events",
       "label": "57 · Regional macro & disruption",
@@ -5064,7 +5064,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 56,
+      "ask": 54,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "58 · Seasonality pattern",
@@ -5073,7 +5073,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 67,
+      "ask": 59,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "59 · Regulatory / tax changes",
@@ -5082,7 +5082,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 68,
+      "ask": 57,
       "function": "Marketing",
       "item": "Regional demand pipeline (govt / private projects)",
       "label": "60 · Regional demand pipeline",
@@ -5091,7 +5091,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 70,
+      "ask": 54,
       "function": "Marketing",
       "item": "Import parity, FX and duty exposure",
       "label": "61 · Import parity, FX & duty",
@@ -5100,7 +5100,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 61,
+      "ask": 73,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -5111,11 +5111,11 @@
    },
    {
     "sbu": "Nexa Mediplex",
-    "asks": 57,
-    "linked": 19,
+    "asks": 58,
+    "linked": 21,
     "rows": [
      {
-      "ask": 19,
+      "ask": 18,
       "function": "Sales",
       "item": "Sales org, territory assignment and vacancies",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -5123,7 +5123,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 48,
+      "ask": 47,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "https://demo.example.com",
@@ -5132,7 +5132,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 47,
+      "ask": 51,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "https://demo.example.com",
@@ -5141,7 +5141,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 48,
+      "ask": 51,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "https://demo.example.com",
@@ -5150,7 +5150,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 52,
+      "ask": 47,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "https://demo.example.com",
@@ -5159,7 +5159,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 55,
+      "ask": 51,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "https://demo.example.com",
@@ -5168,7 +5168,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 59,
+      "ask": 45,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "Nexa Mediplex Dont have any kind of Dealer Partnership",
@@ -5176,7 +5176,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 52,
+      "ask": 46,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "https://demo.example.com",
@@ -5185,7 +5185,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 47,
+      "ask": 60,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "https://demo.example.com",
@@ -5194,7 +5194,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 53,
+      "ask": 57,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "Nexa Mediplex Dont have any kind of Retail Businesss",
@@ -5202,7 +5202,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 50,
+      "ask": 58,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "https://demo.example.com",
@@ -5211,7 +5211,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 48,
+      "ask": 54,
       "function": "Marketing",
       "item": "Lost dealer → competitor mapping",
       "label": "https://demo.example.com",
@@ -5220,7 +5220,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 65,
+      "ask": 60,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "https://demo.example.com",
@@ -5229,7 +5229,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 53,
+      "ask": 61,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "https://demo.example.com",
@@ -5238,7 +5238,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 54,
+      "ask": 60,
       "function": "Marketing",
       "item": "Regional macro & disruption events",
       "label": "https://demo.example.com",
@@ -5247,7 +5247,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 65,
+      "ask": 58,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "https://demo.example.com",
@@ -5256,7 +5256,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 58,
+      "ask": 70,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "https://demo.example.com",
@@ -5265,7 +5265,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 64,
+      "ask": 71,
       "function": "Marketing",
       "item": "Regional demand pipeline (govt / private projects)",
       "label": "https://demo.example.com",
@@ -5274,7 +5274,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 56,
+      "ask": 55,
       "function": "Marketing",
       "item": "Import parity, FX and duty exposure",
       "label": "https://demo.example.com",
@@ -5283,7 +5283,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 69,
+      "ask": 56,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -5294,11 +5294,11 @@
    },
    {
     "sbu": "Nexa Steel",
-    "asks": 54,
-    "linked": 19,
+    "asks": 65,
+    "linked": 18,
     "rows": [
      {
-      "ask": 21,
+      "ask": 18,
       "function": "Sales",
       "item": "Sales org, territory assignment and vacancies",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -5306,7 +5306,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 43,
+      "ask": 44,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "Copy of Market Share. NXSTL",
@@ -5324,7 +5324,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 44,
+      "ask": 48,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "Nexa Steel_Sales Analysis Report_Oct'26 (FY 26-27)",
@@ -5333,7 +5333,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 43,
+      "ask": 55,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "Copy of Nexa Steel Competitor Analysis.",
@@ -5342,7 +5342,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 48,
+      "ask": 56,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "Copy of Competitors Analysis",
@@ -5351,7 +5351,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 57,
+      "ask": 59,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "Copy of Nexa Steel - Dealer Share-of-Wallet (FY26-27)",
@@ -5360,7 +5360,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 47,
+      "ask": 49,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "Copy of Nexa Steel - 7P Assessment (FY26-27)",
@@ -5369,7 +5369,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 49,
+      "ask": 61,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "Copy of Marketing Analysis",
@@ -5378,7 +5378,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 50,
+      "ask": 61,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
@@ -5387,7 +5387,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 49,
+      "ask": 56,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
@@ -5405,7 +5405,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 58,
+      "ask": 57,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
@@ -5414,7 +5414,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 65,
+      "ask": 55,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
@@ -5423,7 +5423,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 67,
+      "ask": 53,
       "function": "Marketing",
       "item": "Regional macro & disruption events",
       "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
@@ -5432,7 +5432,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 68,
+      "ask": 66,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
@@ -5441,7 +5441,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 69,
+      "ask": 62,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
@@ -5450,7 +5450,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 72,
+      "ask": 69,
       "function": "Marketing",
       "item": "Regional demand pipeline (govt / private projects)",
       "label": "Copy of Nexa Steel - Market & Competitive Intelligence",
@@ -5459,7 +5459,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 63,
+      "ask": 70,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -5471,10 +5471,10 @@
    {
     "sbu": "Nexa Telecom",
     "asks": 50,
-    "linked": 18,
+    "linked": 16,
     "rows": [
      {
-      "ask": 17,
+      "ask": 19,
       "function": "Sales",
       "item": "Sales KPI — target vs actual by person",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -5482,7 +5482,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 49,
+      "ask": 43,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "Market size by region — Q4 FY26 and Q1 FY27",
@@ -5491,7 +5491,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 42,
+      "ask": 39,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "Competitor volume by region — Q4 and Q1",
@@ -5500,7 +5500,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 51,
+      "ask": 48,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "Own volume by region ",
@@ -5509,7 +5509,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 46,
+      "ask": 43,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "com price list",
@@ -5518,7 +5518,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 52,
+      "ask": 46,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "Competitor offers and credit terms ",
@@ -5527,7 +5527,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 44,
+      "ask": 51,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "Not more then 15% because we have so many quality issues of our previous product stock",
@@ -5535,7 +5535,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 55,
+      "ask": 54,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "Nexa Telecom 7P assessment",
@@ -5544,7 +5544,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 58,
+      "ask": 47,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "As we are stoppping our previous product lline and will start with product of our own brand enover we didnt spend ",
@@ -5561,7 +5561,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 61,
+      "ask": 54,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "Competitor capacity / new entrants",
@@ -5570,7 +5570,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 50,
+      "ask": 47,
       "function": "Marketing",
       "item": "Lost dealer → competitor mapping",
       "label": "we are connecting with more dealers now then before",
@@ -5578,7 +5578,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 57,
+      "ask": 52,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "Competitor promotion & launches",
@@ -5587,7 +5587,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 60,
+      "ask": 62,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "Competitor service levels",
@@ -5596,7 +5596,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 63,
+      "ask": 58,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "(our sales is increasing now)",
@@ -5604,7 +5604,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 66,
+      "ask": 61,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": " Income Tax",
@@ -5613,7 +5613,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 65,
+      "ask": 67,
       "function": "Marketing",
       "item": "Regional demand pipeline (govt / private projects)",
       "label": "Regional demand opportunity map",
@@ -5622,7 +5622,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 67,
+      "ask": 57,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -5633,11 +5633,11 @@
    },
    {
     "sbu": "Nexa Electronics",
-    "asks": 53,
-    "linked": 15,
+    "asks": 67,
+    "linked": 13,
     "rows": [
      {
-      "ask": 15,
+      "ask": 19,
       "function": "Sales",
       "item": "Sales KPI — target vs actual by person",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -5645,7 +5645,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 50,
+      "ask": 49,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5654,7 +5654,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 41,
+      "ask": 46,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5663,7 +5663,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 52,
+      "ask": 47,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5672,7 +5672,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 44,
+      "ask": 55,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5681,7 +5681,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 60,
+      "ask": 59,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5690,7 +5690,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 56,
+      "ask": 46,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5699,7 +5699,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 61,
+      "ask": 52,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5708,7 +5708,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 64,
+      "ask": 50,
       "function": "Marketing",
       "item": "Lost Customer → competitor mapping",
       "label": "PORTAL doesn't have dealer channel yet ",
@@ -5725,7 +5725,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 61,
+      "ask": 54,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5734,7 +5734,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 54,
+      "ask": 68,
       "function": "Marketing",
       "item": "Regional macro & disruption events",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5743,7 +5743,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 60,
+      "ask": 66,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5752,7 +5752,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 60,
+      "ask": 55,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "Copy of PORTAL_NXEL_Marketing_Data_v2_Retail.xlsx",
@@ -5761,7 +5761,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 63,
+      "ask": 60,
       "function": "Marketing",
       "item": "Import parity, FX and duty exposure",
       "label": "This data should come from procurement /finance team",
@@ -5769,7 +5769,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 63,
+      "ask": 70,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -5780,11 +5780,11 @@
    },
    {
     "sbu": "Nexa Infotech",
-    "asks": 51,
-    "linked": 13,
+    "asks": 60,
+    "linked": 14,
     "rows": [
      {
-      "ask": 19,
+      "ask": 16,
       "function": "Sales",
       "item": "Sales KPI — target vs actual by person",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -5792,7 +5792,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 38,
+      "ask": 42,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "https://demo.example.com",
@@ -5801,7 +5801,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 44,
+      "ask": 50,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "Data Not Available",
@@ -5809,7 +5809,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 48,
+      "ask": 43,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "https://demo.example.com",
@@ -5818,7 +5818,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 47,
+      "ask": 45,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "Sku wise Data not available",
@@ -5826,7 +5826,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 53,
+      "ask": 41,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "https://demo.example.com",
@@ -5835,7 +5835,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 48,
+      "ask": 56,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "https://demo.example.com",
@@ -5844,7 +5844,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 44,
+      "ask": 53,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "Not Applicable",
@@ -5852,7 +5852,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 58,
+      "ask": 55,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "NXITX operates exclusively as a B2B business and does not have any retail or outlet distribution network.",
@@ -5860,7 +5860,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 53,
+      "ask": 46,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "Not Applicable",
@@ -5868,7 +5868,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 55,
+      "ask": 54,
       "function": "Marketing",
       "item": "Lost dealer → competitor mapping",
       "label": "Not Applicable",
@@ -5876,7 +5876,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 57,
+      "ask": 59,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "https://demo.example.com",
@@ -5885,7 +5885,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 59,
+      "ask": 55,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -5896,11 +5896,11 @@
    },
    {
     "sbu": "Nexa Readymix",
-    "asks": 51,
-    "linked": 17,
+    "asks": 63,
+    "linked": 19,
     "rows": [
      {
-      "ask": 22,
+      "ask": 21,
       "function": "Sales",
       "item": "Sales org, territory assignment and vacancies",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -5917,7 +5917,7 @@
       "access": "drive-public"
      },
      {
-      "ask": 40,
+      "ask": 44,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "https://demo.example.com",
@@ -5926,7 +5926,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 50,
+      "ask": 41,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "https://demo.example.com",
@@ -5935,7 +5935,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 40,
+      "ask": 48,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "https://demo.example.com",
@@ -5944,7 +5944,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 43,
+      "ask": 41,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "https://demo.example.com",
@@ -5953,7 +5953,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 42,
+      "ask": 50,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "https://demo.example.com",
@@ -5962,7 +5962,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 47,
+      "ask": 54,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "https://demo.example.com",
@@ -5971,7 +5971,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 59,
+      "ask": 46,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "https://demo.example.com",
@@ -5980,7 +5980,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 51,
+      "ask": 56,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "https://demo.example.com",
@@ -5989,7 +5989,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 45,
+      "ask": 58,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "https://demo.example.com",
@@ -5998,7 +5998,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 57,
+      "ask": 59,
       "function": "Marketing",
       "item": "Lost dealer → competitor mapping",
       "label": "https://demo.example.com",
@@ -6007,7 +6007,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 62,
+      "ask": 50,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "https://demo.example.com",
@@ -6016,7 +6016,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 54,
+      "ask": 56,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "https://demo.example.com",
@@ -6034,7 +6034,7 @@
       "access": "doc-public"
      },
      {
-      "ask": 51,
+      "ask": 59,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "https://demo.example.com",
@@ -6043,7 +6043,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 57,
+      "ask": 60,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "https://demo.example.com",
@@ -6061,7 +6061,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 66,
+      "ask": 61,
       "function": "Marketing",
       "item": "Import parity, FX and duty exposure",
       "label": "https://demo.example.com",
@@ -6070,7 +6070,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 65,
+      "ask": 61,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -6081,8 +6081,8 @@
    },
    {
     "sbu": "Nexa Commodities",
-    "asks": 69,
-    "linked": 19,
+    "asks": 64,
+    "linked": 21,
     "rows": [
      {
       "ask": 18,
@@ -6093,7 +6093,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 49,
+      "ask": 50,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6102,7 +6102,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 52,
+      "ask": 45,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6111,7 +6111,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 44,
+      "ask": 52,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6120,7 +6120,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 45,
+      "ask": 43,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6129,7 +6129,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 47,
+      "ask": 48,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6138,7 +6138,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 59,
+      "ask": 56,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6156,7 +6156,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 57,
+      "ask": 46,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6165,7 +6165,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 47,
+      "ask": 49,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6174,7 +6174,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 60,
+      "ask": 55,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6183,7 +6183,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 50,
+      "ask": 57,
       "function": "Marketing",
       "item": "Lost dealer → competitor mapping",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6192,7 +6192,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 52,
+      "ask": 56,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6201,7 +6201,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 59,
+      "ask": 53,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6210,7 +6210,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 59,
+      "ask": 55,
       "function": "Marketing",
       "item": "Regional macro & disruption events",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6219,7 +6219,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 51,
+      "ask": 69,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6228,7 +6228,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 57,
+      "ask": 56,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6237,7 +6237,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 58,
+      "ask": 68,
       "function": "Marketing",
       "item": "Regional demand pipeline (govt / private projects)",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6246,7 +6246,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 61,
+      "ask": 67,
       "function": "Marketing",
       "item": "Import parity, FX and duty exposure",
       "label": "NXCBX F&B — Market Intelligence & Competitive Tracker | Q4 FY26 vs Q1 FY27",
@@ -6255,7 +6255,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 69,
+      "ask": 65,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -6272,11 +6272,11 @@
    },
    {
     "sbu": "Nexa Logistics",
-    "asks": 69,
-    "linked": 17,
+    "asks": 65,
+    "linked": 18,
     "rows": [
      {
-      "ask": 16,
+      "ask": 20,
       "function": "Sales",
       "item": "Sales KPI — target vs actual by person",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -6284,7 +6284,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 49,
+      "ask": 39,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY24 and Q1 FY25",
       "label": "Copy of Market Size by Region — Q4 FY24 and Q1 FY25",
@@ -6293,7 +6293,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 42,
+      "ask": 47,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "Copy of Competitor volume by region — Q4 and Q1",
@@ -6302,7 +6302,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 54,
+      "ask": 43,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "Copy of Own volume by region — same definition as market size",
@@ -6311,7 +6311,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 50,
+      "ask": 54,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "Copy of Competitor_Price_List_and_Equivalent_SKUs.xlsx",
@@ -6320,7 +6320,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 55,
+      "ask": 49,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "Copy of Competitor_Offers_and_Credit_Terms.xlsx",
@@ -6329,7 +6329,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 46,
+      "ask": 47,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "Copy of Dealer Share Wallet",
@@ -6338,7 +6338,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 46,
+      "ask": 58,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "Copy of 7P_Assessment_Marketing_Q4_vs_Q1_Competitors.xlsx",
@@ -6347,7 +6347,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 59,
+      "ask": 46,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "Copy of Nexa_Logistics_Promotion_Trade_Spend_GL4210001.xlsx",
@@ -6356,7 +6356,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 56,
+      "ask": 50,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "Copy of Retail Outlet ",
@@ -6365,7 +6365,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 48,
+      "ask": 55,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "Copy of Competitor capacity / new entrants",
@@ -6374,7 +6374,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 53,
+      "ask": 50,
       "function": "Marketing",
       "item": "Lost Customer",
       "label": "Copy of List of Lost Customer",
@@ -6383,7 +6383,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 53,
+      "ask": 51,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "hCopy of Competitor promotion & launches",
@@ -6392,7 +6392,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 59,
+      "ask": 63,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "Copy of Competitor Service-Level Benchmark",
@@ -6401,7 +6401,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 54,
+      "ask": 57,
       "function": "Marketing",
       "item": "Regional macro & disruption events",
       "label": "Copy of Regional Macro & Disruption",
@@ -6410,7 +6410,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 54,
+      "ask": 52,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "Copy of Seasonality Pattern",
@@ -6419,7 +6419,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 62,
+      "ask": 65,
       "function": "Marketing",
       "item": "Regional demand pipeline (govt / private projects)",
       "label": "Copy of Regional Demand Pipeline",
@@ -6428,7 +6428,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 63,
+      "ask": 70,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -6439,11 +6439,11 @@
    },
    {
     "sbu": "Nexa Asphalt",
-    "asks": 54,
+    "asks": 52,
     "linked": 20,
     "rows": [
      {
-      "ask": 21,
+      "ask": 17,
       "function": "Sales",
       "item": "Sales org, territory assignment and vacancies",
       "label": "HR-system — Employee / Position / Transfer modules",
@@ -6451,7 +6451,7 @@
       "kind": "named-file"
      },
      {
-      "ask": 45,
+      "ask": 43,
       "function": "Marketing",
       "item": "Market size by region — Q4 FY26 and Q1 FY27",
       "label": "Copy of NXASP 44 · Market size by region.xlsx",
@@ -6460,7 +6460,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 40,
+      "ask": 49,
       "function": "Marketing",
       "item": "Competitor volume by region — Q4 and Q1",
       "label": "Copy of NXASP 45 · Competitor volume by region.xlsx",
@@ -6469,7 +6469,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 46,
+      "ask": 43,
       "function": "Marketing",
       "item": "Own volume by region — same definition as market size",
       "label": "Copy of NXASP 46 · Own volume by region.xlsx",
@@ -6478,7 +6478,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 45,
+      "ask": 47,
       "function": "Marketing",
       "item": "Competitor price list (equivalent SKUs, change dates)",
       "label": "Copy of NXASP 47 · Competitor price list.xlsx",
@@ -6487,7 +6487,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 48,
+      "ask": 47,
       "function": "Marketing",
       "item": "Competitor offers & credit terms (scheme, discount, credit days)",
       "label": "Copy of NXASP 48 · Competitor offers & credit terms.xlsx",
@@ -6496,7 +6496,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 49,
+      "ask": 44,
       "function": "Marketing",
       "item": "Dealer share-of-wallet (their total category purchase vs ours)",
       "label": "Copy of NXASP 49 · Dealer share-of-wallet.xlsx",
@@ -6505,7 +6505,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 53,
+      "ask": 48,
       "function": "Marketing",
       "item": "7P assessment — own Q4 vs Q1 vs competitors (1–5 with evidence)",
       "label": "Copy of NXASP 50 · 7P assessment.xlsx",
@@ -6514,7 +6514,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 53,
+      "ask": 51,
       "function": "Marketing",
       "item": "Promotion / trade spend by region",
       "label": "Copy of NXASP 51 · Promotion _ trade spend.xlsx",
@@ -6523,7 +6523,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 53,
+      "ask": 49,
       "function": "Marketing",
       "item": "Retail / outlet distribution",
       "label": "Copy of NXASP 52 · Retail _ outlet distribution.xlsx",
@@ -6532,7 +6532,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 51,
+      "ask": 49,
       "function": "Marketing",
       "item": "Competitor capacity / new entrants",
       "label": "Copy of NXASP 53 · Competitor capacity _ new entrants.xlsx",
@@ -6541,7 +6541,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 58,
+      "ask": 53,
       "function": "Marketing",
       "item": "Lost dealer → competitor mapping",
       "label": "Copy of NXASP 54 · Lost dealer → competitor mapping.xlsx",
@@ -6550,7 +6550,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 62,
+      "ask": 65,
       "function": "Marketing",
       "item": "Competitor promotion & launches",
       "label": "Copy of NXASP 55 · Competitor promotion & launches.xlsx",
@@ -6559,7 +6559,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 58,
+      "ask": 57,
       "function": "Marketing",
       "item": "Competitor service levels",
       "label": "Copy of NXASP 56 · Competitor service levels.xlsx",
@@ -6577,7 +6577,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 58,
+      "ask": 54,
       "function": "Marketing",
       "item": "Seasonality pattern",
       "label": "Copy of NXASP 58 · Seasonality pattern.xlsx",
@@ -6586,7 +6586,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 66,
+      "ask": 55,
       "function": "Marketing",
       "item": "Regulatory / tax changes",
       "label": "Copy of NXASP 59 · Regulatory _ tax changes.xlsx",
@@ -6595,7 +6595,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 61,
+      "ask": 67,
       "function": "Marketing",
       "item": "Import parity, FX and duty exposure",
       "label": "Copy of NXASP 60 · Import parity, FX and duty exposure.xlsx",
@@ -6604,7 +6604,7 @@
       "access": "sheet-public"
      },
      {
-      "ask": 61,
+      "ask": 55,
       "function": "HR",
       "item": "Sales team attrition, transfers and vacancy days",
       "label": "HR-system — attrition / transfer / vacancy reports",
@@ -6620,8 +6620,8 @@
   "name": "Nexa Logistics",
   "own_period": "FY26 shipment register",
   "market_period": "Q1 FY25 (USD m) — latest available in the file",
-  "own_total_cbm": 3059.9,
-  "market_total_usd_m": 23831,
+  "own_total_cbm": 2986.2,
+  "market_total_usd_m": 24695,
   "unmapped_destinations": [
    {
     "destination": "",
@@ -6641,8 +6641,8 @@
     "lane": "Africa",
     "own_cbm": 3,
     "own_share_pct": 0.2,
-    "market_usd_m": 712,
-    "market_share_pct": 3,
+    "market_usd_m": 817,
+    "market_share_pct": 4,
     "index": 0.04,
     "shipments": 2
    },
@@ -6650,80 +6650,80 @@
     "lane": "Central Asia",
     "own_cbm": 0,
     "own_share_pct": 0,
-    "market_usd_m": 135,
+    "market_usd_m": 139,
     "market_share_pct": 0.8,
     "index": 0,
     "shipments": 0
    },
    {
     "lane": "East Asia",
-    "own_cbm": 64,
+    "own_cbm": 52,
     "own_share_pct": 2,
-    "market_usd_m": 3561,
+    "market_usd_m": 4109,
     "market_share_pct": 20,
     "index": 0.16,
-    "shipments": 9
+    "shipments": 10
    },
    {
     "lane": "Europe",
-    "own_cbm": 1406.9,
-    "own_share_pct": 61,
-    "market_usd_m": 6716,
-    "market_share_pct": 26,
+    "own_cbm": 1360.1,
+    "own_share_pct": 67,
+    "market_usd_m": 5715,
+    "market_share_pct": 21,
     "index": 2.32,
-    "shipments": 91
+    "shipments": 114
    },
    {
     "lane": "Middle East",
-    "own_cbm": 30,
-    "own_share_pct": 1.4,
-    "market_usd_m": 1988,
-    "market_share_pct": 10,
+    "own_cbm": 29,
+    "own_share_pct": 1.5,
+    "market_usd_m": 2226,
+    "market_share_pct": 11,
     "index": 0.13,
-    "shipments": 6
+    "shipments": 4
    },
    {
     "lane": "North America",
-    "own_cbm": 351.5,
-    "own_share_pct": 10.9,
-    "market_usd_m": 3959,
-    "market_share_pct": 15.0,
+    "own_cbm": 419.0,
+    "own_share_pct": 11.5,
+    "market_usd_m": 4274,
+    "market_share_pct": 16.2,
     "index": 0.88,
-    "shipments": 45
+    "shipments": 46
    },
    {
     "lane": "Oceania",
     "own_cbm": 0,
     "own_share_pct": 0,
-    "market_usd_m": 130,
-    "market_share_pct": 0.5,
+    "market_usd_m": 126,
+    "market_share_pct": 0.4,
     "index": 0,
     "shipments": 0
    },
    {
     "lane": "South America",
-    "own_cbm": 151.9,
+    "own_cbm": 182.3,
     "own_share_pct": 10,
-    "market_usd_m": 1183,
-    "market_share_pct": 6.3,
+    "market_usd_m": 1242,
+    "market_share_pct": 6.0,
     "index": 1.51,
     "shipments": 14
    },
    {
     "lane": "South Asia",
-    "own_cbm": 429.7,
-    "own_share_pct": 20.3,
-    "market_usd_m": 2935,
-    "market_share_pct": 11.8,
+    "own_cbm": 447.3,
+    "own_share_pct": 20.9,
+    "market_usd_m": 2990,
+    "market_share_pct": 10.0,
     "index": 2.08,
-    "shipments": 23
+    "shipments": 20
    },
    {
     "lane": "Southeast Asia",
-    "own_cbm": 41.8,
-    "own_share_pct": 1.6,
-    "market_usd_m": 2014,
-    "market_share_pct": 10.1,
+    "own_cbm": 34.2,
+    "own_share_pct": 1.8,
+    "market_usd_m": 1653,
+    "market_share_pct": 10.2,
     "index": 0.16,
     "shipments": 3
    }
@@ -7001,39 +7001,39 @@
  "people": [
   {
    "sbu": "NXESS",
-   "headcount": 828,
-   "monthly_ctc_cr": 3.11,
-   "ctc_pct_revenue": 2.25,
-   "period_np_cr": -9.49,
+   "headcount": 841,
+   "monthly_ctc_cr": 3.16,
+   "ctc_pct_revenue": 2.32,
+   "period_np_cr": -8.46,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXSTL",
-   "headcount": 625,
-   "monthly_ctc_cr": 3.57,
-   "ctc_pct_revenue": 3.45,
-   "period_np_cr": 6.08,
+   "headcount": 802,
+   "monthly_ctc_cr": 2.86,
+   "ctc_pct_revenue": 4.21,
+   "period_np_cr": 5.7,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXRMC",
-   "headcount": 728,
+   "headcount": 861,
    "monthly_ctc_cr": 1.3,
-   "ctc_pct_revenue": 6,
-   "period_np_cr": -3.6,
+   "ctc_pct_revenue": 7,
+   "period_np_cr": -3.0,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXMDX",
-   "headcount": 60,
-   "monthly_ctc_cr": 0.15,
-   "ctc_pct_revenue": 151.59,
-   "period_np_cr": -0.8,
+   "headcount": 70,
+   "monthly_ctc_cr": 0.18,
+   "ctc_pct_revenue": 153.48,
+   "period_np_cr": -0.7,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXCBX",
-   "headcount": 23,
+   "headcount": 27,
    "monthly_ctc_cr": 0.2,
    "ctc_pct_revenue": 1.3,
    "period_np_cr": -0.2,
@@ -7041,33 +7041,33 @@
   },
   {
    "sbu": "NXPH",
-   "headcount": 303,
-   "monthly_ctc_cr": 0.73,
-   "ctc_pct_revenue": 12.90,
-   "period_np_cr": -0.96,
+   "headcount": 242,
+   "monthly_ctc_cr": 0.78,
+   "ctc_pct_revenue": 12.76,
+   "period_np_cr": -0.93,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXASP",
-   "headcount": 166,
-   "monthly_ctc_cr": 0.57,
-   "ctc_pct_revenue": 11.1,
-   "period_np_cr": -0.36,
+   "headcount": 134,
+   "monthly_ctc_cr": 0.66,
+   "ctc_pct_revenue": 10.0,
+   "period_np_cr": -0.34,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXTEL",
-   "headcount": 29,
+   "headcount": 23,
    "monthly_ctc_cr": 0.18,
-   "ctc_pct_revenue": 16.91,
+   "ctc_pct_revenue": 16.81,
    "period_np_cr": -0.63,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXJOB",
    "headcount": 27,
-   "monthly_ctc_cr": 0.16,
-   "ctc_pct_revenue": 92.53,
+   "monthly_ctc_cr": 0.19,
+   "ctc_pct_revenue": 92.62,
    "period_np_cr": -0.5,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
@@ -7075,23 +7075,23 @@
    "sbu": "NXITX",
    "headcount": 12,
    "monthly_ctc_cr": 0.13,
-   "ctc_pct_revenue": 7.79,
-   "period_np_cr": -0.34,
+   "ctc_pct_revenue": 7.01,
+   "period_np_cr": -0.4,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXEL",
-   "headcount": 31,
+   "headcount": 35,
    "monthly_ctc_cr": 0.2,
-   "ctc_pct_revenue": 28.3,
-   "period_np_cr": -0.28,
+   "ctc_pct_revenue": 24.5,
+   "period_np_cr": -0.3,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   },
   {
    "sbu": "NXLOG",
-   "headcount": 55,
-   "monthly_ctc_cr": 0.59,
-   "ctc_pct_revenue": 3.90,
+   "headcount": 63,
+   "monthly_ctc_cr": 0.61,
+   "ctc_pct_revenue": 3.83,
    "period_np_cr": -0.08,
    "source": "HR-system payroll via payroll bridge · SBU summary"
   }
@@ -7101,7 +7101,7 @@
    "sbu": "NXLOG",
    "p": "Product",
    "own_q4": 3,
-   "own": 3.7,
+   "own": 4.5,
    "comp": "4.72 (Meris/Kuehne-X/DSV)",
    "note": "Direct consol boxes to Hamburg/Felixstowe; air charter expanded.",
    "status": "evidence"
@@ -7110,7 +7110,7 @@
    "sbu": "NXLOG",
    "p": "Price",
    "own_q4": 4,
-   "own": 2.95,
+   "own": 2.91,
    "comp": "3.68 (Meris/Kuehne-X/DSV)",
    "note": "Competitive spot rates; 45-60d credit to AAA exporters.",
    "status": "evidence"
@@ -7118,7 +7118,7 @@
   {
    "sbu": "NXLOG",
    "p": "Place",
-   "own_q4": 3.34,
+   "own_q4": 3.1,
    "own": 4.4,
    "comp": "5.30 (Meris/Kuehne-X/DSV)",
    "note": "Direct MSC/CMA CGM contracts; roll-over 7%→2.3%.",
@@ -7127,8 +7127,8 @@
   {
    "sbu": "NXLOG",
    "p": "Promotion",
-   "own_q4": 3.39,
-   "own": 3.51,
+   "own_q4": 3.45,
+   "own": 2.73,
    "comp": "4.59 (Meris/Kuehne-X/DSV)",
    "note": "Excluded from Walmart/Inditex nomination — the key gap.",
    "status": "evidence"
@@ -7136,8 +7136,8 @@
   {
    "sbu": "NXLOG",
    "p": "People",
-   "own_q4": 2.80,
-   "own": 2.84,
+   "own_q4": 2.99,
+   "own": 3.46,
    "comp": "3.13 (Meris/Kuehne-X/DSV)",
    "note": "SPOC, <1hr response; strong RMG relationships.",
    "status": "evidence"
@@ -7155,7 +7155,7 @@
    "sbu": "NXLOG",
    "p": "Physical evidence",
    "own_q4": 3,
-   "own": 3.91,
+   "own": 3.46,
    "comp": "5.30 (Meris/Kuehne-X/DSV)",
    "note": "Basic tracking portal; ISO 7571 / BAFFA / FIATA.",
    "status": "evidence"
@@ -7331,7 +7331,7 @@
   {
    "sbu": "NXESS",
    "p": "Product",
-   "own_q4": 4,
+   "own_q4": 5,
    "own": 5,
    "comp": "Rokhoni 5 · Frestho 4 · Tear 5 · Prottoy 3 · Axiom 4",
    "note": "Marketing 7P file (item 50).",
@@ -7376,8 +7376,8 @@
   {
    "sbu": "NXESS",
    "p": "Process",
-   "own_q4": 5,
-   "own": 4,
+   "own_q4": 6,
+   "own": 5,
    "comp": "Rokhoni 4 · Frestho 4 · Tear 4 · Prottoy 4 · Axiom 4",
    "note": "Marketing 7P file (item 50).",
    "status": "evidence"
@@ -7457,8 +7457,8 @@
   {
    "sbu": "NXSTL",
    "p": "Weighted score (out of 5)",
-   "own_q4": 2.15,
-   "own": 3.62,
+   "own_q4": 2.19,
+   "own": 3.86,
    "comp": "Boral Steel 4.81 · AKS 4.16 · Kamal Steel 3.03 · Gopal 3.46",
    "note": "Widest gaps vs Boral Steel: place, physical evidence, process.",
    "status": "evidence"
@@ -7470,14 +7470,14 @@
     "sbu": "NXCMT",
     "name": "NXCMT",
     "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
-    "median_growth": 31.5,
+    "median_growth": 26.1,
     "products": [
      {
       "product": "Cement",
       "market_cr": null,
-      "market_qty": 37685321,
-      "own_share_pct": 6.18,
-      "growth_pct": 28.6,
+      "market_qty": 45707974,
+      "own_share_pct": 5.04,
+      "growth_pct": 29.6,
       "quadrant": "Star"
      }
     ],
@@ -7487,14 +7487,14 @@
     "sbu": "NXSTL",
     "name": "NXSTL",
     "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
-    "median_growth": 33.1,
+    "median_growth": 28.0,
     "products": [
      {
       "product": "Steel (MT)",
       "market_cr": null,
-      "market_qty": 5599580,
-      "own_share_pct": 3.6,
-      "growth_pct": 34.9,
+      "market_qty": 4295225,
+      "own_share_pct": 3.9,
+      "growth_pct": 34.8,
       "quadrant": "Question mark"
      }
     ],
@@ -7504,78 +7504,78 @@
     "sbu": "NXESS",
     "name": "NXESS",
     "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
-    "median_growth": 96,
+    "median_growth": 107,
     "products": [
      {
       "product": "Rice ( Table Consumer)",
       "market_cr": null,
-      "market_qty": 26985,
-      "own_share_pct": 21.92,
-      "growth_pct": -9.8,
+      "market_qty": 31096,
+      "own_share_pct": 21.14,
+      "growth_pct": -10.5,
       "quadrant": "Cash cow"
      },
      {
       "product": "Flour (Consumer)",
       "market_cr": null,
-      "market_qty": 632458,
-      "own_share_pct": 5.75,
-      "growth_pct": 341.9,
+      "market_qty": 546600,
+      "own_share_pct": 6.05,
+      "growth_pct": 342.0,
       "quadrant": "Star"
      },
      {
       "product": "M. Oil",
       "market_cr": null,
-      "market_qty": 23627,
-      "own_share_pct": 6.3,
-      "growth_pct": 98.4,
+      "market_qty": 23104,
+      "own_share_pct": 7.7,
+      "growth_pct": 113.1,
       "quadrant": "Star"
      },
      {
       "product": "Rice (Aromatic Consumer)",
       "market_cr": null,
-      "market_qty": 77864,
-      "own_share_pct": 4.42,
-      "growth_pct": -13,
+      "market_qty": 75947,
+      "own_share_pct": 4.75,
+      "growth_pct": -10,
       "quadrant": "Dog"
      },
      {
       "product": "Flour (Bulk)",
       "market_cr": null,
-      "market_qty": 3252764,
-      "own_share_pct": 3.16,
-      "growth_pct": 103.2,
+      "market_qty": 3258884,
+      "own_share_pct": 3.39,
+      "growth_pct": 97.8,
       "quadrant": "Question mark"
      },
      {
       "product": "Salt",
       "market_cr": null,
-      "market_qty": 874944,
-      "own_share_pct": 0.79,
-      "growth_pct": 121.3,
+      "market_qty": 872941,
+      "own_share_pct": 0.9,
+      "growth_pct": 99.0,
       "quadrant": "Question mark"
      },
      {
       "product": "Puffed Rice",
       "market_cr": null,
-      "market_qty": 39682,
-      "own_share_pct": 0.24,
-      "growth_pct": 427.9,
+      "market_qty": 43630,
+      "own_share_pct": 0.22,
+      "growth_pct": 377.0,
       "quadrant": "Question mark"
      },
      {
       "product": "Rice (Bulk)",
       "market_cr": null,
-      "market_qty": 19539251,
-      "own_share_pct": 0.15,
-      "growth_pct": -39,
+      "market_qty": 16735160,
+      "own_share_pct": 0.12,
+      "growth_pct": -41,
       "quadrant": "Dog"
      },
      {
       "product": "Semai",
       "market_cr": null,
-      "market_qty": 34717,
+      "market_qty": 31947,
       "own_share_pct": 0.1,
-      "growth_pct": 88,
+      "growth_pct": 82,
       "quadrant": "Dog"
      }
     ],
@@ -7585,30 +7585,30 @@
     "sbu": "NXAGF",
     "name": "NXAGF",
     "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
-    "median_growth": 432.3,
+    "median_growth": 451.8,
     "products": [
      {
       "product": "Cattle",
       "market_cr": null,
-      "market_qty": 694389,
-      "own_share_pct": 3.21,
-      "growth_pct": 412,
+      "market_qty": 920576,
+      "own_share_pct": 2.94,
+      "growth_pct": 358,
       "quadrant": "Dog"
      },
      {
       "product": "Poultry",
       "market_cr": null,
-      "market_qty": 3736865,
-      "own_share_pct": 2.37,
-      "growth_pct": 323.9,
+      "market_qty": 3907074,
+      "own_share_pct": 2.04,
+      "growth_pct": 327.7,
       "quadrant": "Question mark"
      },
      {
       "product": "Aquaculture",
       "market_cr": null,
-      "market_qty": 1393180,
-      "own_share_pct": 1.85,
-      "growth_pct": 604,
+      "market_qty": 1608919,
+      "own_share_pct": 1.65,
+      "growth_pct": 593,
       "quadrant": "Question mark"
      }
     ],
@@ -7618,14 +7618,14 @@
     "sbu": "NXASP",
     "name": "NXASP",
     "basis": "Product market-share file — our volume 2024-25 vs 2025-26 against market size",
-    "median_growth": -22.5,
+    "median_growth": -18.1,
     "products": [
      {
       "product": "Lube Oil",
       "market_cr": null,
-      "market_qty": 135558,
+      "market_qty": 124369,
       "own_share_pct": 0.24,
-      "growth_pct": -20.8,
+      "growth_pct": -19.8,
       "quadrant": "Question mark"
      }
     ],
@@ -7639,9 +7639,9 @@
    "tab": "Nexa Cement Company Ltd.",
    "custodian": "Tanvir Hosen",
    "audit_date": "28/09/2026",
-   "questions": 40,
+   "questions": 36,
    "yes": 15,
-   "score_pct": 62.7,
+   "score_pct": 54.7,
    "source": "Brand Maturity Audit workbook · 28-Sep-2026"
   },
   {
@@ -7649,9 +7649,9 @@
    "tab": "Nexa Steel",
    "custodian": "Nayeem Arefeen",
    "audit_date": "28/09/2026",
-   "questions": 39,
+   "questions": 37,
    "yes": 17,
-   "score_pct": 58.7,
+   "score_pct": 56.4,
    "source": "Brand Maturity Audit workbook · 28-Sep-2026"
   },
   {
@@ -7659,9 +7659,9 @@
    "tab": "Nexa Essentials LTD",
    "custodian": "Mosharraf Hosen",
    "audit_date": "28/09/2026",
-   "questions": 40,
-   "yes": 25,
-   "score_pct": 63,
+   "questions": 33,
+   "yes": 23,
+   "score_pct": 62,
    "source": "Brand Maturity Audit workbook · 28-Sep-2026"
   },
   {
@@ -7669,9 +7669,9 @@
    "tab": "Nexa Electronics Limit",
    "custodian": "Saad Rahman",
    "audit_date": "28/09/2026",
-   "questions": 38,
-   "yes": 20,
-   "score_pct": 54.6,
+   "questions": 33,
+   "yes": 21,
+   "score_pct": 61.3,
    "source": "Brand Maturity Audit workbook · 28-Sep-2026"
   },
   {
@@ -7679,9 +7679,9 @@
    "tab": "Nexa Readymix Concrete",
    "custodian": "Nurul Karim",
    "audit_date": "28/09/2026",
-   "questions": 39,
-   "yes": 20,
-   "score_pct": 68.2,
+   "questions": 34,
+   "yes": 18,
+   "score_pct": 66.4,
    "source": "Brand Maturity Audit workbook · 28-Sep-2026"
   },
   {
@@ -7689,9 +7689,9 @@
    "tab": "Nexa Care Pharmacy",
    "custodian": "Fahima Haque",
    "audit_date": "28/09/2026",
-   "questions": 31,
+   "questions": 35,
    "yes": 13,
-   "score_pct": 44,
+   "score_pct": 37,
    "source": "Brand Maturity Audit workbook · 28-Sep-2026"
   },
   {
@@ -7699,9 +7699,9 @@
    "tab": "Nexa Mediplex",
    "custodian": "Arif Das",
    "audit_date": "28/09/2026",
-   "questions": 39,
-   "yes": 14,
-   "score_pct": 49.6,
+   "questions": 35,
+   "yes": 16,
+   "score_pct": 50.1,
    "source": "Brand Maturity Audit workbook · 28-Sep-2026"
   },
   {
@@ -7709,9 +7709,9 @@
    "tab": "NXASP - Lubricants",
    "custodian": "Jubayer Ali",
    "audit_date": "28/09/2026",
-   "questions": 40,
-   "yes": 16,
-   "score_pct": 47.9,
+   "questions": 39,
+   "yes": 17,
+   "score_pct": 44.6,
    "source": "Brand Maturity Audit workbook · 28-Sep-2026"
   }
  ],
@@ -7901,7 +7901,7 @@
   {
    "sbu": "NXCMT",
    "name": "Nexa Cement",
-   "ours": 5.22,
+   "ours": 5.61,
    "leader": "Falcon / Moon group",
    "leader_share": null,
    "basis": "Product share file · FY26 volume vs market"
@@ -7917,23 +7917,23 @@
   {
    "sbu": "NXSTL",
    "name": "Nexa Steel",
-   "ours": 4.1,
+   "ours": 3.7,
    "leader": "Boral Steel",
-   "leader_share": 37,
+   "leader_share": 31,
    "basis": "Marketing sheet Mar'26 benchmark (Jul'25 2.2% → Mar'26 4.2%)"
   },
   {
    "sbu": "NXRMC",
    "name": "Nexa Readymix",
-   "ours": 10.3,
+   "ours": 12.0,
    "leader": "Falcon Cement RMC",
-   "leader_share": 22.9,
+   "leader_share": 24.3,
    "basis": "Market benchmark · Sep-26 monthly"
   },
   {
    "sbu": "NXASP",
    "name": "Nexa Asphalt",
-   "ours": 0.24,
+   "ours": 0.19,
    "leader": "Padma Refinery (PRC)",
    "leader_share": null,
    "basis": "Lube oil line only"
@@ -7943,7 +7943,7 @@
    "name": "Nexa Electronics",
    "ours": 0.1,
    "leader": "Telebarsha Digital",
-   "leader_share": 25,
+   "leader_share": 22,
    "basis": "Brand pack · PORTAL <0.1%"
   },
   {
@@ -7999,7 +7999,7 @@
    "name": "Nexa Logistics",
    "ours": null,
    "leader": "Meris Logistics",
-   "leader_share": 9.31,
+   "leader_share": 7.73,
    "basis": "sea-export forwarder share (item 50: Meris 8.66% · Kuehne-X 7.19% · Mega-Haul 6.27%)"
   }
  ],
@@ -8007,116 +8007,116 @@
   "collected_at": "2026-11-01",
   "note": "Own revenue by territory (DB, oms.tblSalesOrderHeader Q4 vs Q1) for the 7 OMS loss SBUs. Territory names from rtm.tblTerritoryInfo. Competitor/market context is national-level from web search.",
   "own_q4_vs_q1": {
-   "total_q4_cr": 976.3,
-   "total_q1_cr": 1214.9,
-   "change_cr": 67.3,
+   "total_q4_cr": 1148.6,
+   "total_q1_cr": 1297.6,
+   "change_cr": 63.1,
    "read": "Overall revenue grew +78.5 Cr Q4→Q1, but 622 dealers churned — sales concentrated into fewer dealers. The drop is at specific territories below."
   },
   "top_lost_regions": [
    {
     "sbu": "Nexa Asphalt",
     "region": "Moazzam (ASPHALT)",
-    "q4": 28.7,
-    "q1": 7,
-    "drop": 28.7
+    "q4": 34.1,
+    "q1": 6,
+    "drop": 24.8
    },
    {
     "sbu": "Nexa Steel",
     "region": "Feroz Ahmad (Corporate)",
-    "q4": 42,
-    "q1": 13,
-    "drop": 23.6
+    "q4": 44,
+    "q1": 15,
+    "drop": 25.4
    },
    {
     "sbu": "Nexa Essentials",
     "region": "Khatunganj",
-    "q4": 76.8,
-    "q1": 67.8,
-    "drop": 26
+    "q4": 70.8,
+    "q1": 59.4,
+    "drop": 24
    },
    {
     "sbu": "Nexa Steel",
     "region": "Munshiganj Sadar",
-    "q4": 17.7,
+    "q4": 16.2,
     "q1": 0.4,
-    "drop": 19
+    "drop": 17
    },
    {
     "sbu": "Nexa Essentials",
     "region": "Tender",
-    "q4": 28.1,
+    "q4": 21.3,
     "q1": 10,
-    "drop": 11.0
+    "drop": 11.9
    },
    {
     "sbu": "Nexa Steel",
     "region": "Shamim Mia (Corporate)",
-    "q4": 19.5,
-    "q1": 12,
-    "drop": 10
+    "q4": 20.2,
+    "q1": 13,
+    "drop": 13
    },
    {
     "sbu": "Nexa Essentials",
     "region": "Jashore Metro",
-    "q4": 9.3,
+    "q4": 9.4,
     "q1": 0,
-    "drop": 11.0
+    "drop": 9.9
    },
    {
     "sbu": "Nexa Steel",
     "region": "Shaiful Alam (Corporate)",
     "q4": 10,
     "q1": 2,
-    "drop": 6.9
+    "drop": 7.9
    },
    {
     "sbu": "Nexa Essentials",
     "region": "Sylhet Metro",
-    "q4": 7,
+    "q4": 6,
     "q1": 0,
-    "drop": 8.4
+    "drop": 7.3
    },
    {
     "sbu": "Nexa Steel",
     "region": "Shaiful Alam (Corporate)",
-    "q4": 10.4,
+    "q4": 8.4,
     "q1": 5,
-    "drop": 6.0
+    "drop": 5.3
    },
    {
     "sbu": "Nexa Steel",
     "region": "Narayanganj-1",
-    "q4": 7.4,
-    "q1": 2.0,
-    "drop": 6.3
+    "q4": 8.8,
+    "q1": 2.3,
+    "drop": 7.4
    },
    {
     "sbu": "Nexa Readymix",
     "region": "NXRMC Project 1 (CSI Chittagong)",
-    "q4": 7,
+    "q4": 6,
     "q1": 0.4,
-    "drop": 6
+    "drop": 7
    },
    {
     "sbu": "Nexa Steel",
     "region": "Noakhali-1",
-    "q4": 19.7,
-    "q1": 12.0,
-    "drop": 5.7
+    "q4": 21.5,
+    "q1": 10.0,
+    "drop": 5.0
    },
    {
     "sbu": "Nexa Commodities",
     "region": "Dhaka South Metro",
-    "q4": 20.8,
-    "q1": 13.5,
-    "drop": 6.1
+    "q4": 18.6,
+    "q1": 12.7,
+    "drop": 5.7
    },
    {
     "sbu": "Nexa Steel",
     "region": "Mirpur",
-    "q4": 4.5,
+    "q4": 4.8,
     "q1": 0,
-    "drop": 5.7
+    "drop": 6.0
    }
   ],
   "market_context": [
@@ -8296,51 +8296,51 @@
      "name": "Chinigura (aromatic rice)",
      "unit": "MT",
      "latest": "May26",
-     "market_size": 3972,
+     "market_size": 4571,
      "ours": "Nexa Essentials",
-     "ours_share": 3.31,
+     "ours_share": 3.43,
      "leader": "Shashonik",
-     "leader_share": 21.75,
+     "leader_share": 24.3,
      "brands": [
       {
        "name": "Shashonik",
-       "share": 22.90,
-       "sales": 1130
+       "share": 22.51,
+       "sales": 936
       },
       {
        "name": "Prottoy",
-       "share": 15.94,
-       "sales": 771
+       "share": 12.84,
+       "sales": 752
       },
       {
        "name": "Rupchando",
-       "share": 11.68,
-       "sales": 607
+       "share": 8.86,
+       "sales": 535
       },
       {
        "name": "Frestho",
-       "share": 9.29,
-       "sales": 494
+       "share": 10.71,
+       "sales": 498
       },
       {
        "name": "Others",
-       "share": 9.3,
-       "sales": 551
+       "share": 8.6,
+       "sales": 437
       },
       {
        "name": "Tear",
-       "share": 5.6,
-       "sales": 306
+       "share": 6.0,
+       "sales": 338
       },
       {
        "name": "Axiom",
-       "share": 4.17,
-       "sales": 323
+       "share": 4.7,
+       "sales": 248
       },
       {
        "name": "Nexa Essentials",
-       "share": 3.68,
-       "sales": 250
+       "share": 3.88,
+       "sales": 237
       }
      ]
     },
@@ -8348,46 +8348,46 @@
      "name": "Table rice",
      "unit": "MT",
      "latest": "May26",
-     "market_size": 1639,
+     "market_size": 1480,
      "ours": "Nexa Essentials",
-     "ours_share": 10,
+     "ours_share": 8,
      "leader": "Axiom",
-     "leader_share": 33,
+     "leader_share": 34,
      "brands": [
       {
        "name": "Axiom",
-       "share": 34,
-       "sales": 463
+       "share": 28,
+       "sales": 571
       },
       {
        "name": "Others",
-       "share": 33,
-       "sales": 417
+       "share": 32,
+       "sales": 493
       },
       {
        "name": "Prottoy",
        "share": 11,
-       "sales": 144
+       "sales": 186
       },
       {
        "name": "Rupchando",
-       "share": 8,
-       "sales": 136
-      },
-      {
-       "name": "Nexa Essentials",
        "share": 9,
        "sales": 165
       },
       {
+       "name": "Nexa Essentials",
+       "share": 8,
+       "sales": 155
+      },
+      {
        "name": "Arif",
        "share": 3,
-       "sales": 50
+       "sales": 44
       },
       {
        "name": "Frestho",
        "share": 3,
-       "sales": 50
+       "sales": 46
       }
      ]
     },
@@ -8395,46 +8395,46 @@
      "name": "Flour / AMS (consumer)",
      "unit": "MT",
      "latest": "Oct26",
-     "market_size": 59038,
+     "market_size": 47432,
      "ours": "Nexa Essentials",
      "ours_share": 4,
      "leader": "Frestho",
-     "leader_share": 17,
+     "leader_share": 19,
      "brands": [
       {
        "name": "Others",
-       "share": 37,
-       "sales": 12858
+       "share": 31,
+       "sales": 11946
       },
       {
        "name": "Frestho",
-       "share": 18,
-       "sales": 9316
+       "share": 19,
+       "sales": 8865
       },
       {
        "name": "Phulki",
-       "share": 17,
-       "sales": 5519
+       "share": 18,
+       "sales": 5827
       },
       {
        "name": "Tear",
-       "share": 14,
-       "sales": 5416
+       "share": 11,
+       "sales": 6442
       },
       {
        "name": "Axiom",
-       "share": 8,
-       "sales": 4403
+       "share": 9,
+       "sales": 4908
       },
       {
        "name": "Sombio",
        "share": 7,
-       "sales": 3111
+       "sales": 3470
       },
       {
        "name": "Nexa Essentials",
        "share": 4,
-       "sales": 1594
+       "sales": 1297
       }
      ]
     },
@@ -8442,46 +8442,46 @@
      "name": "Mustard oil",
      "unit": "MT",
      "latest": "May26",
-     "market_size": 2525,
+     "market_size": 2365,
      "ours": "Nexa Essentials",
-     "ours_share": 1.89,
+     "ours_share": 2.06,
      "leader": "Rokhoni",
-     "leader_share": 26.28,
+     "leader_share": 29.09,
      "brands": [
       {
        "name": "Others",
-       "share": 45.89,
-       "sales": 877
+       "share": 43.4,
+       "sales": 699
       },
       {
        "name": "Rokhoni",
-       "share": 28.47,
-       "sales": 589
+       "share": 31.13,
+       "sales": 738
       },
       {
        "name": "Prottoy",
-       "share": 13.8,
-       "sales": 316
+       "share": 15.9,
+       "sales": 378
       },
       {
        "name": "Frestho",
-       "share": 7.78,
-       "sales": 216
+       "share": 9.7,
+       "sales": 227
       },
       {
        "name": "Tear",
-       "share": 6.20,
-       "sales": 142
+       "share": 5.47,
+       "sales": 145
       },
       {
        "name": "Axiom",
-       "share": 5.6,
-       "sales": 130
+       "share": 4.7,
+       "sales": 107
       },
       {
        "name": "Nexa Essentials",
-       "share": 1.89,
-       "sales": 63
+       "share": 2.27,
+       "sales": 51
       }
      ]
     },
@@ -8489,86 +8489,86 @@
      "name": "Bulk rice",
      "unit": "MT",
      "latest": "Jan26",
-     "market_size": 1463460,
+     "market_size": 1549467,
      "ours": "Nexa Essentials",
-     "ours_share": 0.32,
+     "ours_share": 0.33,
      "leader": "Mozaffar",
-     "leader_share": 0.75,
+     "leader_share": 0.84,
      "brands": [
       {
        "name": "Others",
-       "share": 94.23,
-       "sales": 1137662
+       "share": 87.94,
+       "sales": 1153718
       },
       {
        "name": "Mozaffar",
-       "share": 0.78,
-       "sales": 16002
+       "share": 0.91,
+       "sales": 18948
       },
       {
        "name": "Tear",
        "share": 0.37,
-       "sales": 7237
+       "sales": 6838
       },
       {
        "name": "Kabir",
-       "share": 0.33,
-       "sales": 4698
+       "share": 0.3,
+       "sales": 5424
       },
       {
        "name": "Arif",
-       "share": 0.43,
-       "sales": 6675
+       "share": 0.39,
+       "sales": 5156
       },
       {
        "name": "Manzur",
-       "share": 0.34,
-       "sales": 5071
+       "share": 0.36,
+       "sales": 4974
       },
       {
        "name": "Nexa Essentials",
-       "share": 0.30,
-       "sales": 4614
+       "share": 0.32,
+       "sales": 5459
       },
       {
        "name": "Imran",
        "share": 0.33,
-       "sales": 5088
+       "sales": 4442
       },
       {
        "name": "Frestho",
        "share": 0.3,
-       "sales": 3692
+       "sales": 4546
       },
       {
        "name": "Axiom",
        "share": 0.28,
-       "sales": 3475
+       "sales": 4283
       },
       {
        "name": "Ekushtok",
-       "share": 0.21,
-       "sales": 2941
+       "share": 0.18,
+       "sales": 2601
       },
       {
        "name": "Anil",
-       "share": 0.26,
-       "sales": 3699
+       "share": 0.22,
+       "sales": 3095
       },
       {
        "name": "Phulki",
        "share": 0.1,
-       "sales": 1557
+       "sales": 1529
       },
       {
        "name": "Shagorepi",
        "share": 0.04,
-       "sales": 5286
+       "sales": 6072
       },
       {
        "name": "Mondal",
-       "share": 0.03,
-       "sales": 6213
+       "share": 0.05,
+       "sales": 6735
       }
      ]
     },
@@ -8576,51 +8576,51 @@
      "name": "Flour / AMS (bulk)",
      "unit": "MT",
      "latest": "Oct26",
-     "market_size": 626994,
+     "market_size": 558637,
      "ours": "Nexa Essentials",
      "ours_share": 2,
      "leader": "Phulki",
-     "leader_share": 14,
+     "leader_share": 12,
      "brands": [
       {
        "name": "Others",
-       "share": 46,
-       "sales": 247362
+       "share": 40,
+       "sales": 262562
       },
       {
        "name": "Phulki",
-       "share": 14,
-       "sales": 74329
+       "share": 11,
+       "sales": 79136
       },
       {
        "name": "Tear",
-       "share": 10,
-       "sales": 51544
+       "share": 12,
+       "sales": 42037
       },
       {
        "name": "Frestho",
        "share": 12,
-       "sales": 60752
+       "sales": 52204
       },
       {
        "name": "Kabir",
        "share": 10,
-       "sales": 46887
+       "sales": 51252
       },
       {
        "name": "KDC",
-       "share": 5,
-       "sales": 32747
+       "share": 7,
+       "sales": 36542
       },
       {
        "name": "Sombio",
        "share": 4,
-       "sales": 20804
+       "sales": 17138
       },
       {
        "name": "Nexa Essentials",
        "share": 2,
-       "sales": 6155
+       "sales": 6809
       }
      ]
     }
