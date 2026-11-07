@@ -1,3 +1,5 @@
+![Business Recovery Dashboard](assets/banner.svg)
+
 # NexaGroup SBU Loss Recovery — Diagnostic Dashboard
 
 A zero-dependency, single-file HTML dashboard that turns a diversified group's twelve loss-making
